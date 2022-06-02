@@ -1,0 +1,53 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:29:04.210,regen_dot,Poke-Drill,4.089s,410,164,0.4,164,410,0.4,false
+2,17:29:07.816,regen_dot,Poke-Drill,3.362s,251,90,0.359,90,251,0.359,false
+3,17:29:10.375,regen_dot,Poke-Drill,1.419s,143,77,0.538,77,143,0.538,false
+4,17:29:12.771,regen_dot,Poke-Drill,2.139s,122,64,0.525,64,122,0.525,false
+5,17:29:17.646,regen_dot,Poke-Drill,4.624s,374,126,0.337,126,374,0.337,false
+6,17:29:19.757,regen_dot,Poke-Drill,1.858s,117,61,0.521,61,117,0.521,false
+7,17:29:21.880,regen_dot,Poke-Drill,1.869s,140,75,0.536,75,140,0.536,false
+8,17:29:30.550,regen_dot,Poke-Drill,8.419s,764,273,0.357,273,764,0.357,false
+9,17:29:36.618,regen_dot,Poke-Drill,5.964s,438,165,0.377,165,438,0.377,false
+10,17:29:38.815,regen_dot,Poke-Drill,1.949s,178,93,0.522,93,178,0.522,false
+11,17:29:42.649,regen_dot,Poke-Drill,3.583s,320,131,0.409,131,320,0.409,false
+12,17:29:45.160,regen_dot,Poke-Drill,2.258s,158,77,0.487,77,158,0.487,false
+13,17:29:49.325,regen_dot,Poke-Drill,3.906s,315,113,0.359,113,315,0.359,false
+14,17:29:53.975,regen_dot,Poke-Drill,4.39s,345,139,0.403,139,345,0.403,false
+15,17:29:58.337,regen_dot,Poke-Drill,4.103s,364,137,0.376,137,364,0.376,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4442,1785,1785.0,4442.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,53.931999
+Avg TTK:,0
+Damage Done:,1785.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,15.0
+Scenario:,TamTS Warzone
+Hash:,60aae8a70af86e8feb5be02a6329003d
+Game Version:,2.0.5.2
+Challenge Start:,17:28:58.641
+Pause Count:,5
+Pause Duration:,70
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,292.423065
+Resolution Scale,100.0

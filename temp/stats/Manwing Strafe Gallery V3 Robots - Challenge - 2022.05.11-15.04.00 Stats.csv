@@ -1,0 +1,66 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:03:02.759,Watcher Bot Long Strafes,Manwing,1.258000s,3,2,0.666667,600.000000,1200.000000,0.500000,0
+2,15:03:05.148,Watcher Bot Long Strafes,Manwing,1.536000s,4,2,0.500000,600.000000,1600.000000,0.375000,0
+3,15:03:09.183,Watcher Bot Long Strafes,Manwing,3.347000s,6,4,0.666667,1200.000000,2400.000000,0.500000,0
+4,15:03:09.738,Watcher Bot Long Strafes,Manwing,0.000000s,1,1,1.000000,400.000000,400.000000,1.000000,0
+5,15:03:11.634,Watcher Bot Long Strafes,Manwing,0.445000s,2,2,1.000000,800.000000,800.000000,1.000000,0
+6,15:03:13.093,Watcher Bot Long Strafes,Manwing,0.951000s,3,2,0.666667,800.000000,1200.000000,0.666667,0
+7,15:03:15.634,Watcher Bot Long Strafes,Manwing,1.757000s,4,2,0.500000,800.000000,1600.000000,0.500000,0
+8,15:03:17.863,Watcher Bot Long Strafes,Manwing,1.715000s,4,2,0.500000,800.000000,1600.000000,0.500000,0
+9,15:03:19.717,Watcher Bot Long Strafes,Manwing,1.298000s,3,2,0.666667,800.000000,1200.000000,0.666667,0
+10,15:03:22.871,Watcher Bot Long Strafes,Manwing,1.938000s,4,2,0.500000,800.000000,1600.000000,0.500000,0
+11,15:03:25.225,Watcher Bot Long Strafes,Manwing,1.785000s,5,2,0.400000,600.000000,2000.000000,0.300000,0
+12,15:03:27.988,Watcher Bot Long Strafes,Manwing,2.139000s,5,2,0.400000,800.000000,2000.000000,0.400000,0
+13,15:03:29.920,Watcher Bot Long Strafes,Manwing,1.166000s,3,2,0.666667,600.000000,1200.000000,0.500000,0
+14,15:03:33.100,Watcher Bot Long Strafes,Manwing,2.577000s,6,3,0.500000,800.000000,2400.000000,0.333333,0
+15,15:03:35.275,Watcher Bot Long Strafes,Manwing,1.688000s,4,2,0.500000,600.000000,1600.000000,0.375000,0
+16,15:03:37.205,Watcher Bot Long Strafes,Manwing,1.069000s,2,2,1.000000,800.000000,800.000000,1.000000,0
+17,15:03:38.704,Watcher Bot Long Strafes,Manwing,0.895000s,3,2,0.666667,800.000000,1200.000000,0.666667,0
+18,15:03:40.156,Watcher Bot Long Strafes,Manwing,0.812000s,3,2,0.666667,800.000000,1200.000000,0.666667,0
+19,15:03:46.253,Watcher Bot Long Strafes,Manwing,5.416000s,8,3,0.375000,1000.000000,3200.000000,0.312500,0
+20,15:03:47.246,Watcher Bot Long Strafes,Manwing,0.000000s,1,1,1.000000,200.000000,400.000000,0.500000,0
+21,15:03:50.608,Watcher Bot Long Strafes,Manwing,2.750000s,6,2,0.333333,800.000000,2400.000000,0.333333,0
+22,15:03:53.746,Watcher Bot Long Strafes,Manwing,2.625000s,6,2,0.333333,800.000000,2400.000000,0.333333,0
+23,15:03:55.634,Watcher Bot Long Strafes,Manwing,0.569000s,2,2,1.000000,800.000000,800.000000,1.000000,0
+24,15:03:59.010,Watcher Bot Long Strafes,Manwing,2.264000s,5,3,0.600000,1200.000000,2000.000000,0.600000,0
+25,15:04:00.420,Watcher Bot Long Strafes,Manwing,0.674000s,2,2,1.000000,800.000000,800.000000,1.000000,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,95,53,19000.0,38000.0,
+
+Kills:,25
+Deaths:,0
+Fight Time:,40.674004
+Avg TTK:,2.395986
+Damage Done:,19000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,1
+Distance Traveled:,0.0
+Score:,95000.0
+Scenario:,Manwing Strafe Gallery V3 Robots
+Hash:,d2d81e7e1cb4620856ec143ba80f45fa
+Game Version:,3.0.2
+Challenge Start:,H:M:S.s
+Pause Count:,17
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Quake/Source
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.967163
+Resolution Scale:,100.0

@@ -1,0 +1,85 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:24:44.445,Quaker Bot Long Strafes,M4,1.151s,33,3,0.091,107.1,606.9,0.176,false
+2,15:24:46.141,Quaker Bot Long Strafes,M4,1.222s,35,3,0.086,107.1,642.6,0.167,false
+3,15:24:47.494,Quaker Bot Long Strafes,M4,0.861s,25,3,0.12,107.1,464.1,0.231,false
+4,15:24:48.702,Quaker Bot Long Strafes,M4,0.92s,11,5,0.455,105,214.2,0.49,false
+5,15:24:49.665,Quaker Bot Long Strafes,M4,0.429s,13,5,0.385,105,249.9,0.42,false
+6,15:24:50.812,Quaker Bot Long Strafes,M4,0.356s,11,5,0.455,105,214.2,0.49,false
+7,15:24:51.769,Quaker Bot Long Strafes,M4,0.671s,11,5,0.455,105,214.2,0.49,false
+8,15:24:53.073,Quaker Bot Long Strafes,M4,0.499s,15,5,0.333,119.7,285.6,0.419,false
+9,15:24:54.241,Sprinting Quaker Bot Long Strafes,M4,0.718s,21,5,0.238,134.4,392.7,0.342,false
+10,15:24:56.215,Sprinting Quaker Bot Long Strafes,M4,1.221s,35,6,0.171,128.1,642.6,0.199,false
+11,15:24:57.433,Quaker Bot Long Strafes,M4,0.502s,15,4,0.267,113.4,285.6,0.397,false
+12,15:24:58.695,Quaker Bot Long Strafes,M4,0.975s,23,5,0.217,163.8,428.4,0.382,false
+13,15:24:59.777,Quaker Bot Long Strafes,M4,0.876s,25,2,0.08,56.7,464.1,0.122,false
+14,15:25:00.893,Quaker Bot Long Strafes,M4,0.572s,17,5,0.294,134.4,321.3,0.418,false
+15,15:25:01.999,Quaker Bot Long Strafes,M4,0.36s,11,5,0.455,105,214.2,0.49,false
+16,15:25:03.031,Quaker Bot Long Strafes,M4,0.646s,19,4,0.211,113.4,357,0.318,false
+17,15:25:03.977,Quaker Bot Long Strafes,M4,0.429s,13,3,0.231,107.1,249.9,0.429,false
+18,15:25:05.520,Quaker Bot Long Strafes,M4,1.006s,29,4,0.138,113.4,535.5,0.212,false
+19,15:25:07.283,Quaker Bot Long Strafes,M4,1.077s,31,5,0.161,134.4,571.2,0.235,false
+20,15:25:08.458,Quaker Bot Long Strafes,M4,0.573s,17,4,0.235,113.4,321.3,0.353,false
+21,15:25:09.773,Quaker Bot Long Strafes,M4,0.791s,23,5,0.217,105,428.4,0.245,false
+22,15:25:11.286,Sprinting Quaker Bot Long Strafes,M4,0.788s,23,5,0.217,105,428.4,0.245,false
+23,15:25:12.414,Quaker Bot Long Strafes,M4,0.284s,9,5,0.556,105,178.5,0.588,false
+24,15:25:13.630,Quaker Bot Long Strafes,M4,0.575s,17,5,0.294,119.7,321.3,0.373,false
+25,15:25:14.678,Quaker Bot Long Strafes,M4,0.36s,11,5,0.455,105,214.2,0.49,false
+26,15:25:15.657,Sprinting Quaker Bot Long Strafes,M4,0.431s,13,5,0.385,134.4,249.9,0.538,false
+27,15:25:16.837,Quaker Bot Long Strafes,M4,0.285s,9,5,0.556,105,178.5,0.588,false
+28,15:25:18.221,Sprinting Quaker Bot Long Strafes,M4,0.72s,21,8,0.381,105,392.7,0.267,false
+29,15:25:19.644,Quaker Bot Long Strafes,M4,0.863s,25,5,0.2,105,464.1,0.226,false
+30,15:25:21.796,Quaker Bot Long Strafes,M4,1.905s,39,3,0.077,107.1,714,0.15,false
+31,15:25:23.480,Quaker Bot Long Strafes,M4,1.006s,29,5,0.172,119.7,535.5,0.224,false
+32,15:25:25.690,Sprinting Quaker Bot Long Strafes,M4,1.509s,43,5,0.116,113.4,785.4,0.144,false
+33,15:25:26.981,Quaker Bot Long Strafes,M4,0.428s,13,5,0.385,105,249.9,0.42,false
+34,15:25:27.994,Quaker Bot Long Strafes,M4,0.432s,13,5,0.385,105,249.9,0.42,false
+35,15:25:28.962,Quaker Bot Long Strafes,M4,0.356s,11,5,0.455,105,214.2,0.49,false
+36,15:25:29.913,Quaker Bot Long Strafes,M4,0.284s,9,5,0.556,105,178.5,0.588,false
+37,15:25:31.082,Quaker Bot Long Strafes,M4,0.787s,23,5,0.217,119.7,428.4,0.279,false
+38,15:25:32.335,Quaker Bot Long Strafes,M4,0.646s,19,5,0.263,119.7,357,0.335,false
+39,15:25:33.669,Sprinting Quaker Bot Long Strafes,M4,0.861s,25,5,0.2,105,464.1,0.226,false
+40,15:25:34.865,Quaker Bot Long Strafes,M4,0.956s,13,5,0.385,105,249.9,0.42,false
+41,15:25:36.629,Quaker Bot Long Strafes,M4,1.076s,31,5,0.161,119.7,571.2,0.21,false
+42,15:25:37.787,Quaker Bot Long Strafes,M4,0.644s,19,5,0.263,105,357,0.294,false
+43,15:25:38.910,Quaker Bot Long Strafes,M4,0.431s,13,4,0.308,113.4,249.9,0.454,false
+44,15:25:40.453,Sprinting Quaker Bot Long Strafes,M4,0.646s,19,6,0.316,119.7,357,0.335,false
+45,15:25:41.809,Quaker Bot Long Strafes,M4,0.933s,27,5,0.185,119.7,499.8,0.239,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+M4,919,212,5054.699707,17207.445312,
+
+Kills:,45
+Deaths:,0
+Fight Time:,33.061001
+Avg TTK:,0
+Damage Done:,5054.699707
+Damage Taken:,0.0
+Midairs:,3
+Midaired:,0
+Directs:,7
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,5279.699707
+Scenario:,Modern Warfare Multiplayer PatTargetSwitch
+Hash:,bc596d1ead04dc864e4c438481a10642
+Game Version:,v2.6.3
+Challenge Start:,15:24:42.439
+Pause Count:,7
+Pause Duration:,357
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.9
+Vert Sens:,6.9
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,265.779846
+Resolution Scale,100.0

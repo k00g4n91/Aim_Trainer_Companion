@@ -1,0 +1,90 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:39:11.869,Pigeon,Manwing,1.481s,2,1,0.5,200,800,0.25,false
+2,15:39:12.606,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+3,15:39:14.289,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+4,15:39:26.907,Pigeon,Manwing,11.722s,10,1,0.1,200,4000,0.05,false
+5,15:39:27.654,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+6,15:39:29.717,Pigeon,Manwing,0.572s,2,1,0.5,200,800,0.25,false
+7,15:39:31.081,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+8,15:39:32.236,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+9,15:39:34.043,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+10,15:39:35.522,Pigeon,Manwing,0.859s,2,1,0.5,200,800,0.25,false
+11,15:39:36.528,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+12,15:39:38.693,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+13,15:39:39.750,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+14,15:39:40.708,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+15,15:39:41.989,Pigeon,Manwing,0.585s,2,1,0.5,200,800,0.25,false
+16,15:39:42.947,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+17,15:39:44.127,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+18,15:39:44.783,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+19,15:39:45.384,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+20,15:39:46.157,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+21,15:39:47.014,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+22,15:39:47.520,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+23,15:39:48.406,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+24,15:39:49.013,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+25,15:39:49.962,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+26,15:39:50.992,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+27,15:39:54.066,Pigeon,Manwing,2.492s,3,1,0.333,200,1200,0.167,false
+28,15:39:54.764,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+29,15:39:55.418,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+30,15:39:56.450,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+31,15:39:57.686,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+32,15:39:58.649,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+33,15:39:59.223,Pigeon,Manwing,0.001s,1,1,1,200,400,0.5,false
+34,15:40:00.240,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+35,15:40:00.851,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+36,15:40:01.523,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+37,15:40:02.737,Pigeon,Manwing,0.001s,1,1,1,200,400,0.5,false
+38,15:40:03.539,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+39,15:40:04.332,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+40,15:40:05.213,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+41,15:40:05.858,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+42,15:40:08.718,Pigeon,Manwing,1.504s,3,1,0.333,200,1200,0.167,false
+43,15:40:10.841,Pigeon,Manwing,0.782s,2,1,0.5,200,800,0.25,false
+44,15:40:11.901,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+45,15:40:13.395,Pigeon,Manwing,0.486s,2,1,0.5,200,800,0.25,false
+46,15:40:14.063,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+47,15:40:14.916,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+48,15:40:16.160,Pigeon,Manwing,0.493s,2,1,0.5,200,800,0.25,false
+49,15:40:17.297,Pigeon,Manwing,0s,1,1,1,200,400,0.5,false
+50,15:40:19.470,Pigeon,Manwing,0.982s,2,1,0.5,200,800,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,71,50,10000.0,28400.0,
+
+Kills:,50
+Deaths:,0
+Fight Time:,21.959999
+Avg TTK:,0
+Damage Done:,10000.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,1
+Distance Traveled:,0.0
+Score:,50.0
+Scenario:,Bounce 180 Manwing
+Hash:,b4dddcba514c7e425e59101269124ef3
+Game Version:,v2.6.3
+Challenge Start:,15:39:09.231
+Pause Count:,20
+Pause Duration:,145
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.1
+Vert Sens:,7.1
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,376.380829
+Resolution Scale,100.0

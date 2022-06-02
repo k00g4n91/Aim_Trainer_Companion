@@ -1,0 +1,79 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:01:25.515,RS Target BL,RS Fully-auto,0.798s,17,8,0.471,48,102,0.471,false
+2,19:01:27.030,RS Target BL,RS Fully-auto,0.822s,17,6,0.353,36,102,0.353,false
+3,19:01:28.610,RS Target B,RS Fully-auto,0.912s,19,3,0.158,18,114,0.158,false
+4,19:01:30.086,RS Target TR,RS Fully-auto,0.747s,16,8,0.5,48,96,0.5,false
+5,19:01:31.450,RS Target R,RS Fully-auto,0.698s,15,8,0.533,48,90,0.533,false
+6,19:01:32.838,RS Target TR,RS Fully-auto,0.8s,17,8,0.471,48,102,0.471,false
+7,19:01:34.360,RS Target BL,RS Fully-auto,0.699s,15,8,0.533,48,90,0.533,false
+8,19:01:35.408,RS Target BR,RS Fully-auto,0.646s,14,8,0.571,48,84,0.571,false
+9,19:01:37.122,RS Target BL,RS Fully-auto,1.025s,21,7,0.333,42,126,0.333,false
+10,19:01:38.718,RS Target TL,RS Fully-auto,0.863s,18,7,0.389,42,108,0.389,false
+11,19:01:40.570,RS Target TR,RS Fully-auto,0.815s,17,3,0.176,18,102,0.176,false
+12,19:01:42.067,RS Target BR,RS Fully-auto,0.798s,17,8,0.471,48,102,0.471,false
+13,19:01:43.345,RS Target B,RS Fully-auto,0.597s,13,8,0.615,48,78,0.615,false
+14,19:01:44.514,RS Target R,RS Fully-auto,1.088s,19,7,0.368,42,114,0.368,false
+15,19:01:45.901,RS Target BR,RS Fully-auto,0.812s,17,4,0.235,24,102,0.235,false
+16,19:01:47.442,RS Target BL,RS Fully-auto,1.003s,21,7,0.333,42,126,0.333,false
+17,19:01:48.784,RS Target R,RS Fully-auto,0.699s,15,8,0.533,48,90,0.533,false
+18,19:01:50.088,RS Target TR,RS Fully-auto,0.698s,15,8,0.533,48,90,0.533,false
+19,19:01:51.546,RS Target BR,RS Fully-auto,0.95s,20,8,0.4,48,120,0.4,false
+20,19:01:53.162,RS Target TL,RS Fully-auto,0.797s,17,8,0.471,48,102,0.471,false
+21,19:01:54.380,RS Target TR,RS Fully-auto,0.648s,14,8,0.571,48,84,0.571,false
+22,19:01:56.181,RS Target T,RS Fully-auto,0.862s,18,5,0.278,30,108,0.278,false
+23,19:01:57.655,RS Target B,RS Fully-auto,0.748s,16,8,0.5,48,96,0.5,false
+24,19:01:59.228,RS Target R,RS Fully-auto,1.32s,20,2,0.1,12,120,0.1,false
+25,19:02:00.732,RS Target BL,RS Fully-auto,1.249s,19,3,0.158,18,114,0.158,false
+26,19:02:02.201,RS Target R,RS Fully-auto,1.259s,15,8,0.533,48,90,0.533,false
+27,19:02:03.706,RS Target R,RS Fully-auto,0.798s,17,8,0.471,48,102,0.471,false
+28,19:02:05.097,RS Target BR,RS Fully-auto,0.902s,19,5,0.263,30,114,0.263,false
+29,19:02:06.564,RS Target TL,RS Fully-auto,0.812s,17,2,0.118,12,102,0.118,false
+30,19:02:07.765,RS Target T,RS Fully-auto,0.798s,17,8,0.471,48,102,0.471,false
+31,19:02:08.955,RS Target B,RS Fully-auto,0.697s,15,8,0.533,48,90,0.533,false
+32,19:02:10.532,RS Target B,RS Fully-auto,0.913s,19,4,0.211,24,114,0.211,false
+33,19:02:12.115,RS Target TR,RS Fully-auto,0.797s,17,8,0.471,48,102,0.471,false
+34,19:02:13.477,RS Target BR,RS Fully-auto,1.127s,18,3,0.167,18,108,0.167,false
+35,19:02:14.676,RS Target L,RS Fully-auto,0.697s,15,8,0.533,48,90,0.533,false
+36,19:02:15.956,RS Target B,RS Fully-auto,1.084s,15,8,0.533,48,90,0.533,false
+37,19:02:17.409,RS Target B,RS Fully-auto,0.843s,17,7,0.412,42,102,0.412,false
+38,19:02:18.922,RS Target T,RS Fully-auto,0.749s,16,8,0.5,48,96,0.5,false
+39,19:02:20.428,RS Target BL,RS Fully-auto,0.852s,18,6,0.333,36,108,0.333,false
+40,19:02:21.937,RS Target T,RS Fully-auto,0.898s,19,8,0.421,48,114,0.421,false
+41,19:02:23.280,RS Target BR,RS Fully-auto,0.697s,15,8,0.533,48,90,0.533,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+RS Fully-auto,701,274,1644.0,4206.0,
+
+Kills:,41
+Deaths:,0
+Fight Time:,35.016998
+Avg TTK:,0
+Damage Done:,1644.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1644.0
+Scenario:,Reactive Switching
+Hash:,bcad0052e8f96d083baf6d54fe8e0f3d
+Game Version:,2.0.5.3
+Challenge Start:,19:01:23.878
+Pause Count:,27
+Pause Duration:,1737
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,314.669159
+Resolution Scale,100.0

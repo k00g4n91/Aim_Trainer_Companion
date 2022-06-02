@@ -1,0 +1,53 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:20:47.288,Reflex Strafing Target L,pistol,3.789s,5,1,0.2,25,250,0.1,false
+2,00:20:51.038,Reflex Strafing Target L,pistol,2.907s,4,1,0.25,25,200,0.125,false
+3,00:20:54.165,Reflex Strafing Target R,pistol,2.186s,3,1,0.333,25,150,0.167,false
+4,00:20:57.093,Reflex Strafing Target L,pistol,1.92s,3,1,0.333,25,150,0.167,false
+5,00:21:06.579,Reflex Strafing Target L,pistol,8.451s,9,1,0.111,25,450,0.056,false
+6,00:21:07.579,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+7,00:21:10.516,Reflex Strafing Target L,pistol,2.122s,3,1,0.333,25,150,0.167,false
+8,00:21:15.096,Reflex Strafing Target R,pistol,3.718s,5,1,0.2,25,250,0.1,false
+9,00:21:17.976,Reflex Strafing Target L,pistol,1.713s,3,1,0.333,25,150,0.167,false
+10,00:21:18.737,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+11,00:21:25.006,Reflex Strafing Target L,pistol,5.459s,6,1,0.167,25,300,0.083,false
+12,00:21:25.906,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+13,00:21:30.625,Reflex Strafing Target L,pistol,3.803s,5,1,0.2,25,250,0.1,false
+14,00:21:35.672,Reflex Strafing Target L,pistol,4.157s,5,1,0.2,25,250,0.1,false
+15,00:21:39.514,Reflex Strafing Target R,pistol,2.892s,4,1,0.25,25,200,0.125,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,60,15,375.0,3000.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,43.117001
+Avg TTK:,0
+Damage Done:,375.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,15.0
+Scenario:,Valorant Reflex Flick Strafing
+Hash:,3dc9976006bebf70c2aee2f86cb93c5e
+Game Version:,2.0.5.2
+Challenge Start:,00:20:42.697
+Pause Count:,3
+Pause Duration:,10
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,9.0
+Vert Sens:,9.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,307.487854
+Resolution Scale,100.0

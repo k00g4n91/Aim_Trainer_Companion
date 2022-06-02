@@ -1,0 +1,81 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:14:12.623,RS Target TR,pistol,0.627s,2,2,1,60,120,0.5,false
+2,19:14:13.768,RS Target TR,pistol,0.517s,2,2,1,60,120,0.5,false
+3,19:14:15.428,RS Target TL,pistol,0.86s,2,1,0.5,30,120,0.25,false
+4,19:14:16.671,RS Target T,pistol,0.853s,2,1,0.5,30,120,0.25,false
+5,19:14:17.899,RS Target T,pistol,1.225s,3,2,0.667,60,180,0.333,false
+6,19:14:19.430,RS Target BL,pistol,0.814s,2,1,0.5,30,120,0.25,false
+7,19:14:20.975,RS Target T,pistol,1.174s,3,1,0.333,30,180,0.167,false
+8,19:14:22.502,RS Target TL,pistol,0.833s,2,1,0.5,30,120,0.25,false
+9,19:14:23.564,RS Target T,pistol,0.536s,2,2,1,60,120,0.5,false
+10,19:14:24.909,RS Target L,pistol,0.446s,2,2,1,60,120,0.5,false
+11,19:14:26.050,RS Target TR,pistol,0.476s,2,2,1,60,120,0.5,false
+12,19:14:27.180,RS Target R,pistol,0.454s,2,2,1,60,120,0.5,false
+13,19:14:28.851,RS Target L,pistol,0.895s,2,1,0.5,30,120,0.25,false
+14,19:14:29.804,RS Target B,pistol,0.424s,2,2,1,60,120,0.5,false
+15,19:14:31.312,RS Target TR,pistol,0.808s,3,2,0.667,60,180,0.333,false
+16,19:14:32.578,RS Target L,pistol,0.701s,3,2,0.667,60,180,0.333,false
+17,19:14:33.714,RS Target R,pistol,0.423s,2,2,1,60,120,0.5,false
+18,19:14:34.918,RS Target R,pistol,0.441s,2,2,1,60,120,0.5,false
+19,19:14:36.582,RS Target L,pistol,1.17s,3,1,0.333,30,180,0.167,false
+20,19:14:38.422,RS Target BL,pistol,1.837s,3,1,0.333,30,180,0.167,false
+21,19:14:39.581,RS Target TL,pistol,0.574s,2,2,1,60,120,0.5,false
+22,19:14:41.128,RS Target BL,pistol,0.814s,2,1,0.5,30,120,0.25,false
+23,19:14:42.483,RS Target B,pistol,0.903s,3,1,0.333,30,180,0.167,false
+24,19:14:43.729,RS Target L,pistol,0.653s,2,2,1,60,120,0.5,false
+25,19:14:44.930,RS Target T,pistol,0.484s,2,2,1,60,120,0.5,false
+26,19:14:46.221,RS Target R,pistol,0.551s,2,2,1,60,120,0.5,false
+27,19:14:47.832,RS Target L,pistol,0.91s,2,1,0.5,30,120,0.25,false
+28,19:14:48.661,RS Target R,pistol,0.619s,2,2,1,60,120,0.5,false
+29,19:14:49.797,RS Target B,pistol,0.535s,2,2,1,60,120,0.5,false
+30,19:14:51.335,RS Target BL,pistol,0.869s,2,1,0.5,30,120,0.25,false
+31,19:14:52.045,RS Target B,pistol,0.513s,2,2,1,60,120,0.5,false
+32,19:14:53.946,RS Target B,pistol,1.178s,3,1,0.333,30,180,0.167,false
+33,19:14:55.119,RS Target R,pistol,0.581s,2,2,1,60,120,0.5,false
+34,19:14:56.439,RS Target T,pistol,0.821s,2,1,0.5,30,120,0.25,false
+35,19:14:58.122,RS Target B,pistol,0.855s,3,1,0.333,30,180,0.167,false
+36,19:14:59.332,RS Target T,pistol,0.538s,2,2,1,60,120,0.5,false
+37,19:15:00.973,RS Target L,pistol,0.951s,3,2,0.667,60,180,0.333,false
+38,19:15:02.367,RS Target BL,pistol,0.623s,2,2,1,60,120,0.5,false
+39,19:15:03.736,RS Target TL,pistol,0.582s,2,2,1,60,120,0.5,false
+40,19:15:05.670,RS Target TL,pistol,0.819s,2,1,0.5,30,120,0.25,false
+41,19:15:07.241,RS Target R,pistol,0.832s,2,1,0.5,30,120,0.25,false
+42,19:15:09.345,RS Target L,pistol,2.072s,3,1,0.333,30,180,0.167,false
+43,19:15:10.915,RS Target B,pistol,1.566s,3,2,0.667,60,180,0.333,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,98,68,2040.0,5880.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,43
+Deaths:,0
+Fight Time:,34.356998
+Avg TTK:,0
+Damage Done:,2040.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,7
+Distance Traveled:,0.0
+Score:,2040.0
+Scenario:,Reactive Clicking
+Hash:,daeb3d1b8f01e17098922fb0b1cc2ca3
+Game Version:,2.0.5.3
+Challenge Start:,19:14:11.049
+Pause Count:,27
+Pause Duration:,90
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,326.146454
+Resolution Scale,100.0

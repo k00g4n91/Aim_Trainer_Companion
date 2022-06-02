@@ -1,0 +1,113 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:39:46.528,voxTS_Visc_V_1 Bot,LG,0.188s,20,20,1,100,100,1,false
+2,18:39:47.342,voxTS_Visc_V_1 Bot,LG,0.42s,43,20,0.465,100,215,0.465,false
+3,18:39:48.079,voxTS_Visc_V_2 Bot,LG,0.286s,30,20,0.667,100,150,0.667,false
+4,18:39:48.825,voxTS_Visc_V_2 Bot,LG,0.326s,34,20,0.588,100,170,0.588,false
+5,18:39:49.932,voxTS_Visc_V_3 Bot,LG,0.609s,62,20,0.323,100,310,0.323,false
+6,18:39:50.420,voxTS_Visc_V_3 Bot,LG,0.19s,20,20,1,100,100,1,false
+7,18:39:50.860,voxTS_Visc_V_1 Bot,LG,0.192s,20,20,1,100,100,1,false
+8,18:39:51.301,voxTS_Visc_V_1 Bot,LG,0.191s,20,20,1,100,100,1,false
+9,18:39:51.906,voxTS_Visc_V_1 Bot,LG,0.237s,25,20,0.8,100,125,0.8,false
+10,18:39:52.739,voxTS_Visc_V_2 Bot,LG,0.509s,52,20,0.385,100,260,0.385,false
+11,18:39:53.708,voxTS_Visc_V_4 Bot,LG,0.597s,61,20,0.328,100,305,0.328,false
+12,18:39:55.051,voxTS_Visc_V_5 Bot,LG,0.947s,96,29,0.302,145,480,0.302,false
+13,18:39:55.567,voxTS_Visc_V_3 Bot,LG,0.287s,30,11,0.367,55,150,0.367,false
+14,18:39:56.406,voxTS_Visc_V_6 Bot,LG,0.408s,42,20,0.476,100,210,0.476,false
+15,18:39:57.393,voxTS_Visc_V_2 Bot,LG,0.536s,55,20,0.364,100,275,0.364,false
+16,18:39:58.231,voxTS_Visc_V_4 Bot,LG,0.467s,48,20,0.417,100,240,0.417,false
+17,18:39:58.782,voxTS_Visc_V_3 Bot,LG,0.291s,30,20,0.667,100,150,0.667,false
+18,18:39:59.282,voxTS_Visc_V_5 Bot,LG,0.242s,25,20,0.8,100,125,0.8,false
+19,18:39:59.730,voxTS_Visc_V_2 Bot,LG,0.19s,20,20,1,100,100,1,false
+20,18:40:00.454,voxTS_Visc_V_6 Bot,LG,0.498s,51,20,0.392,100,255,0.392,false
+21,18:40:01.113,voxTS_Visc_V_7 Bot,LG,0.267s,28,20,0.714,100,140,0.714,false
+22,18:40:01.795,voxTS_Visc_V_7 Bot,LG,0.43s,44,20,0.455,100,220,0.455,false
+23,18:40:02.296,voxTS_Visc_V_4 Bot,LG,0.359s,37,20,0.541,100,185,0.541,false
+24,18:40:02.710,voxTS_Visc_V_8 Bot,LG,0.188s,20,20,1,100,100,1,false
+25,18:40:04.011,voxTS_Visc_V_5 Bot,LG,0.898s,91,20,0.22,100,455,0.22,false
+26,18:40:04.945,voxTS_Visc_V_8 Bot,LG,0.684s,48,20,0.417,100,240,0.417,false
+27,18:40:05.605,voxTS_Visc_V_9 Bot,LG,0.402s,41,20,0.488,100,205,0.488,false
+28,18:40:06.202,voxTS_Visc_V_4 Bot,LG,0.341s,35,20,0.571,100,175,0.571,false
+29,18:40:07.380,voxTS_Visc_V_5 Bot,LG,0.688s,70,20,0.286,100,350,0.286,false
+30,18:40:08.101,voxTS_Visc_V_6 Bot,LG,0.259s,27,20,0.741,100,135,0.741,false
+31,18:40:09.041,voxTS_Visc_V_6 Bot,LG,0.397s,41,20,0.488,100,205,0.488,false
+32,18:40:09.882,voxTS_Visc_V_3 Bot,LG,0.581s,59,20,0.339,100,295,0.339,false
+33,18:40:10.573,voxTS_Visc_V_9 Bot,LG,0.5s,51,20,0.392,100,255,0.392,false
+34,18:40:11.566,voxTS_Visc_V_4 Bot,LG,0.265s,28,20,0.714,100,140,0.714,false
+35,18:40:12.252,voxTS_Visc_V_7 Bot,LG,0.458s,47,20,0.426,100,235,0.426,false
+36,18:40:13.161,voxTS_Visc_V_10 Bot,LG,0.47s,48,20,0.417,100,240,0.417,false
+37,18:40:14.237,voxTS_Visc_V_7 Bot,LG,0.619s,63,20,0.317,100,315,0.317,false
+38,18:40:15.117,voxTS_Visc_V_8 Bot,LG,0.419s,43,20,0.465,100,215,0.465,false
+39,18:40:15.762,voxTS_Visc_V_9 Bot,LG,0.188s,20,20,1,100,100,1,false
+40,18:40:17.359,voxTS_Visc_V_10 Bot,LG,1.339s,116,20,0.172,100,580,0.172,false
+41,18:40:18.150,voxTS_Visc_V_10 Bot,LG,0.579s,33,20,0.606,100,165,0.606,false
+42,18:40:19.387,voxTS_Visc_V_11 Bot,LG,0.609s,62,20,0.323,100,310,0.323,false
+43,18:40:20.113,voxTS_Visc_V_11 Bot,LG,0.471s,41,20,0.488,100,205,0.488,false
+44,18:40:20.853,voxTS_Visc_V_12 Bot,LG,0.488s,40,20,0.5,100,200,0.5,false
+45,18:40:21.451,voxTS_Visc_V_11 Bot,LG,0.359s,37,20,0.541,100,185,0.541,false
+46,18:40:22.129,voxTS_Visc_V_12 Bot,LG,0.287s,30,20,0.667,100,150,0.667,false
+47,18:40:23.249,voxTS_Visc_V_13 Bot,LG,0.569s,58,20,0.345,100,290,0.345,false
+48,18:40:23.789,voxTS_Visc_V_12 Bot,LG,0.299s,31,20,0.645,100,155,0.645,false
+49,18:40:24.560,voxTS_Visc_V_13 Bot,LG,0.458s,47,20,0.426,100,235,0.426,false
+50,18:40:25.331,voxTS_Visc_V_13 Bot,LG,0.542s,55,20,0.364,100,275,0.364,false
+51,18:40:26.301,voxTS_Visc_V_14 Bot,LG,0.537s,55,20,0.364,100,275,0.364,false
+52,18:40:26.952,voxTS_Visc_V_14 Bot,LG,0.407s,42,20,0.476,100,210,0.476,false
+53,18:40:27.593,voxTS_Visc_V_15 Bot,LG,0.187s,20,20,1,100,100,1,false
+54,18:40:28.818,voxTS_Visc_V_8 Bot,LG,1.028s,48,20,0.417,100,240,0.417,false
+55,18:40:29.522,voxTS_Visc_V_5 Bot,LG,0.277s,29,20,0.69,100,145,0.69,false
+56,18:40:30.465,voxTS_Visc_V_15 Bot,LG,0.439s,45,20,0.444,100,225,0.444,false
+57,18:40:31.022,voxTS_Visc_V_6 Bot,LG,0.238s,25,20,0.8,100,125,0.8,false
+58,18:40:31.870,voxTS_Visc_V_16 Bot,LG,0.536s,55,20,0.364,100,275,0.364,false
+59,18:40:32.466,voxTS_Visc_V_7 Bot,LG,0.189s,20,20,1,100,100,1,false
+60,18:40:33.087,voxTS_Visc_V_17 Bot,LG,0.207s,22,20,0.909,100,110,0.909,false
+61,18:40:33.869,voxTS_Visc_V_16 Bot,LG,0.531s,54,20,0.37,100,270,0.37,false
+62,18:40:34.389,voxTS_Visc_V_9 Bot,LG,0.207s,22,20,0.909,100,110,0.909,false
+63,18:40:34.952,voxTS_Visc_V_18 Bot,LG,0.311s,32,20,0.625,100,160,0.625,false
+64,18:40:35.853,voxTS_Visc_V_8 Bot,LG,0.478s,49,20,0.408,100,245,0.408,false
+65,18:40:36.862,voxTS_Visc_V_19 Bot,LG,0.529s,54,20,0.37,100,270,0.37,false
+66,18:40:37.776,voxTS_Visc_V_17 Bot,LG,0.416s,43,20,0.465,100,215,0.465,false
+67,18:40:38.696,voxTS_Visc_V_20 Bot,LG,0.688s,51,20,0.392,100,255,0.392,false
+68,18:40:39.286,voxTS_Visc_V_10 Bot,LG,0.359s,37,20,0.541,100,185,0.541,false
+69,18:40:39.896,voxTS_Visc_V_18 Bot,LG,0.275s,29,20,0.69,100,145,0.69,false
+70,18:40:41.006,voxTS_Visc_V_11 Bot,LG,0.756s,77,20,0.26,100,385,0.26,false
+71,18:40:42.115,voxTS_Visc_V_19 Bot,LG,0.849s,86,20,0.233,100,430,0.233,false
+72,18:40:42.768,voxTS_Visc_V_9 Bot,LG,0.401s,29,20,0.69,100,145,0.69,false
+73,18:40:43.244,voxTS_Visc_V_20 Bot,LG,0.216s,23,20,0.87,100,115,0.87,false
+74,18:40:44.295,voxTS_Visc_V_10 Bot,LG,0.817s,66,20,0.303,100,330,0.303,false
+75,18:40:44.886,voxTS_Visc_V_12 Bot,LG,0.188s,20,20,1,100,100,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,3231,1502,7510.0,16155.0,
+
+Kills:,75
+Deaths:,0
+Fight Time:,33.09
+Avg TTK:,0
+Damage Done:,7510.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,75.099998
+Scenario:,voxTS Viscose Varied
+Hash:,1918d44d4f05569f3fc3259451992a26
+Game Version:,2.0.5.3
+Challenge Start:,18:39:45.297
+Pause Count:,8
+Pause Duration:,1577
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,262.601074
+Resolution Scale,100.0

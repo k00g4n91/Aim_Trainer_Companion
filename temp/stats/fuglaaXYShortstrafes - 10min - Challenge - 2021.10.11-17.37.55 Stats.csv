@@ -1,0 +1,42 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:30:39.697,air1F_close_short,LG,262.61s,2305,1000,0.434,1000,2305,0.434,false
+2,17:36:01.527,air1F_close_short,LG,321.533s,2507,1000,0.399,1000,2507,0.399,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,5931,2469,2469.0,5931.0,
+
+Kills:,2
+Deaths:,0
+Fight Time:,584.143005
+Avg TTK:,0
+Damage Done:,2469.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,2469.0
+Scenario:,fuglaaXYShortstrafes - 10min
+Hash:,787bf03fd556c354edc050ff542bd2b4
+Game Version:,v2.6.1
+Challenge Start:,17:31:49.667
+Pause Count:,3
+Pause Duration:,552
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.6
+Vert Sens:,7.6
+DPI:,400
+FOV:,100.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,373.277222
+Resolution Scale,100.0

@@ -1,0 +1,55 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,11:20:23.284,air_close_short,LG,13.679s,1369,553,0.404,721.112,1785.153,0.404,false
+2,11:20:35.747,air1_far_short,LG,12.207s,1152,553,0.48,721.112,1502.195,0.48,false
+3,11:21:15.982,Bot Profile,LG,39.975s,3587,553,0.154,721.112,4677.435,0.154,false
+4,11:21:33.084,air1F_close_long,LG,16.854s,1426,553,0.388,721.112,1859.479,0.388,false
+5,11:21:45.911,air1F_far_long,LG,11.733s,1093,553,0.506,721.112,1425.262,0.506,false
+6,11:22:02.993,air1F_close_short,LG,16.829s,1615,553,0.342,721.112,2105.927,0.342,false
+7,11:22:21.884,air1F_far_short,LG,18.633s,1779,553,0.311,721.112,2319.775,0.311,false
+8,11:22:48.059,air1_UFO,LG,25.147s,2384,553,0.232,721.112,3108.668,0.232,false
+9,11:23:03.620,air_close_short,LG,15.311s,1445,553,0.383,721.112,1884.254,0.383,false
+10,11:23:16.317,air1_far_short,LG,12.455s,1179,553,0.469,721.112,1537.402,0.469,false
+11,11:23:47.800,Bot Profile,LG,30.287s,2588,553,0.214,721.112,3374.675,0.214,false
+12,11:24:00.080,air1F_close_long,LG,12.032s,1126,553,0.491,721.112,1468.292,0.491,false
+13,11:24:11.729,air1F_far_long,LG,10.496s,1051,553,0.526,721.112,1370.496,0.526,false
+14,11:24:29.897,air1F_close_short,LG,17.068s,1708,553,0.324,721.112,2227.194,0.324,false
+15,11:24:46.667,air1F_far_short,LG,15.717s,1573,553,0.352,721.112,2051.16,0.352,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,26984,8648,11276.831055,35195.753906,
+
+Kills:,15
+Deaths:,0
+Fight Time:,268.423004
+Avg TTK:,0
+Damage Done:,11276.831055
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Plaza low ground 5 min
+Hash:,f2844d5efa46cdf9fefa237695060b8a
+Game Version:,v2.6.3
+Challenge Start:,11:20:08.217
+Pause Count:,12
+Pause Duration:,159
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,333.784271
+Resolution Scale,100.0

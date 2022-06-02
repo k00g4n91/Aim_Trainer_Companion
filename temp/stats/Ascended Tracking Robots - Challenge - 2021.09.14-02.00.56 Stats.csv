@@ -1,0 +1,71 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,01:59:29.832,Long Strafe Bot,ADSable Hitscan Cone,2.255s,1253,473,0.377,439,1140,0.385,false
+2,01:59:33.431,Long Strafe Bot,ADSable Hitscan Cone,2.02s,1121,483,0.431,437,1020,0.428,false
+3,01:59:36.024,Long Strafe Bot,ADSable Hitscan Cone,2.176s,1209,472,0.39,439,1100,0.399,false
+4,01:59:38.882,Long Strafe Bot,ADSable Hitscan Cone,1.535s,857,464,0.541,435,780,0.558,false
+5,01:59:40.988,Long Strafe Bot,ADSable Hitscan Cone,1.694s,945,478,0.506,440,860,0.512,false
+6,01:59:44.024,Long Strafe Bot,ADSable Hitscan Cone,2.771s,1429,476,0.333,438,1300,0.337,false
+7,01:59:47.050,Long Strafe Bot,ADSable Hitscan Cone,2.784s,967,470,0.486,441,880,0.501,false
+8,01:59:48.965,Long Strafe Bot,ADSable Hitscan Cone,1.499s,835,474,0.568,439,760,0.578,false
+9,01:59:51.358,Long Strafe Bot,ADSable Hitscan Cone,1.594s,890,472,0.53,436,810,0.538,false
+10,01:59:54.839,Long Strafe Bot,ADSable Hitscan Cone,2.033s,1132,478,0.422,443,1030,0.43,false
+11,01:59:57.408,Long Strafe Bot,ADSable Hitscan Cone,2.198s,1220,427,0.35,427,1110,0.385,false
+12,02:00:00.869,Long Strafe Bot,ADSable Hitscan Cone,3.205s,1462,494,0.338,458,1330,0.344,false
+13,02:00:02.639,Long Strafe Bot,ADSable Hitscan Cone,1.5s,791,417,0.527,417,720,0.579,false
+14,02:00:05.300,Long Strafe Bot,ADSable Hitscan Cone,2.408s,1231,468,0.38,437,1120,0.39,false
+15,02:00:08.110,Long Strafe Bot,ADSable Hitscan Cone,2.549s,1022,480,0.47,439,930,0.472,false
+16,02:00:10.451,Long Strafe Bot,ADSable Hitscan Cone,2.076s,1033,477,0.462,438,940,0.466,false
+17,02:00:13.004,Long Strafe Bot,ADSable Hitscan Cone,2.296s,967,461,0.477,433,880,0.492,false
+18,02:00:15.367,Long Strafe Bot,ADSable Hitscan Cone,2.095s,901,485,0.538,442,820,0.539,false
+19,02:00:18.937,Long Strafe Bot,ADSable Hitscan Cone,3.308s,1495,480,0.321,439,1360,0.323,false
+20,02:00:22.251,Long Strafe Bot,ADSable Hitscan Cone,3.052s,1506,577,0.383,524,1370,0.382,false
+21,02:00:24.988,Long Strafe Bot,ADSable Hitscan Cone,2.477s,1374,358,0.261,348,1250,0.278,false
+22,02:00:27.013,Long Strafe Bot,ADSable Hitscan Cone,1.762s,879,476,0.542,438,800,0.548,false
+23,02:00:29.078,Long Strafe Bot,ADSable Hitscan Cone,1.805s,934,460,0.493,433,850,0.509,false
+24,02:00:32.005,Long Strafe Bot,ADSable Hitscan Cone,1.695s,945,471,0.498,438,860,0.509,false
+25,02:00:34.696,Long Strafe Bot,ADSable Hitscan Cone,2.257s,1253,474,0.378,439,1140,0.385,false
+26,02:00:37.468,Long Strafe Bot,ADSable Hitscan Cone,2.512s,1022,476,0.466,438,930,0.471,false
+27,02:00:39.963,Long Strafe Bot,ADSable Hitscan Cone,2.239s,868,469,0.54,435,790,0.551,false
+28,02:00:43.134,Long Strafe Bot,ADSable Hitscan Cone,2.909s,1220,471,0.386,433,1110,0.39,false
+29,02:00:45.906,Long Strafe Bot,ADSable Hitscan Cone,2.513s,1220,458,0.375,434,1110,0.391,false
+30,02:00:48.619,Long Strafe Bot,ADSable Hitscan Cone,2.453s,1077,470,0.436,439,980,0.448,false
+31,02:00:51.154,Long Strafe Bot,ADSable Hitscan Cone,2.268s,1000,442,0.442,436,910,0.479,false
+32,02:00:54.385,Long Strafe Bot,ADSable Hitscan Cone,2.398s,1330,513,0.386,479,1210,0.396,false
+33,02:00:56.361,Long Strafe Bot,ADSable Hitscan Cone,1.723s,956,410,0.429,389,870,0.447,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,36498,15528,14490.0,33210.0,
+
+Kills:,33
+Deaths:,0
+Fight Time:,74.058998
+Avg TTK:,0
+Damage Done:,14490.0
+Damage Taken:,0.0
+Midairs:,166
+Midaired:,0
+Directs:,1038
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,6322.195312
+Scenario:,Ascended Tracking Robots
+Hash:,30eb744d26a1edf6e5605136f62e86a6
+Game Version:,2.0.5.3
+Challenge Start:,01:59:26.890
+Pause Count:,34
+Pause Duration:,422
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,135.427505
+Resolution Scale,100.0

@@ -1,0 +1,78 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:25:05.825,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+2,16:25:07.427,TileFrenzyStrafing Cube,pistol,0.555s,3,1,0.333,36,216,0.167,false
+3,16:25:08.873,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+4,16:25:09.952,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+5,16:25:12.790,TileFrenzyStrafing Cube,pistol,1.721s,5,1,0.2,36,360,0.1,false
+6,16:25:13.795,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+7,16:25:15.222,TileFrenzyStrafing Cube,pistol,0.326s,2,1,0.5,36,144,0.25,false
+8,16:25:16.282,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+9,16:25:18.273,TileFrenzyStrafing Cube,pistol,0.921s,2,1,0.5,36,144,0.25,false
+10,16:25:19.512,TileFrenzyStrafing Cube,pistol,0.385s,2,1,0.5,36,144,0.25,false
+11,16:25:20.685,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+12,16:25:21.717,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+13,16:25:23.528,TileFrenzyStrafing Cube,pistol,0.423s,2,1,0.5,36,144,0.25,false
+14,16:25:25.036,TileFrenzyStrafing Cube,pistol,0.547s,2,1,0.5,36,144,0.25,false
+15,16:25:26.993,TileFrenzyStrafing Cube,pistol,0.685s,3,1,0.333,36,216,0.167,false
+16,16:25:30.550,TileFrenzyStrafing Cube,pistol,2.069s,5,1,0.2,36,360,0.1,false
+17,16:25:32.494,TileFrenzyStrafing Cube,pistol,1.048s,3,1,0.333,36,216,0.167,false
+18,16:25:33.530,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+19,16:25:34.889,TileFrenzyStrafing Cube,pistol,0.434s,2,1,0.5,36,144,0.25,false
+20,16:25:35.993,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+21,16:25:37.743,TileFrenzyStrafing Cube,pistol,0.917s,3,1,0.333,36,216,0.167,false
+22,16:25:40.692,TileFrenzyStrafing Cube,pistol,1.624s,4,1,0.25,36,288,0.125,false
+23,16:25:42.741,TileFrenzyStrafing Cube,pistol,0.59s,2,1,0.5,36,144,0.25,false
+24,16:25:44.441,TileFrenzyStrafing Cube,pistol,0.369s,2,1,0.5,36,144,0.25,false
+25,16:25:45.720,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+26,16:25:46.833,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+27,16:25:47.641,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+28,16:25:48.506,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+29,16:25:49.414,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+30,16:25:51.768,TileFrenzyStrafing Cube,pistol,1.18s,4,1,0.25,36,288,0.125,false
+31,16:25:52.855,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+32,16:25:54.617,TileFrenzyStrafing Cube,pistol,0.504s,2,1,0.5,36,144,0.25,false
+33,16:25:55.590,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+34,16:25:56.910,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+35,16:25:58.450,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+36,16:25:59.564,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+37,16:26:00.458,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+38,16:26:01.981,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+39,16:26:03.107,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+40,16:26:04.108,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,71,40,1440.0,5112.0,
+
+Kills:,40
+Deaths:,0
+Fight Time:,14.298
+Avg TTK:,0
+Damage Done:,1440.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,1440.0
+Scenario:,Floating Heads Timing 400% FIXED
+Hash:,cf60a0fe6d24f1560ae743000578bcec
+Game Version:,2.0.5.2
+Challenge Start:,16:25:04.713
+Pause Count:,27
+Pause Duration:,39
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,259.230499
+Resolution Scale,100.0

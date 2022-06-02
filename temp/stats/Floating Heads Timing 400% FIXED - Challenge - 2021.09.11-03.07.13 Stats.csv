@@ -1,0 +1,80 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:06:14.102,TileFrenzyStrafing Cube,pistol,0.223s,2,1,0.5,36,144,0.25,false
+2,03:06:16.485,TileFrenzyStrafing Cube,pistol,1.28s,2,1,0.5,36,144,0.25,false
+3,03:06:17.864,TileFrenzyStrafing Cube,pistol,0.36s,2,1,0.5,36,144,0.25,false
+4,03:06:20.133,TileFrenzyStrafing Cube,pistol,0.983s,2,1,0.5,36,144,0.25,false
+5,03:06:23.816,TileFrenzyStrafing Cube,pistol,2.971s,6,1,0.167,36,432,0.083,false
+6,03:06:25.082,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+7,03:06:26.471,TileFrenzyStrafing Cube,pistol,0.255s,2,1,0.5,36,144,0.25,false
+8,03:06:29.684,TileFrenzyStrafing Cube,pistol,1.987s,4,1,0.25,36,288,0.125,false
+9,03:06:30.510,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+10,03:06:31.502,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+11,03:06:31.987,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+12,03:06:34.052,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+13,03:06:35.252,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+14,03:06:36.110,TileFrenzyStrafing Cube,pistol,0.299s,2,1,0.5,36,144,0.25,false
+15,03:06:37.120,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+16,03:06:37.639,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+17,03:06:40.174,TileFrenzyStrafing Cube,pistol,1.506s,4,1,0.25,36,288,0.125,false
+18,03:06:40.946,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+19,03:06:42.120,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+20,03:06:45.353,TileFrenzyStrafing Cube,pistol,1.907s,4,1,0.25,36,288,0.125,false
+21,03:06:46.586,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+22,03:06:49.512,TileFrenzyStrafing Cube,pistol,1.798s,4,1,0.25,36,288,0.125,false
+23,03:06:51.032,TileFrenzyStrafing Cube,pistol,0.409s,2,1,0.5,36,144,0.25,false
+24,03:06:52.196,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+25,03:06:53.151,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+26,03:06:54.345,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+27,03:06:55.321,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+28,03:06:56.264,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+29,03:06:57.219,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+30,03:06:58.776,TileFrenzyStrafing Cube,pistol,0.523s,2,1,0.5,36,144,0.25,false
+31,03:06:59.631,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+32,03:07:00.116,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+33,03:07:01.114,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+34,03:07:02.153,TileFrenzyStrafing Cube,pistol,0.001s,1,1,1,36,72,0.5,false
+35,03:07:03.378,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+36,03:07:04.591,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+37,03:07:06.242,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+38,03:07:08.362,TileFrenzyStrafing Cube,pistol,0.001s,1,1,1,36,72,0.5,false
+39,03:07:09.498,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+40,03:07:10.664,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+41,03:07:12.196,TileFrenzyStrafing Cube,pistol,0.001s,1,1,1,36,72,0.5,false
+42,03:07:13.120,TileFrenzyStrafing Cube,pistol,0s,1,1,1,36,72,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,67,42,1512.0,4824.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,42
+Deaths:,0
+Fight Time:,14.504
+Avg TTK:,0
+Damage Done:,1512.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,5
+Distance Traveled:,0.0
+Score:,1512.0
+Scenario:,Floating Heads Timing 400% FIXED
+Hash:,cf60a0fe6d24f1560ae743000578bcec
+Game Version:,2.0.5.3
+Challenge Start:,03:06:13.136
+Pause Count:,29
+Pause Duration:,658
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,267.075195
+Resolution Scale,100.0

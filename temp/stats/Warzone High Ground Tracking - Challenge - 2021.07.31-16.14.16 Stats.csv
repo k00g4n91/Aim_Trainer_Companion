@@ -1,0 +1,41 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:13:36.769,air_close_short,LG,14.531s,1153,461,0.4,601.142,1503.499,0.4,false
+2,16:13:51.162,air1_far_short,LG,14.073s,1071,461,0.43,601.142,1396.575,0.43,false
+3,16:14:16.386,Bot Profile,LG,24.929s,1818,461,0.254,601.142,2370.629,0.254,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,4042,1383,1803.408813,5270.845215,
+
+Kills:,3
+Deaths:,0
+Fight Time:,53.533001
+Avg TTK:,0
+Damage Done:,1803.408813
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,39.696655
+Score:,12623.861328
+Scenario:,Warzone High Ground Tracking
+Hash:,92f5913fa20485b0b9e13c4f71aaffaa
+Game Version:,2.0.5.2
+Challenge Start:,16:13:20.472
+Pause Count:,16
+Pause Duration:,26
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,358.516541
+Resolution Scale,100.0

@@ -1,0 +1,60 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:34:55.062,Watcher Bot Long Strafes,Manwing,2.161s,4,2,0.5,600,1600,0.375,false
+2,15:34:57.036,Watcher Bot Long Strafes,Manwing,1.169s,2,2,1,600,800,0.75,false
+3,15:35:03.737,Watcher Bot Long Strafes,Manwing,5.942s,8,2,0.25,600,3200,0.188,false
+4,15:35:06.465,Watcher Bot Long Strafes,Manwing,2.001s,4,2,0.5,800,1600,0.5,false
+5,15:35:08.843,Watcher Bot Long Strafes,Manwing,1.433s,4,2,0.5,600,1600,0.375,false
+6,15:35:12.266,Watcher Bot Long Strafes,Manwing,2.687s,5,3,0.6,600,2000,0.3,false
+7,15:35:14.271,Watcher Bot Long Strafes,Manwing,1.433s,3,2,0.667,600,1200,0.5,false
+8,15:35:18.193,Watcher Bot Long Strafes,Manwing,3.08s,6,3,0.5,800,2400,0.333,false
+9,15:35:20.516,Watcher Bot Long Strafes,Manwing,1.196s,4,3,0.75,600,1600,0.375,false
+10,15:35:28.238,Watcher Bot Long Strafes,Manwing,6.711s,8,2,0.25,600,3200,0.188,false
+11,15:35:30.966,Watcher Bot Long Strafes,Manwing,2.129s,5,2,0.4,800,2000,0.4,false
+12,15:35:33.892,Watcher Bot Long Strafes,Manwing,1.654s,3,2,0.667,600,1200,0.5,false
+13,15:35:36.030,Watcher Bot Long Strafes,Manwing,1.234s,3,2,0.667,800,1200,0.667,false
+14,15:35:37.963,Watcher Bot Long Strafes,Manwing,1.287s,2,2,1,800,800,1,false
+15,15:35:39.495,Watcher Bot Long Strafes,Manwing,0.6s,2,2,1,600,800,0.75,false
+16,15:35:42.881,Watcher Bot Long Strafes,Manwing,2.05s,4,3,0.75,1000,1600,0.625,false
+17,15:35:46.158,Watcher Bot Long Strafes,Manwing,2.541s,4,2,0.5,600,1600,0.375,false
+18,15:35:47.593,Watcher Bot Long Strafes,Manwing,0.78s,2,2,1,600,800,0.75,false
+19,15:35:48.826,Watcher Bot Long Strafes,Manwing,0.643s,2,2,1,800,800,1,false
+20,15:35:51.803,Watcher Bot Long Strafes,Manwing,1.783s,4,2,0.5,600,1600,0.375,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,79,44,13600.0,31600.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,42.514
+Avg TTK:,0
+Damage Done:,13600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,2
+Distance Traveled:,0.0
+Score:,68000.0
+Scenario:,Manwing Strafe Gallery V3 Robots
+Hash:,d2d81e7e1cb4620856ec143ba80f45fa
+Game Version:,v2.6.3
+Challenge Start:,15:34:51.892
+Pause Count:,16
+Pause Duration:,128
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.9
+Vert Sens:,6.9
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,249.054031
+Resolution Scale,100.0

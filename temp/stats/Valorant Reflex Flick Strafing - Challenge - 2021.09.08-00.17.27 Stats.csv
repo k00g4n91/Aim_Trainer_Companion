@@ -1,0 +1,62 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:16:35.757,Reflex Strafing Target L,pistol,7.511s,8,1,0.125,25,400,0.062,false
+2,00:16:37.609,Reflex Strafing Target L,pistol,0.94s,2,1,0.5,25,100,0.25,false
+3,00:16:39.468,Reflex Strafing Target L,pistol,0.949s,2,1,0.5,25,100,0.25,false
+4,00:16:40.420,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+5,00:16:43.332,Reflex Strafing Target R,pistol,2.093s,3,1,0.333,25,150,0.167,false
+6,00:16:48.956,Reflex Strafing Target R,pistol,4.8s,6,1,0.167,25,300,0.083,false
+7,00:16:50.795,Reflex Strafing Target R,pistol,0.965s,2,1,0.5,25,100,0.25,false
+8,00:16:51.639,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+9,00:16:53.702,Reflex Strafing Target R,pistol,1.057s,2,1,0.5,25,100,0.25,false
+10,00:16:55.626,Reflex Strafing Target R,pistol,0.928s,2,1,0.5,25,100,0.25,false
+11,00:16:56.489,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+12,00:16:59.574,Reflex Strafing Target L,pistol,2.11s,3,1,0.333,25,150,0.167,false
+13,00:17:01.601,Reflex Strafing Target R,pistol,1.067s,2,1,0.5,25,100,0.25,false
+14,00:17:02.526,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+15,00:17:03.403,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+16,00:17:06.613,Reflex Strafing Target R,pistol,2.179s,3,1,0.333,25,150,0.167,false
+17,00:17:07.620,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+18,00:17:11.719,Reflex Strafing Target L,pistol,2.985s,4,1,0.25,25,200,0.125,false
+19,00:17:12.683,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+20,00:17:16.398,Reflex Strafing Target R,pistol,2.719s,4,1,0.25,25,200,0.125,false
+21,00:17:18.286,Reflex Strafing Target L,pistol,1.031s,2,1,0.5,25,100,0.25,false
+22,00:17:19.243,Reflex Strafing Target L,pistol,0.001s,1,1,1,25,50,0.5,false
+23,00:17:21.015,Reflex Strafing Target R,pistol,0.986s,2,1,0.5,25,100,0.25,false
+24,00:17:26.031,Reflex Strafing Target L,pistol,4.07s,6,1,0.167,25,300,0.083,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,62,24,600.0,3100.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,24
+Deaths:,0
+Fight Time:,36.390999
+Avg TTK:,0
+Damage Done:,600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,24.0
+Scenario:,Valorant Reflex Flick Strafing
+Hash:,3dc9976006bebf70c2aee2f86cb93c5e
+Game Version:,2.0.5.3
+Challenge Start:,00:16:27.585
+Pause Count:,4
+Pause Duration:,25
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,117.841614
+Resolution Scale,100.0

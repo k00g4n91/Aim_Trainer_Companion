@@ -1,0 +1,55 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:20:10.981,Reflex Strafing Target R,pistol,16.197s,17,1,0.059,25,850,0.029,false
+2,20:20:11.748,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+3,20:20:13.713,Reflex Strafing Target L,pistol,1.054s,2,1,0.5,25,100,0.25,false
+4,20:20:16.603,Reflex Strafing Target L,pistol,2.014s,3,1,0.333,25,150,0.167,false
+5,20:20:17.573,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+6,20:20:22.781,Reflex Strafing Target R,pistol,4.339s,5,1,0.2,25,250,0.1,false
+7,20:20:23.710,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+8,20:20:29.486,Reflex Strafing Target L,pistol,4.638s,6,1,0.167,25,300,0.083,false
+9,20:20:31.573,Reflex Strafing Target L,pistol,1.149s,2,1,0.5,25,100,0.25,false
+10,20:20:32.578,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+11,20:20:34.514,Reflex Strafing Target R,pistol,1.023s,2,1,0.5,25,100,0.25,false
+12,20:20:40.987,Reflex Strafing Target L,pistol,5.465s,6,1,0.167,25,300,0.083,false
+13,20:20:41.805,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+14,20:20:43.625,Reflex Strafing Target R,pistol,0.979s,2,1,0.5,25,100,0.25,false
+15,20:20:45.493,Reflex Strafing Target R,pistol,0.949s,2,1,0.5,25,100,0.25,false
+16,20:20:49.498,Reflex Strafing Target L,pistol,2.967s,4,1,0.25,25,200,0.125,false
+17,20:20:50.563,Reflex Strafing Target L,pistol,0.001s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,60,17,425.0,3000.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,17
+Deaths:,0
+Fight Time:,40.775002
+Avg TTK:,0
+Damage Done:,425.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,17.0
+Scenario:,Valorant Reflex Flick Strafing
+Hash:,3dc9976006bebf70c2aee2f86cb93c5e
+Game Version:,2.0.5.2
+Challenge Start:,20:19:54.076
+Pause Count:,3
+Pause Duration:,15
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,304.068451
+Resolution Scale,100.0

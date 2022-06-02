@@ -1,0 +1,57 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:44:20.336,target_decay,pistol,3.937s,6,1,0.167,25,300,0.083,false
+2,23:44:21.974,target_decay,pistol,0.859s,2,1,0.5,25,100,0.25,false
+3,23:44:23.632,target_decay,pistol,0.835s,2,1,0.5,25,100,0.25,false
+4,23:44:24.506,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,23:44:28.134,target_decay,pistol,2.733s,4,1,0.25,25,200,0.125,false
+6,23:44:30.812,target_decay,pistol,1.84s,3,1,0.333,25,150,0.167,false
+7,23:44:39.804,target_decay,pistol,8.036s,10,1,0.1,25,500,0.05,false
+8,23:44:54.239,target_decay,pistol,13.502s,16,1,0.062,25,800,0.031,false
+9,23:44:57.877,target_decay,pistol,2.785s,5,1,0.2,25,250,0.1,false
+10,23:45:01.458,target_decay,pistol,2.737s,4,1,0.25,25,200,0.125,false
+11,23:45:06.004,target_decay,pistol,3.699s,5,1,0.2,25,250,0.1,false
+12,23:45:09.449,target_decay,pistol,2.653s,4,1,0.25,25,200,0.125,false
+13,23:45:10.205,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+14,23:45:11.934,target_decay,pistol,0.864s,2,1,0.5,25,100,0.25,false
+15,23:45:12.684,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+16,23:45:14.325,target_decay,pistol,0.86s,2,1,0.5,25,100,0.25,false
+17,23:45:15.143,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,69,17,425.0,3450.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,17
+Deaths:,0
+Fight Time:,45.34
+Avg TTK:,0
+Damage Done:,425.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,418.840576
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,v2.6.3
+Challenge Start:,23:44:15.313
+Pause Count:,14
+Pause Duration:,1030
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,297.583282
+Resolution Scale,100.0

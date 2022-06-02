@@ -1,0 +1,84 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:26:12.664,RS Target L,pistol,0.85s,3,1,0.333,30,180,0.167,false
+2,22:26:14.361,RS Target TL,pistol,0.893s,2,1,0.5,30,120,0.25,false
+3,22:26:15.866,RS Target TR,pistol,0.899s,2,1,0.5,30,120,0.25,false
+4,22:26:17.163,RS Target TL,pistol,0.833s,2,1,0.5,30,120,0.25,false
+5,22:26:18.523,RS Target R,pistol,0.808s,3,2,0.667,60,180,0.333,false
+6,22:26:20.164,RS Target BR,pistol,0.89s,2,1,0.5,30,120,0.25,false
+7,22:26:20.972,RS Target R,pistol,0.444s,2,2,1,60,120,0.5,false
+8,22:26:21.892,RS Target R,pistol,0.434s,2,2,1,60,120,0.5,false
+9,22:26:22.989,RS Target L,pistol,0.392s,2,2,1,60,120,0.5,false
+10,22:26:24.351,RS Target T,pistol,0.853s,3,2,0.667,60,180,0.333,false
+11,22:26:25.593,RS Target TR,pistol,0.481s,2,2,1,60,120,0.5,false
+12,22:26:26.737,RS Target R,pistol,0.432s,2,2,1,60,120,0.5,false
+13,22:26:27.763,RS Target B,pistol,0.435s,2,2,1,60,120,0.5,false
+14,22:26:29.537,RS Target R,pistol,1.184s,3,1,0.333,30,180,0.167,false
+15,22:26:30.429,RS Target B,pistol,0.434s,2,2,1,60,120,0.5,false
+16,22:26:31.795,RS Target BR,pistol,0.854s,2,1,0.5,30,120,0.25,false
+17,22:26:32.793,RS Target BR,pistol,0.422s,2,2,1,60,120,0.5,false
+18,22:26:34.333,RS Target TL,pistol,0.816s,2,1,0.5,30,120,0.25,false
+19,22:26:35.797,RS Target TL,pistol,0.911s,2,1,0.5,30,120,0.25,false
+20,22:26:37.295,RS Target T,pistol,1.155s,3,1,0.333,30,180,0.167,false
+21,22:26:38.028,RS Target L,pistol,0.446s,2,2,1,60,120,0.5,false
+22,22:26:39.735,RS Target B,pistol,0.847s,2,1,0.5,30,120,0.25,false
+23,22:26:40.930,RS Target R,pistol,0.952s,3,2,0.667,60,180,0.333,false
+24,22:26:42.439,RS Target R,pistol,0.873s,2,1,0.5,30,120,0.25,false
+25,22:26:43.396,RS Target TL,pistol,0.707s,3,2,0.667,60,180,0.333,false
+26,22:26:44.934,RS Target TL,pistol,0.888s,2,1,0.5,30,120,0.25,false
+27,22:26:45.983,RS Target TL,pistol,0.822s,3,2,0.667,60,180,0.333,false
+28,22:26:47.478,RS Target TL,pistol,0.405s,2,2,1,60,120,0.5,false
+29,22:26:49.135,RS Target TR,pistol,0.855s,2,1,0.5,30,120,0.25,false
+30,22:26:49.702,RS Target L,pistol,0.465s,2,2,1,60,120,0.5,false
+31,22:26:51.185,RS Target L,pistol,1.073s,3,1,0.333,30,180,0.167,false
+32,22:26:52.540,RS Target L,pistol,0.891s,2,1,0.5,30,120,0.25,false
+33,22:26:53.434,RS Target R,pistol,0.46s,2,2,1,60,120,0.5,false
+34,22:26:54.466,RS Target T,pistol,0.466s,2,2,1,60,120,0.5,false
+35,22:26:56.038,RS Target TR,pistol,0.885s,2,1,0.5,30,120,0.25,false
+36,22:26:57.342,RS Target TR,pistol,0.835s,2,1,0.5,30,120,0.25,false
+37,22:26:58.224,RS Target B,pistol,0.481s,2,2,1,60,120,0.5,false
+38,22:26:59.441,RS Target TL,pistol,0.431s,2,2,1,60,120,0.5,false
+39,22:27:00.845,RS Target R,pistol,0.818s,2,1,0.5,30,120,0.25,false
+40,22:27:01.666,RS Target T,pistol,0.464s,2,2,1,60,120,0.5,false
+41,22:27:02.799,RS Target R,pistol,0.52s,2,2,1,60,120,0.5,false
+42,22:27:04.551,RS Target BR,pistol,1.087s,3,1,0.333,30,180,0.167,false
+43,22:27:05.680,RS Target T,pistol,0.51s,2,2,1,60,120,0.5,false
+44,22:27:07.166,RS Target TR,pistol,0.874s,2,1,0.5,30,120,0.25,false
+45,22:27:08.453,RS Target BR,pistol,0.828s,3,1,0.333,30,180,0.167,false
+46,22:27:09.568,RS Target TR,pistol,0.662s,2,2,1,60,120,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,104,71,2130.0,6240.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,46
+Deaths:,0
+Fight Time:,32.965
+Avg TTK:,0
+Damage Done:,2130.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,6
+Distance Traveled:,0.0
+Score:,2130.0
+Scenario:,Reactive Clicking
+Hash:,daeb3d1b8f01e17098922fb0b1cc2ca3
+Game Version:,2.0.5.3
+Challenge Start:,22:26:10.737
+Pause Count:,29
+Pause Duration:,104
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,327.759125
+Resolution Scale,100.0

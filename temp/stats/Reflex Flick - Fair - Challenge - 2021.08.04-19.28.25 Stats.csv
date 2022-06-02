@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:27:28.310,target_decay,pistol,1.524s,3,1,0.333,25,150,0.167,false
+2,19:27:29.092,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+3,19:27:30.771,target_decay,pistol,0.87s,2,1,0.5,25,100,0.25,false
+4,19:27:31.514,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,19:27:33.053,target_decay,pistol,0.816s,2,1,0.5,25,100,0.25,false
+6,19:27:33.815,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+7,19:27:37.220,target_decay,pistol,2.649s,4,1,0.25,25,200,0.125,false
+8,19:27:46.129,target_decay,pistol,7.981s,10,1,0.1,25,500,0.05,false
+9,19:27:53.205,target_decay,pistol,6.299s,8,1,0.125,25,400,0.062,false
+10,19:27:56.598,target_decay,pistol,2.528s,4,1,0.25,25,200,0.125,false
+11,19:28:01.922,target_decay,pistol,4.578s,6,1,0.167,25,300,0.083,false
+12,19:28:06.278,target_decay,pistol,3.611s,5,1,0.2,25,250,0.1,false
+13,19:28:16.031,target_decay,pistol,8.956s,10,1,0.1,25,500,0.05,false
+14,19:28:17.712,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+15,19:28:19.457,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+16,19:28:22.241,target_decay,pistol,2.069s,3,1,0.333,25,150,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,65,16,400.0,3250.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,16
+Deaths:,0
+Fight Time:,41.882
+Avg TTK:,0
+Damage Done:,400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,393.846161
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.5.3
+Challenge Start:,19:27:25.193
+Pause Count:,9
+Pause Duration:,74
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,221.764923
+Resolution Scale,100.0

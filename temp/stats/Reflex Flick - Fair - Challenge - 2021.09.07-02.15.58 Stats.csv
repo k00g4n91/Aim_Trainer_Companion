@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,02:15:01.663,target_decay,pistol,1.661s,2,1,0.5,25,100,0.25,false
+2,02:15:02.446,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+3,02:15:05.915,target_decay,pistol,1.815s,3,1,0.333,25,150,0.167,false
+4,02:15:13.839,target_decay,pistol,7.107s,9,1,0.111,25,450,0.056,false
+5,02:15:14.642,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+6,02:15:23.571,target_decay,pistol,8.095s,10,1,0.1,25,500,0.05,false
+7,02:15:24.371,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+8,02:15:25.132,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,02:15:25.882,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,02:15:29.348,target_decay,pistol,2.63s,4,1,0.25,25,200,0.125,false
+11,02:15:32.742,target_decay,pistol,2.606s,4,1,0.25,25,200,0.125,false
+12,02:15:35.243,target_decay,pistol,1.728s,3,1,0.333,25,150,0.167,false
+13,02:15:43.216,target_decay,pistol,7.177s,10,1,0.1,25,500,0.05,false
+14,02:15:49.426,target_decay,pistol,5.416s,7,1,0.143,25,350,0.071,false
+15,02:15:51.056,target_decay,pistol,0.92s,3,1,0.333,25,150,0.167,false
+16,02:15:55.361,target_decay,pistol,3.492s,5,1,0.2,25,250,0.1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,68,16,400.0,3400.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,16
+Deaths:,0
+Fight Time:,42.647999
+Avg TTK:,0
+Damage Done:,400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,376.470581
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.5.3
+Challenge Start:,02:14:58.510
+Pause Count:,6
+Pause Duration:,20
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,201.480392
+Resolution Scale,100.0

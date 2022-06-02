@@ -1,0 +1,56 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:46:54.370,target_decay,pistol,5.259s,6,1,0.167,25,300,0.083,false
+2,23:46:55.160,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+3,23:47:05.939,target_decay,pistol,9.786s,12,1,0.083,25,600,0.042,false
+4,23:47:06.679,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+5,23:47:14.734,target_decay,pistol,7.302s,8,1,0.125,25,400,0.062,false
+6,23:47:20.931,target_decay,pistol,5.402s,7,1,0.143,25,350,0.071,false
+7,23:47:21.802,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+8,23:47:22.586,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,23:47:23.316,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,23:47:25.937,target_decay,pistol,1.569s,3,1,0.333,25,150,0.167,false
+11,23:47:28.522,target_decay,pistol,1.714s,3,1,0.333,25,150,0.167,false
+12,23:47:29.350,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+13,23:47:30.163,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+14,23:47:38.191,target_decay,pistol,7.275s,9,1,0.111,25,450,0.056,false
+15,23:47:43.396,target_decay,pistol,4.445s,6,1,0.167,25,300,0.083,false
+16,23:47:46.971,target_decay,pistol,2.75s,4,1,0.25,25,200,0.125,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,66,16,400.0,3300.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,16
+Deaths:,0
+Fight Time:,45.502998
+Avg TTK:,0
+Damage Done:,400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,387.878784
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,v2.6.1
+Challenge Start:,23:46:48.492
+Pause Count:,12
+Pause Duration:,114
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.6
+Vert Sens:,7.6
+DPI:,400
+FOV:,100.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,156.53331
+Resolution Scale,100.0

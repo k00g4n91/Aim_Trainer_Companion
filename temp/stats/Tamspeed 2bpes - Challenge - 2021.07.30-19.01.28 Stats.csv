@@ -1,0 +1,94 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:00:32.392,Pasu Semi Dodge,pistol,2.762s,7,1,0.143,25,350,0.071,false
+2,19:00:33.975,Pasu Semi Dodge,pistol,0.625s,3,1,0.333,25,150,0.167,false
+3,19:00:34.914,Pasu Semi Dodge,pistol,0.267s,2,1,0.5,25,100,0.25,false
+4,19:00:35.597,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+5,19:00:36.685,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+6,19:00:37.489,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+7,19:00:38.334,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+8,19:00:39.276,Pasu Semi Dodge,pistol,0.231s,2,1,0.5,25,100,0.25,false
+9,19:00:40.116,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+10,19:00:41.090,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+11,19:00:41.751,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+12,19:00:42.246,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+13,19:00:43.089,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+14,19:00:44.176,Pasu Semi Dodge,pistol,0.289s,2,1,0.5,25,100,0.25,false
+15,19:00:45.084,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+16,19:00:45.666,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+17,19:00:48.190,Pasu Semi Dodge,pistol,1.532s,4,1,0.25,25,200,0.125,false
+18,19:00:49.052,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+19,19:00:49.833,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+20,19:00:50.638,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+21,19:00:51.950,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+22,19:00:53.674,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+23,19:00:54.953,Pasu Semi Dodge,pistol,0.588s,2,1,0.5,25,100,0.25,false
+24,19:00:55.515,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+25,19:00:56.392,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+26,19:00:57.852,Pasu Semi Dodge,pistol,0.55s,3,1,0.333,25,150,0.167,false
+27,19:00:58.816,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+28,19:00:59.647,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+29,19:01:00.331,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+30,19:01:01.399,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+31,19:01:02.543,Pasu Semi Dodge,pistol,0.297s,2,1,0.5,25,100,0.25,false
+32,19:01:03.455,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+33,19:01:04.293,Pasu Semi Dodge,pistol,0.249s,2,1,0.5,25,100,0.25,false
+34,19:01:06.333,Pasu Semi Dodge,pistol,1.579s,4,1,0.25,25,200,0.125,false
+35,19:01:07.667,Pasu Semi Dodge,pistol,0.298s,2,1,0.5,25,100,0.25,false
+36,19:01:08.095,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+37,19:01:08.634,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+38,19:01:09.447,Pasu Semi Dodge,pistol,0.283s,2,1,0.5,25,100,0.25,false
+39,19:01:10.834,Pasu Semi Dodge,pistol,0.582s,3,1,0.333,25,150,0.167,false
+40,19:01:11.479,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+41,19:01:12.012,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+42,19:01:12.850,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+43,19:01:14.273,Pasu Semi Dodge,pistol,0.32s,2,1,0.5,25,100,0.25,false
+44,19:01:15.377,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+45,19:01:16.401,Pasu Semi Dodge,pistol,0.293s,2,1,0.5,25,100,0.25,false
+46,19:01:17.126,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+47,19:01:18.063,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+48,19:01:18.930,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+49,19:01:20.947,Pasu Semi Dodge,pistol,1.422s,4,1,0.25,25,200,0.125,false
+50,19:01:21.854,Pasu Semi Dodge,pistol,0.247s,2,1,0.5,25,100,0.25,false
+51,19:01:22.973,Pasu Semi Dodge,pistol,0.243s,2,1,0.5,25,100,0.25,false
+52,19:01:24.222,Pasu Semi Dodge,pistol,0.212s,2,1,0.5,25,100,0.25,false
+53,19:01:25.089,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+54,19:01:25.712,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+55,19:01:26.790,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+56,19:01:27.639,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,91,56,1400.0,4550.0,
+
+Kills:,56
+Deaths:,0
+Fight Time:,12.875
+Avg TTK:,0
+Damage Done:,1400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,5
+Distance Traveled:,0.0
+Score:,56.0
+Scenario:,Tamspeed 2bpes
+Hash:,4953232e824cf75a3b500d5d54099088
+Game Version:,2.0.5.2
+Challenge Start:,19:00:28.861
+Pause Count:,52
+Pause Duration:,1106
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,266.203644
+Resolution Scale,100.0

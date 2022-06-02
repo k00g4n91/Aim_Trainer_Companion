@@ -1,0 +1,45 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:55:37.049,air1_close_long,Track Master 100,10.720000s,1073,750,0.698975,750.000000,1073.000000,0.698975,0
+2,21:55:49.758,air1_far_long,Track Master 100,11.215000s,1123,750,0.667854,750.000000,1123.000000,0.667854,0
+3,21:56:04.516,air_close_short,Track Master 100,13.007001s,1302,750,0.576037,750.000000,1302.000000,0.576037,0
+4,21:56:21.585,air1_far_short,Track Master 100,16.841002s,1540,750,0.487013,750.000000,1540.000000,0.487013,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,5336,3141,3141.0,5336.0,
+
+Kills:,4
+Deaths:,0
+Fight Time:,51.783001
+Avg TTK:,15.24991
+Damage Done:,3141.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1848.928223
+Scenario:,AirNunsEasy60s
+Hash:,0b5febfe43468ed153b484ab5aeb9098
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,61
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.393631
+Resolution Scale:,100.0

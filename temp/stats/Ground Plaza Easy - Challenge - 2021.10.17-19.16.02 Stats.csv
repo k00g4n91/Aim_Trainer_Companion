@@ -1,0 +1,48 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:13:43.827,air_close_short,LG,12.45s,1246,553,0.444,721.112,1624.767,0.444,false
+2,19:13:58.063,air1_far_short,LG,13.976s,1180,553,0.469,721.112,1538.706,0.469,false
+3,19:14:25.571,Bot Profile,LG,27.248s,2197,553,0.252,721.112,2864.828,0.252,false
+4,19:14:37.343,air1F_close_long,LG,10.099s,910,553,0.608,721.112,1186.638,0.608,false
+5,19:14:54.555,air1F_far_long,LG,15.605s,1433,553,0.386,721.112,1868.607,0.386,false
+6,19:15:13.096,air1F_close_short,LG,18.291s,1661,553,0.333,721.112,2165.908,0.333,false
+7,19:15:31.784,air1F_far_short,LG,18.662s,1687,553,0.328,721.112,2199.811,0.328,false
+8,19:16:02.143,air1_UFO,LG,30.303s,2642,553,0.209,721.112,3445.088,0.209,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,12957,4425,5770.353516,16894.904297,
+
+Kills:,8
+Deaths:,0
+Fight Time:,146.634003
+Avg TTK:,0
+Damage Done:,5770.353516
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,847.639648
+Scenario:,Ground Plaza Easy
+Hash:,9e1dbc9b183966e69b73aca2836c8165
+Game Version:,v2.6.1
+Challenge Start:,19:13:29.786
+Pause Count:,8
+Pause Duration:,324
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.6
+Vert Sens:,7.6
+DPI:,400
+FOV:,100.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,348.622345
+Resolution Scale,100.0

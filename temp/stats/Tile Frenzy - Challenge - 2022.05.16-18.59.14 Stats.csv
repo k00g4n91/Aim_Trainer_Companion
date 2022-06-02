@@ -1,0 +1,44 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:58:45.397,target,pistol,0.265000s,2,1,0.500000,25.000000,100.000000,0.250000,0
+2,18:58:46.036,target,pistol,0.361000s,2,1,0.500000,25.000000,100.000000,0.250000,0
+3,18:58:46.445,target,pistol,0.000000s,1,1,1.000000,25.000000,50.000000,0.500000,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,5,3,75.0,250.0,,,,,,false,plus.png,1.0,0FF0FF000,,,
+
+Kills:,3
+Deaths:,0
+Fight Time:,0.626
+Avg TTK:,1.133333
+Damage Done:,75.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Tile Frenzy
+Hash:,9f1c0c5d02cf79b5d834b1df84eaeb83
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,1
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.014923
+Resolution Scale:,100.0

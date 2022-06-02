@@ -1,0 +1,72 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:54:15.115,Long Strafe Bot,ADSable Hitscan Cone,1.676s,934,473,0.506,433,850,0.509,false
+2,21:54:19.216,Long Strafe Bot,ADSable Hitscan Cone,3.846s,1704,474,0.278,441,1550,0.285,false
+3,21:54:22.296,Long Strafe Bot,ADSable Hitscan Cone,1.734s,967,471,0.487,439,880,0.499,false
+4,21:54:25.688,Long Strafe Bot,ADSable Hitscan Cone,3.135s,1385,483,0.349,441,1260,0.35,false
+5,21:54:27.839,Long Strafe Bot,ADSable Hitscan Cone,1.738s,967,469,0.485,437,880,0.497,false
+6,21:54:30.045,Long Strafe Bot,ADSable Hitscan Cone,1.954s,967,471,0.487,437,880,0.497,false
+7,21:54:33.207,Long Strafe Bot,ADSable Hitscan Cone,2.899s,945,472,0.499,435,860,0.506,false
+8,21:54:36.908,Long Strafe Bot,ADSable Hitscan Cone,3.443s,1539,441,0.287,441,1400,0.315,false
+9,21:54:41.093,Long Strafe Bot,ADSable Hitscan Cone,3.92s,1671,577,0.345,531,1520,0.349,false
+10,21:54:42.526,Long Strafe Bot,ADSable Hitscan Cone,1.179s,560,375,0.67,344,510,0.675,false
+11,21:54:44.302,Long Strafe Bot,ADSable Hitscan Cone,1.522s,747,469,0.628,433,680,0.637,false
+12,21:54:46.564,Long Strafe Bot,ADSable Hitscan Cone,1.797s,1000,474,0.474,435,910,0.478,false
+13,21:54:49.329,Long Strafe Bot,ADSable Hitscan Cone,2.356s,1308,436,0.333,436,1190,0.366,false
+14,21:54:52.591,Long Strafe Bot,ADSable Hitscan Cone,3.235s,1605,820,0.511,748,1460,0.512,false
+15,21:54:53.366,Long Strafe Bot,ADSable Hitscan Cone,0.519s,296,130,0.439,118,270,0.437,false
+16,21:54:55.881,Long Strafe Bot,ADSable Hitscan Cone,2.253s,1099,518,0.471,470,1000,0.47,false
+17,21:54:58.508,Long Strafe Bot,ADSable Hitscan Cone,2.219s,1231,430,0.349,401,1120,0.358,false
+18,21:55:02.614,Long Strafe Bot,ADSable Hitscan Cone,3.852s,1935,481,0.249,437,1760,0.248,false
+19,21:55:04.287,Long Strafe Bot,ADSable Hitscan Cone,1.115s,626,468,0.748,434,570,0.761,false
+20,21:55:06.097,Long Strafe Bot,ADSable Hitscan Cone,1.553s,659,464,0.704,436,600,0.727,false
+21,21:55:08.632,Long Strafe Bot,ADSable Hitscan Cone,2.276s,1187,469,0.395,434,1080,0.402,false
+22,21:55:11.706,Long Strafe Bot,ADSable Hitscan Cone,2.812s,1000,541,0.541,497,910,0.546,false
+23,21:55:12.886,Long Strafe Bot,ADSable Hitscan Cone,0.922s,472,417,0.883,380,430,0.884,false
+24,21:55:14.878,Long Strafe Bot,ADSable Hitscan Cone,1.732s,835,466,0.558,433,760,0.57,false
+25,21:55:17.346,Long Strafe Bot,ADSable Hitscan Cone,2.218s,868,506,0.583,469,790,0.594,false
+26,21:55:19.532,Long Strafe Bot,ADSable Hitscan Cone,1.787s,934,436,0.467,401,850,0.472,false
+27,21:55:21.415,Long Strafe Bot,ADSable Hitscan Cone,1.656s,868,489,0.563,439,790,0.556,false
+28,21:55:24.317,Long Strafe Bot,ADSable Hitscan Cone,2.457s,1363,474,0.348,433,1240,0.349,false
+29,21:55:28.858,Long Strafe Bot,ADSable Hitscan Cone,3.574s,1979,813,0.411,747,1800,0.415,false
+30,21:55:29.975,Long Strafe Bot,ADSable Hitscan Cone,0.855s,406,138,0.34,127,370,0.343,false
+31,21:55:33.436,Long Strafe Bot,ADSable Hitscan Cone,3.202s,1649,434,0.263,434,1500,0.289,false
+32,21:55:35.778,Long Strafe Bot,ADSable Hitscan Cone,2.08s,1044,465,0.445,436,950,0.459,false
+33,21:55:38.294,Long Strafe Bot,ADSable Hitscan Cone,2.265s,901,480,0.533,439,820,0.535,false
+34,21:55:41.199,Long Strafe Bot,ADSable Hitscan Cone,2.642s,1033,471,0.456,434,940,0.462,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,37355,16300,15135.0,33990.0,
+
+Kills:,34
+Deaths:,0
+Fight Time:,76.422997
+Avg TTK:,0
+Damage Done:,15135.0
+Damage Taken:,0.0
+Midairs:,356
+Midaired:,0
+Directs:,1165
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,6739.282715
+Scenario:,Ascended Tracking Robots
+Hash:,30eb744d26a1edf6e5605136f62e86a6
+Game Version:,2.0.5.3
+Challenge Start:,21:54:12.679
+Pause Count:,65
+Pause Duration:,169
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.4
+Vert Sens:,7.4
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,134.777924
+Resolution Scale,100.0

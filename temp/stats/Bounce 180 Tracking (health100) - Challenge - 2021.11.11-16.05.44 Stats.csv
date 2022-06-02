@@ -1,0 +1,58 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:04:37.148,Pigeon,LG,2.459s,43,17,0.395,102,258,0.395,false
+2,16:04:41.575,Pigeon,LG,3.57s,67,17,0.254,102,402,0.254,false
+3,16:04:47.327,Pigeon,LG,5.086s,95,24,0.253,144,570,0.253,false
+4,16:04:50.477,Pigeon,LG,2.217s,42,10,0.238,60,252,0.238,false
+5,16:04:55.549,Pigeon,LG,4.165s,78,17,0.218,102,468,0.218,false
+6,16:04:58.922,Pigeon,LG,2.595s,49,17,0.347,102,294,0.347,false
+7,16:05:01.955,Pigeon,LG,2.541s,48,17,0.354,102,288,0.354,false
+8,16:05:06.108,Pigeon,LG,3.136s,59,17,0.288,102,354,0.288,false
+9,16:05:09.443,Pigeon,LG,2.811s,53,17,0.321,102,318,0.321,false
+10,16:05:11.945,Pigeon,LG,2.197s,32,17,0.531,102,192,0.531,false
+11,16:05:17.434,Pigeon,LG,4.38s,82,17,0.207,102,492,0.207,false
+12,16:05:20.611,Pigeon,LG,2.539s,48,17,0.354,102,288,0.354,false
+13,16:05:25.006,Pigeon,LG,3.677s,69,17,0.246,102,414,0.246,false
+14,16:05:27.821,Pigeon,LG,1.89s,36,17,0.472,102,216,0.472,false
+15,16:05:31.811,Pigeon,LG,3.408s,64,18,0.281,108,384,0.281,false
+16,16:05:36.202,Pigeon,LG,3.784s,71,17,0.239,102,426,0.239,false
+17,16:05:39.238,Pigeon,LG,2.324s,44,18,0.409,108,264,0.409,false
+18,16:05:43.909,Pigeon,LG,3.516s,66,15,0.227,90,396,0.227,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1047,306,1836.0,6282.0,
+
+Kills:,18
+Deaths:,0
+Fight Time:,56.294998
+Avg TTK:,0
+Damage Done:,1836.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,18.0
+Scenario:,Bounce 180 Tracking (health100)
+Hash:,8b56f02fa78e9ce26535c600237d5c2d
+Game Version:,v2.6.3
+Challenge Start:,16:04:33.471
+Pause Count:,3
+Pause Duration:,487
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.7
+Vert Sens:,6.7
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,345.172363
+Resolution Scale,100.0

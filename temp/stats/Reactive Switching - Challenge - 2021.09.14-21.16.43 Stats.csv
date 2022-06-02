@@ -1,0 +1,81 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:15:44.728,RS Target R,RS Fully-auto,0.95s,20,8,0.4,48,120,0.4,false
+2,21:15:46.093,RS Target TR,RS Fully-auto,0.874s,18,2,0.111,12,108,0.111,false
+3,21:15:47.237,RS Target TL,RS Fully-auto,0.861s,18,7,0.389,42,108,0.389,false
+4,21:15:48.792,RS Target L,RS Fully-auto,0.997s,21,8,0.381,48,126,0.381,false
+5,21:15:50.355,RS Target BL,RS Fully-auto,0.999s,21,8,0.381,48,126,0.381,false
+6,21:15:51.683,RS Target BL,RS Fully-auto,0.646s,14,8,0.571,48,84,0.571,false
+7,21:15:52.979,RS Target TL,RS Fully-auto,0.86s,18,2,0.111,12,108,0.111,false
+8,21:15:54.168,RS Target R,RS Fully-auto,0.697s,15,8,0.533,48,90,0.533,false
+9,21:15:55.504,RS Target BR,RS Fully-auto,0.799s,17,8,0.471,48,102,0.471,false
+10,21:15:56.843,RS Target TR,RS Fully-auto,0.909s,19,7,0.368,42,114,0.368,false
+11,21:15:58.326,RS Target L,RS Fully-auto,0.941s,19,7,0.368,42,114,0.368,false
+12,21:15:59.506,RS Target BR,RS Fully-auto,0.85s,18,7,0.389,42,108,0.389,false
+13,21:16:01.171,RS Target BR,RS Fully-auto,0.886s,18,6,0.333,36,108,0.333,false
+14,21:16:02.649,RS Target BR,RS Fully-auto,0.749s,16,8,0.5,48,96,0.5,false
+15,21:16:03.946,RS Target T,RS Fully-auto,0.848s,18,5,0.278,30,108,0.278,false
+16,21:16:05.246,RS Target R,RS Fully-auto,0.748s,16,8,0.5,48,96,0.5,false
+17,21:16:06.469,RS Target BL,RS Fully-auto,0.598s,13,8,0.615,48,78,0.615,false
+18,21:16:07.729,RS Target L,RS Fully-auto,0.861s,18,5,0.278,30,108,0.278,false
+19,21:16:08.746,RS Target R,RS Fully-auto,0.65s,14,8,0.571,48,84,0.571,false
+20,21:16:10.123,RS Target TR,RS Fully-auto,0.99s,20,7,0.35,42,120,0.35,false
+21,21:16:11.337,RS Target BL,RS Fully-auto,0.698s,15,8,0.533,48,90,0.533,false
+22,21:16:12.425,RS Target T,RS Fully-auto,0.751s,16,8,0.5,48,96,0.5,false
+23,21:16:13.799,RS Target R,RS Fully-auto,1.009s,19,7,0.368,42,114,0.368,false
+24,21:16:15.314,RS Target BR,RS Fully-auto,0.959s,20,6,0.3,36,120,0.3,false
+25,21:16:16.350,RS Target T,RS Fully-auto,0.75s,16,8,0.5,48,96,0.5,false
+26,21:16:17.537,RS Target BL,RS Fully-auto,0.949s,17,8,0.471,48,102,0.471,false
+27,21:16:18.740,RS Target BL,RS Fully-auto,1.021s,21,6,0.286,36,126,0.286,false
+28,21:16:20.266,RS Target B,RS Fully-auto,0.914s,19,4,0.211,24,114,0.211,false
+29,21:16:21.737,RS Target B,RS Fully-auto,0.823s,17,4,0.235,24,102,0.235,false
+30,21:16:22.861,RS Target R,RS Fully-auto,0.647s,14,8,0.571,48,84,0.571,false
+31,21:16:24.593,RS Target T,RS Fully-auto,0.861s,18,6,0.333,36,108,0.333,false
+32,21:16:25.796,RS Target T,RS Fully-auto,0.601s,13,8,0.615,48,78,0.615,false
+33,21:16:27.286,RS Target R,RS Fully-auto,0.861s,18,7,0.389,42,108,0.389,false
+34,21:16:28.726,RS Target TL,RS Fully-auto,0.91s,19,7,0.368,42,114,0.368,false
+35,21:16:30.514,RS Target L,RS Fully-auto,0.798s,17,8,0.471,48,102,0.471,false
+36,21:16:31.722,RS Target T,RS Fully-auto,0.799s,17,8,0.471,48,102,0.471,false
+37,21:16:33.242,RS Target TL,RS Fully-auto,0.86s,18,6,0.333,36,108,0.333,false
+38,21:16:34.526,RS Target R,RS Fully-auto,1.074s,22,5,0.227,30,132,0.227,false
+39,21:16:36.003,RS Target TL,RS Fully-auto,0.96s,20,7,0.35,42,120,0.35,false
+40,21:16:37.359,RS Target T,RS Fully-auto,0.597s,13,8,0.615,48,78,0.615,false
+41,21:16:39.103,RS Target TR,RS Fully-auto,0.798s,17,8,0.471,48,102,0.471,false
+42,21:16:40.736,RS Target BR,RS Fully-auto,0.89s,18,3,0.167,18,108,0.167,false
+43,21:16:42.261,RS Target BL,RS Fully-auto,0.897s,19,8,0.421,48,114,0.421,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+RS Fully-auto,762,293,1758.0,4572.0,
+
+Kills:,43
+Deaths:,0
+Fight Time:,36.139999
+Avg TTK:,0
+Damage Done:,1758.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1758.0
+Scenario:,Reactive Switching
+Hash:,bcad0052e8f96d083baf6d54fe8e0f3d
+Game Version:,2.0.5.3
+Challenge Start:,21:15:43.036
+Pause Count:,27
+Pause Duration:,107
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.4
+Vert Sens:,7.4
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,314.579132
+Resolution Scale,100.0

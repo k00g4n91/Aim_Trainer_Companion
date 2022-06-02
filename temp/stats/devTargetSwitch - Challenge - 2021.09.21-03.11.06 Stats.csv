@@ -1,0 +1,78 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:10:22.777,Quaker Bot Long Strafes,MGV2,0.739s,16,6,0.375,6,32,0.188,false
+2,03:10:23.972,Quaker Bot Long Strafes,MGV2,0.806s,19,6,0.316,6,38,0.158,false
+3,03:10:24.838,Quaker Bot Long Strafes,MGV2,0.448s,11,6,0.545,6,22,0.273,false
+4,03:10:25.762,Quaker Bot Long Strafes,MGV2,0.665s,12,6,0.5,6,24,0.25,false
+5,03:10:26.927,Quaker Bot Long Strafes,MGV2,0.807s,19,6,0.316,6,38,0.158,false
+6,03:10:28.037,Quaker Bot Long Strafes,MGV2,0.718s,17,6,0.353,6,34,0.176,false
+7,03:10:29.180,Quaker Bot Long Strafes,MGV2,0.873s,18,6,0.333,6,36,0.167,false
+8,03:10:30.284,Quaker Bot Long Strafes,MGV2,0.761s,18,6,0.333,6,36,0.167,false
+9,03:10:31.340,Quaker Bot Long Strafes,MGV2,0.718s,17,6,0.353,6,34,0.176,false
+10,03:10:31.988,Quaker Bot Long Strafes,MGV2,0.27s,7,6,0.857,6,14,0.429,false
+11,03:10:33.112,Quaker Bot Long Strafes,MGV2,0.72s,17,6,0.353,6,34,0.176,false
+12,03:10:34.488,Quaker Bot Long Strafes,MGV2,0.941s,22,6,0.273,6,44,0.136,false
+13,03:10:35.380,Quaker Bot Long Strafes,MGV2,0.627s,15,6,0.4,6,30,0.2,false
+14,03:10:36.254,Quaker Bot Long Strafes,MGV2,0.539s,13,6,0.462,6,26,0.231,false
+15,03:10:37.428,Quaker Bot Long Strafes,MGV2,0.852s,20,6,0.3,6,40,0.15,false
+16,03:10:38.513,Quaker Bot Long Strafes,MGV2,0.763s,18,6,0.333,6,36,0.167,false
+17,03:10:39.115,Quaker Bot Long Strafes,MGV2,0.266s,7,6,0.857,6,14,0.429,false
+18,03:10:39.758,Quaker Bot Long Strafes,MGV2,0.398s,9,6,0.667,6,18,0.333,false
+19,03:10:40.847,Quaker Bot Long Strafes,MGV2,0.762s,18,6,0.333,6,36,0.167,false
+20,03:10:42.311,Quaker Bot Long Strafes,MGV2,1.077s,25,6,0.24,6,50,0.12,false
+21,03:10:43.552,Quaker Bot Long Strafes,MGV2,1.004s,21,6,0.286,6,42,0.143,false
+22,03:10:45.001,Quaker Bot Long Strafes,MGV2,1.124s,26,6,0.231,6,52,0.115,false
+23,03:10:45.660,Quaker Bot Long Strafes,MGV2,0.357s,9,6,0.667,6,18,0.333,false
+24,03:10:47.148,Quaker Bot Long Strafes,MGV2,1.167s,27,7,0.259,7,54,0.13,false
+25,03:10:47.980,Quaker Bot Long Strafes,MGV2,0.493s,12,5,0.417,5,24,0.208,false
+26,03:10:48.832,Quaker Bot Long Strafes,MGV2,0.583s,14,6,0.429,6,28,0.214,false
+27,03:10:49.886,Quaker Bot Long Strafes,MGV2,0.628s,15,6,0.4,6,30,0.2,false
+28,03:10:50.707,Quaker Bot Long Strafes,MGV2,0.447s,11,6,0.545,6,22,0.273,false
+29,03:10:51.603,Quaker Bot Long Strafes,MGV2,0.539s,13,6,0.462,6,26,0.231,false
+30,03:10:52.656,Quaker Bot Long Strafes,MGV2,0.674s,16,6,0.375,6,32,0.188,false
+31,03:10:53.841,Quaker Bot Long Strafes,MGV2,0.807s,19,6,0.316,6,38,0.158,false
+32,03:10:54.958,Quaker Bot Long Strafes,MGV2,0.846s,18,6,0.333,6,36,0.167,false
+33,03:10:56.538,Quaker Bot Long Strafes,MGV2,1.167s,27,6,0.222,6,54,0.111,false
+34,03:10:58.025,Quaker Bot Long Strafes,MGV2,1.08s,25,6,0.24,6,50,0.12,false
+35,03:10:58.879,Quaker Bot Long Strafes,MGV2,0.448s,11,6,0.545,6,22,0.273,false
+36,03:10:59.551,Quaker Bot Long Strafes,MGV2,0.405s,10,6,0.6,6,20,0.3,false
+37,03:11:00.432,Quaker Bot Long Strafes,MGV2,0.646s,12,6,0.5,6,24,0.25,false
+38,03:11:02.272,Quaker Bot Long Strafes,MGV2,1.395s,32,6,0.188,6,64,0.094,false
+39,03:11:03.601,Quaker Bot Long Strafes,MGV2,0.762s,18,6,0.333,6,36,0.167,false
+40,03:11:05.172,Quaker Bot Long Strafes,MGV2,1.211s,28,6,0.214,6,56,0.107,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+MGV2,695,243,243.0,1390.0,
+
+Kills:,40
+Deaths:,0
+Fight Time:,29.533001
+Avg TTK:,0
+Damage Done:,243.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,243.0
+Scenario:,devTargetSwitch
+Hash:,20afb0c01027cc90b9c37b0afbeaab63
+Game Version:,2.0.5.3
+Challenge Start:,03:10:21.219
+Pause Count:,13
+Pause Duration:,613
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.4
+Vert Sens:,7.4
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,303.286987
+Resolution Scale,100.0

@@ -1,0 +1,47 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:00:02.100,Thin very long strafe,Track Master 100,6.826000s,623,200,0.321027,200.000000,623.000000,0.321027,0
+2,15:00:12.510,Thin very long strafe,Track Master 100,10.152000s,708,200,0.282486,200.000000,708.000000,0.282486,0
+3,15:00:20.919,Thin very long strafe,Track Master 100,8.146001s,576,200,0.347222,200.000000,576.000000,0.347222,0
+4,15:00:32.350,Thin very long strafe,Track Master 100,11.174001s,879,200,0.227531,200.000000,879.000000,0.227531,0
+5,15:00:43.301,Thin very long strafe,Track Master 100,10.688001s,765,200,0.261438,200.000000,765.000000,0.261438,0
+6,15:00:52.226,Thin very long strafe,Track Master 100,6.299000s,567,200,0.352734,200.000000,567.000000,0.352734,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,4129,1200,1200.0,4129.0,
+
+Kills:,6
+Deaths:,0
+Fight Time:,53.285004
+Avg TTK:,9.999943
+Damage Done:,1200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1200.0
+Scenario:,Thin Aiming Long
+Hash:,3a5aabeed03bd10e4d437104ff1b425b
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,11
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,144.006195
+Resolution Scale:,100.0

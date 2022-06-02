@@ -1,0 +1,56 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:09:05.007,regen_dot,Poke-Drill,1.487s,150,57,0.38,57,150,0.38,false
+2,18:09:07.551,regen_dot,Poke-Drill,2.019s,203,97,0.478,97,203,0.478,false
+3,18:09:16.390,regen_dot,Poke-Drill,7.699s,771,271,0.351,271,771,0.351,false
+4,18:09:19.903,regen_dot,Poke-Drill,3.253s,303,128,0.422,128,303,0.422,false
+5,18:09:22.954,regen_dot,Poke-Drill,2.459s,247,93,0.377,93,247,0.377,false
+6,18:09:27.913,regen_dot,Poke-Drill,4.437s,445,136,0.306,136,445,0.306,false
+7,18:09:30.702,regen_dot,Poke-Drill,2.556s,166,68,0.41,68,166,0.41,false
+8,18:09:32.405,regen_dot,Poke-Drill,1.228s,124,64,0.516,64,124,0.516,false
+9,18:09:33.603,regen_dot,Poke-Drill,0.944s,77,50,0.649,50,77,0.649,false
+10,18:09:36.146,regen_dot,Poke-Drill,2.296s,198,82,0.414,82,198,0.414,false
+11,18:09:41.715,regen_dot,Poke-Drill,5.019s,503,165,0.328,165,503,0.328,false
+12,18:09:43.697,regen_dot,Poke-Drill,1.72s,128,64,0.5,64,128,0.5,false
+13,18:09:50.220,regen_dot,Poke-Drill,6.272s,541,198,0.366,198,541,0.366,false
+14,18:09:51.641,regen_dot,Poke-Drill,1.162s,87,51,0.586,51,87,0.586,false
+15,18:09:53.198,regen_dot,Poke-Drill,1.308s,94,50,0.532,50,94,0.532,false
+16,18:09:55.194,regen_dot,Poke-Drill,1.408s,142,57,0.401,57,142,0.401,false
+17,18:09:56.547,regen_dot,Poke-Drill,1.094s,91,64,0.703,64,91,0.703,false
+18,18:09:58.761,regen_dot,Poke-Drill,1.981s,152,77,0.507,77,152,0.507,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4704,1866,1866.0,4704.0,
+
+Kills:,18
+Deaths:,0
+Fight Time:,48.341999
+Avg TTK:,0
+Damage Done:,1866.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,18.0
+Scenario:,TamTS Warzone
+Hash:,60aae8a70af86e8feb5be02a6329003d
+Game Version:,2.0.5.2
+Challenge Start:,18:09:02.508
+Pause Count:,5
+Pause Duration:,997
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,9.0
+Vert Sens:,9.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,301.788696
+Resolution Scale,100.0

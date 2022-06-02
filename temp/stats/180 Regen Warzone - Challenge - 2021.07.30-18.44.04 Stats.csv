@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:43:16.987,Quaker Bot Long Strafes,dps,11.999s,241,92,0.382,2108,8194,0.257,false
+2,18:43:24.585,Quaker Bot Long Strafes,dps,7.347s,148,57,0.385,969,5032,0.193,false
+3,18:43:27.867,Quaker Bot Long Strafes,dps,3.028s,49,19,0.388,340,1666,0.204,false
+4,18:43:31.747,Quaker Bot Long Strafes,dps,3.345s,68,28,0.412,476,2312,0.206,false
+5,18:43:34.448,Quaker Bot Long Strafes,dps,2.448s,39,20,0.513,340,1326,0.256,false
+6,18:43:35.885,Quaker Bot Long Strafes,dps,0.75s,16,12,0.75,204,544,0.375,false
+7,18:43:36.806,Quaker Bot Long Strafes,dps,0.67s,11,9,0.818,153,374,0.409,false
+8,18:43:41.357,Quaker Bot Long Strafes,dps,4.445s,78,29,0.372,493,2652,0.186,false
+9,18:43:44.391,Quaker Bot Long Strafes,dps,2.785s,53,24,0.453,408,1802,0.226,false
+10,18:43:48.939,Quaker Bot Long Strafes,dps,3.947s,80,33,0.412,561,2720,0.206,false
+11,18:43:50.009,Quaker Bot Long Strafes,dps,0.771s,13,11,0.846,187,442,0.423,false
+12,18:43:54.962,Quaker Bot Long Strafes,dps,4.701s,91,51,0.56,867,3094,0.28,false
+13,18:43:57.518,Quaker Bot Long Strafes,dps,2.303s,37,16,0.432,272,1258,0.216,false
+14,18:43:58.419,Quaker Bot Long Strafes,dps,0.648s,14,9,0.643,153,476,0.321,false
+15,18:44:00.842,Quaker Bot Long Strafes,dps,2.174s,44,22,0.5,374,1496,0.25,false
+16,18:44:02.204,Quaker Bot Long Strafes,dps,0.897s,19,13,0.684,221,646,0.342,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+dps,1035,465,8466.0,35190.0,
+
+Kills:,17
+Deaths:,0
+Fight Time:,53.904999
+Avg TTK:,0
+Damage Done:,8466.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,21233.0
+Scenario:,180 Regen Warzone
+Hash:,fcd51178d9b8e4293e2913bdd0796cd3
+Game Version:,2.0.5.2
+Challenge Start:,18:43:04.176
+Pause Count:,36
+Pause Duration:,1067
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,250.569473
+Resolution Scale,100.0

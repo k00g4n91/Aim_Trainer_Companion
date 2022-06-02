@@ -1,0 +1,83 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,12:06:41.362,Quaker Bot Long Strafes,Track_fullsound,1.096000s,111,50,0.450450,50.000000,222.000000,0.225225,0
+2,12:06:42.689,Quaker Bot Long Strafes,Track_fullsound,1.070000s,88,50,0.568182,50.000000,176.000000,0.284091,0
+3,12:06:44.723,Quaker Bot Long Strafes,Track_fullsound,1.646000s,166,50,0.301205,50.000000,332.000000,0.150602,0
+4,12:06:46.507,Quaker Bot Long Strafes,Track_fullsound,1.284000s,130,50,0.384615,50.000000,260.000000,0.192308,0
+5,12:06:49.577,Quaker Bot Long Strafes,Track_fullsound,2.854000s,287,93,0.324042,93.000000,574.000000,0.162021,0
+6,12:06:49.884,Quaker Bot Long Strafes,Track_fullsound,0.055000s,7,7,1.000000,7.000000,14.000000,0.500000,0
+7,12:06:53.153,Quaker Bot Long Strafes,Track_fullsound,2.868000s,277,52,0.187726,52.000000,554.000000,0.093863,0
+8,12:06:54.334,Quaker Bot Long Strafes,Track_fullsound,0.646000s,66,48,0.727273,48.000000,132.000000,0.363636,0
+9,12:06:55.376,Quaker Bot Long Strafes,Track_fullsound,0.617000s,63,50,0.793651,50.000000,126.000000,0.396825,0
+10,12:06:56.459,Quaker Bot Long Strafes,Track_fullsound,0.646000s,66,50,0.757576,50.000000,132.000000,0.378788,0
+11,12:06:57.952,Quaker Bot Long Strafes,Track_fullsound,1.187000s,112,50,0.446429,50.000000,224.000000,0.223214,0
+12,12:06:59.390,Quaker Bot Long Strafes,Track_fullsound,0.993000s,101,50,0.495050,50.000000,202.000000,0.247525,0
+13,12:07:01.258,Quaker Bot Long Strafes,Track_fullsound,1.513000s,153,69,0.450980,69.000000,306.000000,0.225490,0
+14,12:07:02.141,Quaker Bot Long Strafes,Track_fullsound,0.618000s,48,31,0.645833,31.000000,96.000000,0.322917,0
+15,12:07:03.613,Quaker Bot Long Strafes,Track_fullsound,0.889000s,90,50,0.555556,50.000000,180.000000,0.277778,0
+16,12:07:05.689,Quaker Bot Long Strafes,Track_fullsound,1.854000s,178,50,0.280899,50.000000,356.000000,0.140449,0
+17,12:07:06.863,Quaker Bot Long Strafes,Track_fullsound,0.714000s,73,50,0.684932,50.000000,146.000000,0.342466,0
+18,12:07:08.002,Quaker Bot Long Strafes,Track_fullsound,0.910000s,73,50,0.684932,50.000000,146.000000,0.342466,0
+19,12:07:09.333,Quaker Bot Long Strafes,Track_fullsound,0.673000s,69,50,0.724638,50.000000,138.000000,0.362319,0
+20,12:07:10.242,Quaker Bot Long Strafes,Track_fullsound,0.583000s,60,50,0.833333,50.000000,120.000000,0.416667,0
+21,12:07:11.805,Quaker Bot Long Strafes,Track_fullsound,1.111000s,105,50,0.476190,50.000000,210.000000,0.238095,0
+22,12:07:15.069,Quaker Bot Long Strafes,Track_fullsound,2.924000s,284,97,0.341549,97.000000,568.000000,0.170775,0
+23,12:07:15.709,Quaker Bot Long Strafes,Track_fullsound,0.194000s,21,3,0.142857,3.000000,42.000000,0.071429,0
+24,12:07:17.972,Quaker Bot Long Strafes,Track_fullsound,2.034000s,155,50,0.322581,50.000000,310.000000,0.161290,0
+25,12:07:19.208,Quaker Bot Long Strafes,Track_fullsound,0.826000s,84,50,0.595238,50.000000,168.000000,0.297619,0
+26,12:07:20.715,Quaker Bot Long Strafes,Track_fullsound,1.257000s,120,50,0.416667,50.000000,240.000000,0.208333,0
+27,12:07:22.305,Quaker Bot Long Strafes,Track_fullsound,1.243000s,126,50,0.396825,50.000000,252.000000,0.198413,0
+28,12:07:23.805,Quaker Bot Long Strafes,Track_fullsound,1.055000s,95,50,0.526316,50.000000,190.000000,0.263158,0
+29,12:07:25.417,Quaker Bot Long Strafes,Track_fullsound,1.076000s,109,50,0.458716,50.000000,218.000000,0.229358,0
+30,12:07:27.326,Quaker Bot Long Strafes,Track_fullsound,1.660000s,123,54,0.439024,54.000000,246.000000,0.219512,0
+31,12:07:29.098,Quaker Bot Long Strafes,Track_fullsound,1.410000s,133,94,0.706767,94.000000,266.000000,0.353383,0
+32,12:07:29.971,Quaker Bot Long Strafes,Track_fullsound,0.854000s,65,21,0.323077,21.000000,130.000000,0.161538,0
+33,12:07:31.153,Quaker Bot Long Strafes,Track_fullsound,1.028000s,104,35,0.336538,35.000000,208.000000,0.168269,0
+34,12:07:32.188,Quaker Bot Long Strafes,Track_fullsound,0.584000s,60,46,0.766667,46.000000,120.000000,0.383333,0
+35,12:07:33.667,Quaker Bot Long Strafes,Track_fullsound,1.063000s,100,50,0.500000,50.000000,200.000000,0.250000,0
+36,12:07:35.035,Quaker Bot Long Strafes,Track_fullsound,0.944000s,96,50,0.520833,50.000000,192.000000,0.260417,0
+37,12:07:36.966,Quaker Bot Long Strafes,Track_fullsound,1.520000s,144,50,0.347222,50.000000,288.000000,0.173611,0
+38,12:07:38.111,Quaker Bot Long Strafes,Track_fullsound,0.924000s,76,50,0.657895,50.000000,152.000000,0.328947,0
+39,12:07:39.604,Quaker Bot Long Strafes,Track_fullsound,1.166000s,107,50,0.467290,50.000000,214.000000,0.233645,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track_fullsound,4325,1950,1950.0,8650.0,
+track_earlove,0,0,0.0,0.0,
+track_earlove2,0,0,0.0,0.0,
+pistol,0,0,0.0,0.0,,,,,,false,plus.png,1.0,0FF0FF000,,,
+
+Kills:,39
+Deaths:,0
+Fight Time:,45.589001
+Avg TTK:,1.564093
+Damage Done:,1950.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,626.780518
+Score:,879.190735
+Scenario:,CIC2LS
+Hash:,601a3abd312a9e017df237cfdb0e0f2c
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,17
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.246643
+Resolution Scale:,100.0

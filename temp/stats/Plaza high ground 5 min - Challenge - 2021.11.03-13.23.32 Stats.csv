@@ -1,0 +1,56 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,13:18:44.910,air_close_short,LG,11.411s,1142,553,0.484,721.112,1489.156,0.484,false
+2,13:18:59.295,air1_far_short,LG,13.22s,1323,553,0.418,721.112,1725.172,0.418,false
+3,13:19:31.437,Bot Profile,LG,31.884s,2833,553,0.195,721.112,3694.144,0.195,false
+4,13:19:42.653,air1F_close_long,LG,9.92s,940,553,0.588,721.112,1225.757,0.588,false
+5,13:19:57.175,air1F_far_long,LG,13.317s,1307,553,0.423,721.112,1704.308,0.423,false
+6,13:20:11.643,air1F_close_short,LG,14.216s,1344,553,0.411,721.112,1752.555,0.411,false
+7,13:20:29.090,air1F_far_short,LG,17.191s,1609,553,0.344,721.112,2098.103,0.344,false
+8,13:21:02.127,air1_UFO,LG,32.785s,2845,553,0.194,721.112,3709.791,0.194,false
+9,13:21:16.404,air_close_short,LG,13.04s,1305,553,0.424,721.112,1701.7,0.424,false
+10,13:21:30.317,air1_far_short,LG,12.597s,1261,553,0.439,721.112,1644.326,0.439,false
+11,13:22:04.043,Bot Profile,LG,33.474s,2963,553,0.187,721.112,3863.658,0.187,false
+12,13:22:15.604,air1F_close_long,LG,10.38s,1030,553,0.537,721.112,1343.113,0.537,false
+13,13:22:27.242,air1F_far_long,LG,10.296s,964,553,0.574,721.112,1257.052,0.574,false
+14,13:22:44.017,air1F_close_short,LG,16.514s,1564,553,0.354,721.112,2039.425,0.354,false
+15,13:23:00.761,air1F_far_short,LG,15.696s,1560,553,0.354,721.112,2034.209,0.354,false
+16,13:23:25.852,air1_UFO,LG,24.004s,2156,553,0.256,721.112,2811.366,0.256,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,26740,9081,11841.337891,34877.410156,
+
+Kills:,16
+Deaths:,0
+Fight Time:,279.945007
+Avg TTK:,0
+Damage Done:,11841.337891
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Plaza high ground 5 min
+Hash:,978c11e78bfbd1ba22c7f7a9437ff823
+Game Version:,v2.6.3
+Challenge Start:,13:18:32.628
+Pause Count:,9
+Pause Duration:,96
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.2
+Vert Sens:,7.2
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,327.864075
+Resolution Scale,100.0

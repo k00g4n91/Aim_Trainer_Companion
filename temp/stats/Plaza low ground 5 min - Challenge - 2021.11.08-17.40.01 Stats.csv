@@ -1,0 +1,54 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,17:35:05.036,air_close_short,LG,20.295s,1259,553,0.439,721.112,1641.718,0.439,false
+2,17:35:20.700,air1_far_short,LG,14.158s,1417,553,0.39,721.112,1847.743,0.39,false
+3,17:35:53.726,Bot Profile,LG,31.545s,2685,553,0.206,721.112,3501.158,0.206,false
+4,17:36:07.572,air1F_close_long,LG,12.451s,1127,553,0.491,721.112,1469.596,0.491,false
+5,17:36:24.705,air1F_far_long,LG,16.883s,1430,553,0.387,721.112,1864.695,0.387,false
+6,17:36:46.965,air1F_close_short,LG,21.325s,1982,553,0.279,721.112,2584.478,0.279,false
+7,17:37:10.353,air1F_far_short,LG,23.159s,2057,553,0.269,721.112,2682.275,0.269,false
+8,17:37:50.574,air1_UFO,LG,38.858s,3208,553,0.172,721.112,4183.143,0.172,false
+9,17:38:05.204,air_close_short,LG,13.584s,1340,553,0.413,721.112,1747.339,0.413,false
+10,17:38:18.322,air1_far_short,LG,12.856s,1164,553,0.475,721.112,1517.843,0.475,false
+11,17:38:48.203,Bot Profile,LG,28.868s,2552,553,0.217,721.112,3327.732,0.217,false
+12,17:39:03.024,air1F_close_long,LG,14.628s,1143,553,0.484,721.112,1490.46,0.484,false
+13,17:39:17.259,air1F_far_long,LG,13.008s,1136,553,0.487,721.112,1481.332,0.487,false
+14,17:39:37.150,air1F_close_short,LG,18.856s,1824,553,0.303,721.112,2378.453,0.303,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,25335,8044,10489.389648,33044.324219,
+
+Kills:,14
+Deaths:,0
+Fight Time:,280.473999
+Avg TTK:,0
+Damage Done:,10489.389648
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Plaza low ground 5 min
+Hash:,f2844d5efa46cdf9fefa237695060b8a
+Game Version:,v2.6.3
+Challenge Start:,17:39:49.991
+Pause Count:,16
+Pause Duration:,1136
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.9
+Vert Sens:,6.9
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,341.890869
+Resolution Scale,100.0

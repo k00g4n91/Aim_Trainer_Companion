@@ -1,0 +1,86 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:09:26.228,RS Target TL,pistol,0.883s,2,1,0.5,30,120,0.25,false
+2,03:09:26.827,RS Target B,pistol,0.389s,2,2,1,60,120,0.5,false
+3,03:09:28.063,RS Target L,pistol,0.364s,2,2,1,60,120,0.5,false
+4,03:09:29.162,RS Target BR,pistol,0.412s,2,2,1,60,120,0.5,false
+5,03:09:30.578,RS Target T,pistol,0.419s,2,2,1,60,120,0.5,false
+6,03:09:31.658,RS Target TL,pistol,0.399s,2,2,1,60,120,0.5,false
+7,03:09:32.675,RS Target R,pistol,0.439s,2,2,1,60,120,0.5,false
+8,03:09:33.805,RS Target BL,pistol,0.413s,2,2,1,60,120,0.5,false
+9,03:09:35.379,RS Target BL,pistol,0.852s,2,1,0.5,30,120,0.25,false
+10,03:09:36.609,RS Target TL,pistol,0.894s,2,1,0.5,30,120,0.25,false
+11,03:09:37.342,RS Target L,pistol,0.412s,2,2,1,60,120,0.5,false
+12,03:09:39.011,RS Target T,pistol,0.875s,2,1,0.5,30,120,0.25,false
+13,03:09:40.346,RS Target TL,pistol,0.904s,2,1,0.5,30,120,0.25,false
+14,03:09:41.260,RS Target B,pistol,0.396s,2,2,1,60,120,0.5,false
+15,03:09:42.913,RS Target TR,pistol,0.869s,2,1,0.5,30,120,0.25,false
+16,03:09:43.722,RS Target B,pistol,0.426s,2,2,1,60,120,0.5,false
+17,03:09:45.263,RS Target BR,pistol,0.853s,2,1,0.5,30,120,0.25,false
+18,03:09:46.229,RS Target TR,pistol,0.45s,2,2,1,60,120,0.5,false
+19,03:09:47.924,RS Target BR,pistol,0.859s,2,1,0.5,30,120,0.25,false
+20,03:09:49.367,RS Target B,pistol,0.815s,2,1,0.5,30,120,0.25,false
+21,03:09:50.733,RS Target B,pistol,1.151s,3,1,0.333,30,180,0.167,false
+22,03:09:51.755,RS Target B,pistol,0.445s,2,2,1,60,120,0.5,false
+23,03:09:52.925,RS Target BR,pistol,0.418s,2,2,1,60,120,0.5,false
+24,03:09:54.008,RS Target T,pistol,0.413s,2,2,1,60,120,0.5,false
+25,03:09:55.136,RS Target T,pistol,0.372s,2,2,1,60,120,0.5,false
+26,03:09:56.860,RS Target TR,pistol,0.851s,2,1,0.5,30,120,0.25,false
+27,03:09:57.593,RS Target T,pistol,0.391s,2,2,1,60,120,0.5,false
+28,03:09:58.698,RS Target T,pistol,0.409s,2,2,1,60,120,0.5,false
+29,03:09:59.833,RS Target R,pistol,0.448s,2,2,1,60,120,0.5,false
+30,03:10:01.496,RS Target B,pistol,0.841s,2,1,0.5,30,120,0.25,false
+31,03:10:02.225,RS Target TR,pistol,0.429s,2,2,1,60,120,0.5,false
+32,03:10:03.232,RS Target TR,pistol,0.438s,2,2,1,60,120,0.5,false
+33,03:10:04.380,RS Target R,pistol,0.481s,2,2,1,60,120,0.5,false
+34,03:10:05.455,RS Target T,pistol,0.393s,2,2,1,60,120,0.5,false
+35,03:10:06.601,RS Target B,pistol,0.4s,2,2,1,60,120,0.5,false
+36,03:10:07.833,RS Target R,pistol,0.419s,2,2,1,60,120,0.5,false
+37,03:10:09.036,RS Target BR,pistol,0.452s,2,2,1,60,120,0.5,false
+38,03:10:10.132,RS Target TR,pistol,0.445s,2,2,1,60,120,0.5,false
+39,03:10:11.740,RS Target R,pistol,0.882s,2,1,0.5,30,120,0.25,false
+40,03:10:12.519,RS Target L,pistol,0.662s,3,2,0.667,60,180,0.333,false
+41,03:10:14.137,RS Target BR,pistol,0.858s,2,1,0.5,30,120,0.25,false
+42,03:10:14.822,RS Target BR,pistol,0.418s,2,2,1,60,120,0.5,false
+43,03:10:15.941,RS Target T,pistol,0.403s,2,2,1,60,120,0.5,false
+44,03:10:17.841,RS Target BR,pistol,0.894s,2,1,0.5,30,120,0.25,false
+45,03:10:18.925,RS Target BR,pistol,0.912s,2,1,0.5,30,120,0.25,false
+46,03:10:20.845,RS Target BR,pistol,1.604s,3,1,0.333,30,180,0.167,false
+47,03:10:22.647,RS Target B,pistol,1.798s,3,1,0.333,30,180,0.167,false
+48,03:10:23.673,RS Target TR,pistol,0.454s,2,2,1,60,120,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,101,79,2370.0,6060.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,48
+Deaths:,0
+Fight Time:,30.403999
+Avg TTK:,0
+Damage Done:,2370.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,3
+Distance Traveled:,0.0
+Score:,2370.0
+Scenario:,Reactive Clicking
+Hash:,daeb3d1b8f01e17098922fb0b1cc2ca3
+Game Version:,2.0.5.3
+Challenge Start:,03:09:24.405
+Pause Count:,32
+Pause Duration:,662
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,328.158447
+Resolution Scale,100.0

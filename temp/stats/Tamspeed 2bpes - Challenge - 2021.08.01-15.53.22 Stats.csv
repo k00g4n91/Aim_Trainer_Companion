@@ -1,0 +1,85 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:52:23.275,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+2,15:52:24.172,Pasu Semi Dodge,pistol,0.262s,2,1,0.5,25,100,0.25,false
+3,15:52:24.870,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+4,15:52:26.547,Pasu Semi Dodge,pistol,0.967s,3,1,0.333,25,150,0.167,false
+5,15:52:29.143,Pasu Semi Dodge,pistol,1.838s,4,1,0.25,25,200,0.125,false
+6,15:52:30.672,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+7,15:52:31.334,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+8,15:52:32.470,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+9,15:52:33.409,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+10,15:52:35.207,Pasu Semi Dodge,pistol,1.088s,3,1,0.333,25,150,0.167,false
+11,15:52:35.917,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+12,15:52:36.403,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+13,15:52:37.603,Pasu Semi Dodge,pistol,0.347s,2,1,0.5,25,100,0.25,false
+14,15:52:38.449,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+15,15:52:38.911,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+16,15:52:39.494,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+17,15:52:40.353,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+18,15:52:41.459,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+19,15:52:42.259,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+20,15:52:43.251,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+21,15:52:44.405,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+22,15:52:45.265,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+23,15:52:46.285,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+24,15:52:47.759,Pasu Semi Dodge,pistol,0.603s,3,1,0.333,25,150,0.167,false
+25,15:52:48.475,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+26,15:52:51.050,Pasu Semi Dodge,pistol,1.815s,4,1,0.25,25,200,0.125,false
+27,15:52:53.214,Pasu Semi Dodge,pistol,1.131s,2,1,0.5,25,100,0.25,false
+28,15:52:53.892,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+29,15:52:57.488,Pasu Semi Dodge,pistol,2.296s,4,1,0.25,25,200,0.125,false
+30,15:52:58.779,Pasu Semi Dodge,pistol,0.584s,2,1,0.5,25,100,0.25,false
+31,15:53:00.888,Pasu Semi Dodge,pistol,0.733s,2,1,0.5,25,100,0.25,false
+32,15:53:02.133,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+33,15:53:03.129,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+34,15:53:03.935,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+35,15:53:04.867,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+36,15:53:06.214,Pasu Semi Dodge,pistol,0.507s,2,1,0.5,25,100,0.25,false
+37,15:53:07.491,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+38,15:53:08.251,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+39,15:53:10.024,Pasu Semi Dodge,pistol,0.374s,2,1,0.5,25,100,0.25,false
+40,15:53:11.508,Pasu Semi Dodge,pistol,0.692s,2,1,0.5,25,100,0.25,false
+41,15:53:12.457,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+42,15:53:12.989,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+43,15:53:13.812,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+44,15:53:14.926,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+45,15:53:16.810,Pasu Semi Dodge,pistol,0.905s,2,1,0.5,25,100,0.25,false
+46,15:53:18.085,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+47,15:53:19.048,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,74,47,1175.0,3700.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,47
+Deaths:,0
+Fight Time:,14.143
+Avg TTK:,0
+Damage Done:,1175.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,47.0
+Scenario:,Tamspeed 2bpes
+Hash:,4953232e824cf75a3b500d5d54099088
+Game Version:,2.0.5.2
+Challenge Start:,15:52:22.687
+Pause Count:,25
+Pause Duration:,471
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,262.34137
+Resolution Scale,100.0

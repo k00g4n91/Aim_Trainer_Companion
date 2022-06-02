@@ -1,0 +1,57 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:56:46.445,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+2,18:56:47.258,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+3,18:56:48.184,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,18:56:50.743,target_decay,pistol,1.791s,3,1,0.333,25,150,0.167,false
+5,18:56:57.059,target_decay,pistol,5.26s,6,1,0.167,25,300,0.083,false
+6,18:56:57.926,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+7,18:57:00.525,target_decay,pistol,1.613s,3,1,0.333,25,150,0.167,false
+8,18:57:06.739,target_decay,pistol,5.195s,7,1,0.143,25,350,0.071,false
+9,18:57:07.514,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+10,18:57:15.539,target_decay,pistol,7.162s,9,1,0.111,25,450,0.056,false
+11,18:57:20.960,target_decay,pistol,4.544s,6,1,0.167,25,300,0.083,false
+12,18:57:21.782,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+13,18:57:24.496,target_decay,pistol,1.863s,4,1,0.25,25,200,0.125,false
+14,18:57:26.350,target_decay,pistol,1.007s,2,1,0.5,25,100,0.25,false
+15,18:57:28.120,target_decay,pistol,0.972s,2,1,0.5,25,100,0.25,false
+16,18:57:36.235,target_decay,pistol,7.325s,10,1,0.1,25,500,0.05,false
+17,18:57:41.518,target_decay,pistol,4.39s,6,1,0.167,25,300,0.083,false
+18,18:57:42.278,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+19,18:57:43.080,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,70,19,475.0,3500.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,19
+Deaths:,0
+Fight Time:,41.123001
+Avg TTK:,0
+Damage Done:,475.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,515.714294
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.5.3
+Challenge Start:,18:56:45.882
+Pause Count:,6
+Pause Duration:,75
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,220.427765
+Resolution Scale,100.0

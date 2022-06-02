@@ -1,0 +1,48 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:34:14.489,Quaker Bot Long Strafes,LG,7.521000s,151,67,0.443709,402.000000,906.000000,0.443709,0
+2,15:34:21.371,Quaker Bot Long Strafes,LG,6.319000s,124,67,0.540323,402.000000,744.000000,0.540323,0
+3,15:34:29.115,Quaker Bot Long Strafes,LG,6.903000s,134,67,0.500000,402.000000,804.000000,0.500000,0
+4,15:34:35.663,Quaker Bot Long Strafes,LG,5.813000s,112,67,0.598214,402.000000,672.000000,0.598214,0
+5,15:34:43.837,Quaker Bot Long Strafes,LG,7.417000s,143,67,0.468531,402.000000,858.000000,0.468531,0
+6,15:34:52.456,Quaker Bot Long Strafes,LG,7.667000s,148,67,0.452703,402.000000,888.000000,0.452703,0
+7,15:34:58.755,Quaker Bot Long Strafes,LG,6.021000s,111,67,0.603604,402.000000,666.000000,0.603604,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1064,525,3150.0,6384.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,47.661003
+Avg TTK:,8.714234
+Damage Done:,3150.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,57476.671875
+Score:,14450.0
+Scenario:,Close LS Easy Dodge
+Hash:,d7f95fe4bff87c8145406b39f9570432
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,37
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.310257
+Resolution Scale:,100.0

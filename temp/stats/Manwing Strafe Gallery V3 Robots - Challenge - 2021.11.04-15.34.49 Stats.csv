@@ -1,0 +1,57 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:33:58.343,Watcher Bot Long Strafes,Manwing,8.262s,11,3,0.273,1000,4400,0.227,false
+2,15:34:05.751,Watcher Bot Long Strafes,Manwing,6.061s,8,3,0.375,1200,3200,0.375,false
+3,15:34:07.074,Watcher Bot Long Strafes,Manwing,0s,1,1,1,400,400,1,false
+4,15:34:10.018,Watcher Bot Long Strafes,Manwing,2.033s,5,2,0.4,400,2000,0.2,false
+5,15:34:14.337,Watcher Bot Long Strafes,Manwing,3.073s,6,2,0.333,800,2400,0.333,false
+6,15:34:16.945,Watcher Bot Long Strafes,Manwing,1.071s,3,2,0.667,800,1200,0.667,false
+7,15:34:20.194,Watcher Bot Long Strafes,Manwing,2.236s,4,3,0.75,800,1600,0.5,false
+8,15:34:22.043,Watcher Bot Long Strafes,Manwing,0.961s,3,2,0.667,800,1200,0.667,false
+9,15:34:24.559,Watcher Bot Long Strafes,Manwing,1.537s,4,2,0.5,600,1600,0.375,false
+10,15:34:26.657,Watcher Bot Long Strafes,Manwing,1.08s,2,2,1,800,800,1,false
+11,15:34:28.692,Watcher Bot Long Strafes,Manwing,1.306s,3,2,0.667,600,1200,0.5,false
+12,15:34:32.429,Watcher Bot Long Strafes,Manwing,2.814s,5,2,0.4,800,2000,0.4,false
+13,15:34:34.978,Watcher Bot Long Strafes,Manwing,1.775s,3,2,0.667,600,1200,0.5,false
+14,15:34:37.581,Watcher Bot Long Strafes,Manwing,1.69s,3,2,0.667,800,1200,0.667,false
+15,15:34:39.233,Watcher Bot Long Strafes,Manwing,0.746s,2,2,1,800,800,1,false
+16,15:34:46.419,Watcher Bot Long Strafes,Manwing,6.592s,8,2,0.25,600,3200,0.188,false
+17,15:34:47.814,Watcher Bot Long Strafes,Manwing,0.773s,2,2,1,600,800,0.75,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,74,37,12600.0,29600.0,
+
+Kills:,17
+Deaths:,0
+Fight Time:,42.009998
+Avg TTK:,0
+Damage Done:,12600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,3
+Distance Traveled:,1345.836426
+Score:,63000.0
+Scenario:,Manwing Strafe Gallery V3 Robots
+Hash:,d2d81e7e1cb4620856ec143ba80f45fa
+Game Version:,v2.6.3
+Challenge Start:,15:33:49.142
+Pause Count:,15
+Pause Duration:,127
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.9
+Vert Sens:,6.9
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,251.732559
+Resolution Scale,100.0

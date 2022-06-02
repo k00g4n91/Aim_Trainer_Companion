@@ -1,0 +1,57 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:36:38.751,air_close_short,LG,12.566s,1258,553,0.44,721.112,1640.414,0.44,false
+2,16:36:52.711,air1_far_short,LG,12.619s,1263,553,0.438,721.112,1646.934,0.438,false
+3,16:37:22.024,Bot Profile,LG,27.787s,2430,553,0.228,721.112,3168.65,0.228,false
+4,16:37:34.366,air1F_close_long,LG,11.004s,1047,553,0.528,721.112,1365.28,0.528,false
+5,16:37:50.883,air1F_far_long,LG,16.266s,1371,553,0.403,721.112,1787.761,0.403,false
+6,16:38:06.196,air1F_close_short,LG,15.068s,1391,553,0.398,721.112,1813.84,0.398,false
+7,16:38:23.856,air1F_far_short,LG,16.339s,1635,553,0.338,721.112,2132.006,0.338,false
+8,16:38:47.119,air1_UFO,LG,23.001s,1984,553,0.279,721.112,2587.086,0.279,false
+9,16:38:59.607,air_close_short,LG,11.177s,1119,553,0.494,721.112,1459.165,0.494,false
+10,16:39:13.591,air1_far_short,LG,12.624s,1251,553,0.442,721.112,1631.287,0.442,false
+11,16:39:39.220,Bot Profile,LG,25.367s,2134,553,0.259,721.112,2782.679,0.259,false
+12,16:39:50.149,air1F_close_long,LG,10.671s,896,553,0.617,721.112,1168.383,0.617,false
+13,16:40:04.940,air1F_far_long,LG,14.55s,1242,553,0.445,721.112,1619.551,0.445,false
+14,16:40:21.901,air1F_close_short,LG,15.916s,1505,553,0.367,721.112,1962.491,0.367,false
+15,16:40:47.367,air1F_far_short,LG,24.308s,1550,553,0.357,721.112,2021.169,0.357,false
+16,16:41:14.621,air1_UFO,LG,27.003s,2255,553,0.245,721.112,2940.458,0.245,false
+17,16:41:28.547,air_close_short,LG,12.889s,1290,553,0.429,721.112,1682.141,0.429,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,26008,9548,12450.170898,33922.378906,
+
+Kills:,17
+Deaths:,0
+Fight Time:,289.154999
+Avg TTK:,0
+Damage Done:,12450.170898
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Plaza high ground 5 min
+Hash:,978c11e78bfbd1ba22c7f7a9437ff823
+Game Version:,v2.6.3
+Challenge Start:,16:40:35.964
+Pause Count:,29
+Pause Duration:,696
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.9
+Vert Sens:,6.9
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,334.785248
+Resolution Scale,100.0

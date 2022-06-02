@@ -1,0 +1,58 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:38:30.994,Quaker Bot Long Strafes,dps,0.649s,14,11,0.786,187,476,0.393,false
+2,19:38:32.681,Quaker Bot Long Strafes,dps,1.198s,25,10,0.4,170,850,0.2,false
+3,19:38:35.524,Quaker Bot Long Strafes,dps,2.248s,46,18,0.391,306,1564,0.196,false
+4,19:38:37.911,Quaker Bot Long Strafes,dps,1.861s,34,12,0.353,204,1156,0.176,false
+5,19:38:45.337,Quaker Bot Long Strafes,dps,6.723s,132,55,0.417,935,4488,0.208,false
+6,19:38:49.562,Quaker Bot Long Strafes,dps,3.834s,76,30,0.395,527,2584,0.204,false
+7,19:38:51.697,Quaker Bot Long Strafes,dps,1.345s,27,14,0.519,238,918,0.259,false
+8,19:38:59.081,Quaker Bot Long Strafes,dps,6.927s,132,53,0.402,901,4488,0.201,false
+9,19:39:00.313,Quaker Bot Long Strafes,dps,0.98s,17,5,0.294,170,578,0.294,false
+10,19:39:04.775,Quaker Bot Long Strafes,dps,4.166s,77,25,0.325,510,2618,0.195,false
+12,19:39:06.282,Quaker Bot Long Strafes,dps,1.148s,24,19,0.792,340,816,0.417,false
+13,19:39:07.640,Quaker Bot Long Strafes,dps,1.254s,22,10,0.455,170,748,0.227,false
+14,19:39:10.597,Quaker Bot Long Strafes,dps,2.907s,56,27,0.482,459,1904,0.241,false
+15,19:39:12.852,Quaker Bot Long Strafes,dps,2.006s,39,19,0.487,323,1326,0.244,false
+16,19:39:15.189,Quaker Bot Long Strafes,dps,2.084s,39,15,0.385,255,1326,0.192,false
+17,19:39:17.454,Quaker Bot Long Strafes,dps,1.847s,38,20,0.526,340,1292,0.263,false
+18,19:39:19.850,Quaker Bot Long Strafes,dps,1.971s,38,10,0.263,170,1292,0.132,false
+19,19:39:22.045,Quaker Bot Long Strafes,dps,1.769s,35,11,0.314,187,1190,0.157,false
+20,19:39:24.927,Quaker Bot Long Strafes,dps,2.531s,48,22,0.458,374,1632,0.229,false
+21,19:39:27.414,Quaker Bot Long Strafes,dps,2.235s,39,23,0.59,391,1326,0.295,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+dps,994,428,7480.0,33796.0,
+
+Kills:,22
+Deaths:,0
+Fight Time:,52.679001
+Avg TTK:,0
+Damage Done:,7480.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,25740.0
+Scenario:,180 Regen Warzone
+Hash:,fcd51178d9b8e4293e2913bdd0796cd3
+Game Version:,2.0.5.3
+Challenge Start:,19:38:29.642
+Pause Count:,12
+Pause Duration:,847
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,247.127335
+Resolution Scale,100.0

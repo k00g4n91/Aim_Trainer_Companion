@@ -1,0 +1,56 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:58:56.793,Reflex Strafing Target L,pistol,4.808s,6,1,0.167,25,300,0.083,false
+2,00:59:02.765,Reflex Strafing Target R,pistol,5.089s,6,1,0.167,25,300,0.083,false
+3,00:59:03.709,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+4,00:59:09.748,Reflex Strafing Target L,pistol,5.192s,6,1,0.167,25,300,0.083,false
+5,00:59:14.879,Reflex Strafing Target L,pistol,4.034s,5,1,0.2,25,250,0.1,false
+6,00:59:17.888,Reflex Strafing Target L,pistol,2.031s,3,1,0.333,25,150,0.167,false
+7,00:59:18.729,Reflex Strafing Target R,pistol,0.001s,1,1,1,25,50,0.5,false
+8,00:59:19.612,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+9,00:59:20.467,Reflex Strafing Target R,pistol,0.001s,1,1,1,25,50,0.5,false
+10,00:59:23.345,Reflex Strafing Target R,pistol,1.893s,3,1,0.333,25,150,0.167,false
+11,00:59:27.073,Reflex Strafing Target L,pistol,2.871s,4,1,0.25,25,200,0.125,false
+12,00:59:31.922,Reflex Strafing Target R,pistol,3.977s,5,1,0.2,25,250,0.1,false
+13,00:59:33.874,Reflex Strafing Target R,pistol,1.09s,2,1,0.5,25,100,0.25,false
+14,00:59:34.814,Reflex Strafing Target L,pistol,0s,1,1,1,25,50,0.5,false
+15,00:59:41.583,Reflex Strafing Target L,pistol,5.786s,7,1,0.143,25,350,0.071,false
+16,00:59:42.602,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+17,00:59:43.484,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+18,00:59:44.238,Reflex Strafing Target R,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,61,18,450.0,3050.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,18
+Deaths:,0
+Fight Time:,36.772999
+Avg TTK:,0
+Damage Done:,450.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,18.0
+Scenario:,Valorant Reflex Flick Strafing
+Hash:,3dc9976006bebf70c2aee2f86cb93c5e
+Game Version:,2.0.5.3
+Challenge Start:,00:58:51.164
+Pause Count:,1
+Pause Duration:,70
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,307.317383
+Resolution Scale,100.0

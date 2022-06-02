@@ -1,0 +1,108 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,09:24:20.127,Quaker Bot Hard,LG,8.414s,184,50,0.272,300,1104,0.272,false
+2,09:24:29.890,Quaker Bot Hard,LG,9.484s,162,50,0.309,300,972,0.309,false
+3,09:25:48.947,Quaker Bot Hard,LG,78.778s,138,50,0.362,300,828,0.362,false
+4,09:25:58.490,Quaker Bot Hard,LG,9.269s,157,50,0.318,300,942,0.318,false
+5,09:26:08.372,Quaker Bot Hard,LG,9.608s,166,50,0.301,300,996,0.301,false
+6,09:26:16.363,Quaker Bot Hard,LG,7.713s,124,50,0.403,300,744,0.403,false
+7,09:26:25.135,Quaker Bot Hard,LG,8.499s,140,50,0.357,300,840,0.357,false
+8,09:26:35.874,Quaker Bot Hard,LG,10.463s,184,50,0.272,300,1104,0.272,false
+9,09:26:43.494,Quaker Bot Hard,LG,7.342s,117,50,0.427,300,702,0.427,false
+10,09:26:52.241,Quaker Bot Hard,LG,6.392s,140,50,0.357,300,840,0.357,false
+11,09:27:01.521,Quaker Bot Hard,LG,9.006s,152,50,0.329,300,912,0.329,false
+12,09:27:10.279,Quaker Bot Hard,LG,8.48s,141,50,0.355,300,846,0.355,false
+13,09:27:20.536,Quaker Bot Hard,LG,9.981s,171,50,0.292,300,1026,0.292,false
+14,09:27:28.598,Quaker Bot Hard,LG,5.657s,124,50,0.403,300,744,0.403,false
+15,09:27:36.348,Quaker Bot Hard,LG,7.476s,120,50,0.417,300,720,0.417,false
+16,09:27:44.013,Quaker Bot Hard,LG,7.39s,117,50,0.427,300,702,0.427,false
+17,09:27:51.977,Quaker Bot Hard,LG,7.689s,126,50,0.397,300,756,0.397,false
+18,09:27:59.154,Quaker Bot Hard,LG,6.902s,106,50,0.472,300,636,0.472,false
+19,09:28:06.934,Quaker Bot Hard,LG,7.509s,122,50,0.41,300,732,0.41,false
+20,09:28:14.906,Quaker Bot Hard,LG,7.696s,124,50,0.403,300,744,0.403,false
+21,09:28:22.511,Quaker Bot Hard,LG,7.325s,117,50,0.427,300,702,0.427,false
+22,09:28:30.811,Quaker Bot Hard,LG,8.025s,133,50,0.376,300,798,0.376,false
+23,09:28:40.236,Quaker Bot Hard,LG,9.153s,157,50,0.318,300,942,0.318,false
+24,09:28:50.264,Quaker Bot Hard,LG,9.753s,169,50,0.296,300,1014,0.296,false
+25,09:28:59.039,Quaker Bot Hard,LG,8.504s,143,50,0.35,300,858,0.35,false
+26,09:29:08.069,Quaker Bot Hard,LG,8.753s,147,50,0.34,300,882,0.34,false
+27,09:29:14.718,Quaker Bot Hard,LG,6.374s,96,50,0.521,300,576,0.521,false
+28,09:29:24.856,Quaker Bot Hard,LG,9.861s,172,50,0.291,300,1032,0.291,false
+29,09:29:32.313,Quaker Bot Hard,LG,7.183s,112,50,0.446,300,672,0.446,false
+30,09:29:39.291,Quaker Bot Hard,LG,6.702s,102,50,0.49,300,612,0.49,false
+31,09:29:47.449,Quaker Bot Hard,LG,7.896s,129,50,0.388,300,774,0.388,false
+32,09:29:56.636,Quaker Bot Hard,LG,6.759s,148,50,0.338,300,888,0.338,false
+33,09:30:05.391,Quaker Bot Hard,LG,8.479s,140,50,0.357,300,840,0.357,false
+34,09:30:14.630,Quaker Bot Hard,LG,8.964s,152,50,0.329,300,912,0.329,false
+35,09:30:21.733,Quaker Bot Hard,LG,6.824s,107,50,0.467,300,642,0.467,false
+36,09:30:30.876,Quaker Bot Hard,LG,8.869s,149,50,0.336,300,894,0.336,false
+37,09:30:40.341,Quaker Bot Hard,LG,9.189s,158,50,0.316,300,948,0.316,false
+38,09:30:48.604,Quaker Bot Hard,LG,7.986s,132,50,0.379,300,792,0.379,false
+39,09:30:55.652,Quaker Bot Hard,LG,4.782s,105,50,0.476,300,630,0.476,false
+40,09:31:02.773,Quaker Bot Hard,LG,6.844s,106,50,0.472,300,636,0.472,false
+41,09:31:10.910,Quaker Bot Hard,LG,7.862s,128,50,0.391,300,768,0.391,false
+42,09:31:18.939,Quaker Bot Hard,LG,5.657s,124,50,0.403,300,744,0.403,false
+43,09:31:26.844,Quaker Bot Hard,LG,7.632s,122,50,0.41,300,732,0.41,false
+44,09:31:34.936,Quaker Bot Hard,LG,7.814s,128,50,0.391,300,768,0.391,false
+45,09:31:42.969,Quaker Bot Hard,LG,7.76s,125,50,0.4,300,750,0.4,false
+46,09:31:50.643,Quaker Bot Hard,LG,7.398s,118,50,0.424,300,708,0.424,false
+47,09:31:58.768,Quaker Bot Hard,LG,7.849s,128,50,0.391,300,768,0.391,false
+48,09:32:08.323,Quaker Bot Hard,LG,9.283s,158,50,0.316,300,948,0.316,false
+49,09:32:15.758,Quaker Bot Hard,LG,7.159s,111,50,0.45,300,666,0.45,false
+50,09:32:23.389,Quaker Bot Hard,LG,7.354s,118,50,0.424,300,708,0.424,false
+51,09:32:32.686,Quaker Bot Hard,LG,9.025s,154,50,0.325,300,924,0.325,false
+52,09:32:41.327,Quaker Bot Hard,LG,8.365s,137,50,0.365,300,822,0.365,false
+53,09:32:48.818,Quaker Bot Hard,LG,7.218s,114,50,0.439,300,684,0.439,false
+54,09:32:58.568,Quaker Bot Hard,LG,9.473s,163,50,0.307,300,978,0.307,false
+55,09:33:07.527,Quaker Bot Hard,LG,8.685s,148,50,0.338,300,888,0.338,false
+56,09:33:16.211,Quaker Bot Hard,LG,6.301s,138,50,0.362,300,828,0.362,false
+57,09:33:26.274,Quaker Bot Hard,LG,9.789s,169,50,0.296,300,1014,0.296,false
+58,09:33:34.481,Quaker Bot Hard,LG,7.93s,129,50,0.388,300,774,0.388,false
+59,09:33:42.152,Quaker Bot Hard,LG,7.397s,118,50,0.424,300,708,0.424,false
+60,09:33:49.905,Quaker Bot Hard,LG,7.477s,119,50,0.42,300,714,0.42,false
+61,09:33:57.918,Quaker Bot Hard,LG,7.737s,125,50,0.4,300,750,0.4,false
+62,09:34:07.949,Quaker Bot Hard,LG,9.757s,168,50,0.298,300,1008,0.298,false
+63,09:34:16.134,Quaker Bot Hard,LG,5.796s,127,50,0.394,300,762,0.394,false
+64,09:34:23.922,Quaker Bot Hard,LG,7.514s,122,50,0.41,300,732,0.41,false
+65,09:34:32.045,Quaker Bot Hard,LG,7.847s,129,50,0.388,300,774,0.388,false
+66,09:34:40.476,Quaker Bot Hard,LG,8.153s,135,50,0.37,300,810,0.37,false
+67,09:34:49.520,Quaker Bot Hard,LG,8.766s,147,50,0.34,300,882,0.34,false
+68,09:34:59.995,Quaker Bot Hard,LG,10.201s,181,50,0.276,300,1086,0.276,false
+69,09:35:09.087,Quaker Bot Hard,LG,6.716s,147,50,0.34,300,882,0.34,false
+70,09:35:18.390,Quaker Bot Hard,LG,9.029s,152,50,0.329,300,912,0.329,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,9580,3500,21000.0,57480.0,
+
+Kills:,70
+Deaths:,0
+Fight Time:,630.916992
+Avg TTK:,0
+Damage Done:,21000.0
+Damage Taken:,25260.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,1416.420166
+Score:,18402.400391
+Scenario:,RexStrafesCata 10 min
+Hash:,918b5f61512ee3eca69a8ae907db399e
+Game Version:,2.0.5.3
+Challenge Start:,09:25:41.098
+Pause Count:,2
+Pause Duration:,86
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.4
+Vert Sens:,7.4
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,291.184998
+Resolution Scale,100.0

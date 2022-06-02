@@ -1,0 +1,107 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,04:27:01.984,Quaker Bot Hard,LG,7.496s,164,50,0.305,300,984,0.305,false
+2,04:27:10.978,Quaker Bot Hard,LG,8.719s,147,50,0.34,300,882,0.34,false
+3,04:27:20.570,Quaker Bot Hard,LG,9.314s,159,50,0.314,300,954,0.314,false
+4,04:27:27.862,Quaker Bot Hard,LG,7.017s,110,50,0.455,300,660,0.455,false
+5,04:27:36.644,Quaker Bot Hard,LG,8.507s,141,50,0.355,300,846,0.355,false
+6,04:27:45.438,Quaker Bot Hard,LG,8.519s,141,50,0.355,300,846,0.355,false
+7,04:27:53.796,Quaker Bot Hard,LG,6.024s,132,50,0.379,300,792,0.379,false
+8,04:28:02.721,Quaker Bot Hard,LG,8.65s,145,50,0.345,300,870,0.345,false
+9,04:28:12.423,Quaker Bot Hard,LG,9.426s,162,50,0.309,300,972,0.309,false
+10,04:28:23.102,Quaker Bot Hard,LG,10.429s,181,50,0.276,300,1086,0.276,false
+11,04:28:31.353,Quaker Bot Hard,LG,5.839s,128,50,0.391,300,768,0.391,false
+12,04:28:40.513,Quaker Bot Hard,LG,8.883s,151,50,0.331,300,906,0.331,false
+13,04:28:49.868,Quaker Bot Hard,LG,9.081s,155,50,0.323,300,930,0.323,false
+14,04:28:59.563,Quaker Bot Hard,LG,9.417s,163,50,0.307,300,978,0.307,false
+15,04:29:08.161,Quaker Bot Hard,LG,8.321s,137,50,0.365,300,822,0.365,false
+16,04:29:16.586,Quaker Bot Hard,LG,8.149s,135,50,0.37,300,810,0.37,false
+17,04:29:26.398,Quaker Bot Hard,LG,9.566s,167,50,0.299,300,1002,0.299,false
+18,04:29:34.326,Quaker Bot Hard,LG,5.518s,121,50,0.413,300,726,0.413,false
+19,04:29:43.711,Quaker Bot Hard,LG,9.112s,154,50,0.325,300,924,0.325,false
+20,04:29:51.362,Quaker Bot Hard,LG,7.373s,117,50,0.427,300,702,0.427,false
+21,04:30:00.773,Quaker Bot Hard,LG,9.138s,155,50,0.323,300,930,0.323,false
+22,04:30:08.402,Quaker Bot Hard,LG,5.289s,116,50,0.431,300,696,0.431,false
+23,04:30:31.636,Quaker Bot Hard,LG,22.957s,184,50,0.272,300,1104,0.272,false
+24,04:30:41.069,Quaker Bot Hard,LG,9.158s,157,50,0.318,300,942,0.318,false
+25,04:30:50.859,Quaker Bot Hard,LG,9.514s,164,50,0.305,300,984,0.305,false
+26,04:31:00.039,Quaker Bot Hard,LG,8.907s,150,50,0.333,300,900,0.333,false
+27,04:31:08.662,Quaker Bot Hard,LG,8.346s,139,50,0.36,300,834,0.36,false
+28,04:31:18.843,Quaker Bot Hard,LG,7.863s,172,50,0.291,300,1032,0.291,false
+29,04:31:26.004,Quaker Bot Hard,LG,6.884s,106,50,0.472,300,636,0.472,false
+30,04:31:34.426,Quaker Bot Hard,LG,8.148s,132,50,0.379,300,792,0.379,false
+31,04:31:43.013,Quaker Bot Hard,LG,8.309s,137,50,0.365,300,822,0.365,false
+32,04:31:53.010,Quaker Bot Hard,LG,9.723s,168,50,0.298,300,1008,0.298,false
+33,04:32:01.803,Quaker Bot Hard,LG,8.516s,144,50,0.347,300,864,0.347,false
+34,04:32:09.829,Quaker Bot Hard,LG,7.751s,126,50,0.397,300,756,0.397,false
+35,04:32:17.302,Quaker Bot Hard,LG,7.198s,117,50,0.427,300,702,0.427,false
+36,04:32:25.102,Quaker Bot Hard,LG,7.538s,121,50,0.413,300,726,0.413,false
+37,04:32:32.783,Quaker Bot Hard,LG,5.287s,116,50,0.431,300,696,0.431,false
+38,04:32:43.694,Quaker Bot Hard,LG,8.554s,187,50,0.267,300,1122,0.267,false
+39,04:32:51.455,Quaker Bot Hard,LG,5.426s,119,50,0.42,300,714,0.42,false
+40,04:33:00.943,Quaker Bot Hard,LG,9.21s,159,50,0.314,300,954,0.314,false
+41,04:33:08.931,Quaker Bot Hard,LG,7.715s,125,50,0.4,300,750,0.4,false
+42,04:33:17.456,Quaker Bot Hard,LG,8.248s,135,50,0.37,300,810,0.37,false
+43,04:33:26.478,Quaker Bot Hard,LG,8.747s,146,50,0.342,300,876,0.342,false
+44,04:33:35.296,Quaker Bot Hard,LG,8.54s,144,50,0.347,300,864,0.347,false
+45,04:33:43.828,Quaker Bot Hard,LG,8.276s,140,50,0.357,300,840,0.357,false
+46,04:33:51.888,Quaker Bot Hard,LG,5.748s,126,50,0.397,300,756,0.397,false
+47,04:34:02.338,Quaker Bot Hard,LG,8.114s,172,50,0.291,300,1032,0.291,false
+48,04:34:11.947,Quaker Bot Hard,LG,7.267s,159,50,0.314,300,954,0.314,false
+49,04:34:20.386,Quaker Bot Hard,LG,8.165s,135,50,0.37,300,810,0.37,false
+50,04:34:28.531,Quaker Bot Hard,LG,7.868s,128,50,0.391,300,768,0.391,false
+51,04:34:36.684,Quaker Bot Hard,LG,7.878s,128,50,0.391,300,768,0.391,false
+52,04:34:46.542,Quaker Bot Hard,LG,9.582s,165,50,0.303,300,990,0.303,false
+53,04:34:56.128,Quaker Bot Hard,LG,9.308s,160,50,0.312,300,960,0.312,false
+54,04:35:02.668,Quaker Bot Hard,LG,6.265s,93,50,0.538,300,558,0.538,false
+55,04:35:10.676,Quaker Bot Hard,LG,5.612s,123,50,0.407,300,738,0.407,false
+56,04:35:19.107,Quaker Bot Hard,LG,8.157s,134,50,0.373,300,804,0.373,false
+57,04:35:26.570,Quaker Bot Hard,LG,4.967s,109,50,0.459,300,654,0.459,false
+58,04:35:36.080,Quaker Bot Hard,LG,7.173s,157,50,0.318,300,942,0.318,false
+59,04:35:44.243,Quaker Bot Hard,LG,7.891s,128,50,0.391,300,768,0.391,false
+60,04:35:51.070,Quaker Bot Hard,LG,4.461s,98,50,0.51,300,588,0.51,false
+61,04:36:00.478,Quaker Bot Hard,LG,9.13s,156,50,0.321,300,936,0.321,false
+62,04:36:08.854,Quaker Bot Hard,LG,6.022s,132,50,0.379,300,792,0.379,false
+63,04:36:16.558,Quaker Bot Hard,LG,7.426s,123,50,0.407,300,738,0.407,false
+64,04:36:26.141,Quaker Bot Hard,LG,9.311s,158,50,0.316,300,948,0.316,false
+65,04:36:34.244,Quaker Bot Hard,LG,7.824s,128,50,0.391,300,768,0.391,false
+66,04:36:42.950,Quaker Bot Hard,LG,8.431s,138,50,0.362,300,828,0.362,false
+67,04:36:50.726,Quaker Bot Hard,LG,5.428s,119,50,0.42,300,714,0.42,false
+68,04:36:57.363,Quaker Bot Hard,LG,6.364s,97,50,0.515,300,582,0.515,false
+69,04:37:05.497,Quaker Bot Hard,LG,5.793s,127,50,0.394,300,762,0.394,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,9663,3450,20700.0,57978.0,
+
+Kills:,69
+Deaths:,0
+Fight Time:,554.786987
+Avg TTK:,0
+Damage Done:,20700.0
+Damage Taken:,25794.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,7015.43457
+Score:,17567.044922
+Scenario:,RexStrafesCata 10 min
+Hash:,918b5f61512ee3eca69a8ae907db399e
+Game Version:,2.0.5.3
+Challenge Start:,04:30:21.710
+Pause Count:,2
+Pause Duration:,182
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.4
+Vert Sens:,7.4
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,301.454315
+Resolution Scale,100.0

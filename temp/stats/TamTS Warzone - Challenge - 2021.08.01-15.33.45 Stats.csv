@@ -1,0 +1,60 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:32:48.883,regen_dot,Poke-Drill,2.488s,250,104,0.416,104,250,0.416,false
+2,15:32:50.609,regen_dot,Poke-Drill,1.498s,101,62,0.614,62,101,0.614,false
+3,15:32:52.859,regen_dot,Poke-Drill,1.481s,149,62,0.416,62,149,0.416,false
+4,15:32:56.677,regen_dot,Poke-Drill,3.116s,313,126,0.403,126,313,0.403,false
+5,15:32:58.695,regen_dot,Poke-Drill,1.458s,147,75,0.51,75,147,0.51,false
+6,15:33:01.116,regen_dot,Poke-Drill,1.958s,197,93,0.472,93,197,0.472,false
+7,15:33:03.832,regen_dot,Poke-Drill,1.669s,168,86,0.512,86,168,0.512,false
+8,15:33:05.645,regen_dot,Poke-Drill,1.561s,65,50,0.769,50,65,0.769,false
+9,15:33:09.271,regen_dot,Poke-Drill,2.438s,245,100,0.408,100,245,0.408,false
+10,15:33:10.783,regen_dot,Poke-Drill,1.259s,104,64,0.615,64,104,0.615,false
+11,15:33:13.283,regen_dot,Poke-Drill,1.897s,191,97,0.508,97,191,0.508,false
+12,15:33:17.848,regen_dot,Poke-Drill,4.314s,315,138,0.438,138,315,0.438,false
+13,15:33:20.248,regen_dot,Poke-Drill,1.668s,168,71,0.423,71,168,0.423,false
+14,15:33:21.983,regen_dot,Poke-Drill,1.503s,128,67,0.523,67,128,0.523,false
+15,15:33:24.378,regen_dot,Poke-Drill,1.798s,181,89,0.492,89,181,0.492,false
+16,15:33:25.997,regen_dot,Poke-Drill,0.579s,59,50,0.847,50,59,0.847,false
+17,15:33:28.709,regen_dot,Poke-Drill,2.047s,206,97,0.471,97,206,0.471,false
+18,15:33:33.479,regen_dot,Poke-Drill,4.513s,327,88,0.269,88,327,0.269,false
+19,15:33:36.159,regen_dot,Poke-Drill,1.449s,146,64,0.438,64,146,0.438,false
+20,15:33:38.358,regen_dot,Poke-Drill,1.948s,149,63,0.423,63,149,0.423,false
+21,15:33:39.976,regen_dot,Poke-Drill,1.359s,95,59,0.621,59,95,0.621,false
+22,15:33:43.255,regen_dot,Poke-Drill,3.03s,237,105,0.443,105,237,0.443,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Poke-Drill,4118,1855,1855.0,4118.0,
+
+Kills:,22
+Deaths:,0
+Fight Time:,45.030998
+Avg TTK:,0
+Damage Done:,1855.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,22.0
+Scenario:,TamTS Warzone
+Hash:,60aae8a70af86e8feb5be02a6329003d
+Game Version:,2.0.5.2
+Challenge Start:,15:32:45.398
+Pause Count:,7
+Pause Duration:,423
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,288.848663
+Resolution Scale,100.0

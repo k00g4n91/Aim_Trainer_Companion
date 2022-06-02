@@ -1,0 +1,51 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:12:45.225,target_decay,pistol,0.777s,2,1,0.5,25,100,0.25,false
+2,19:12:46.037,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+3,19:12:47.759,target_decay,pistol,0.946s,2,1,0.5,25,100,0.25,false
+4,19:12:49.410,target_decay,pistol,0.82s,2,1,0.5,25,100,0.25,false
+5,19:13:01.077,target_decay,pistol,10.896s,13,1,0.077,25,650,0.038,false
+6,19:13:06.421,target_decay,pistol,4.587s,4,1,0.25,25,200,0.125,false
+7,19:13:07.229,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+8,19:13:12.466,target_decay,pistol,4.366s,6,1,0.167,25,300,0.083,false
+9,19:13:20.427,target_decay,pistol,7.189s,8,1,0.125,25,400,0.062,false
+10,19:13:21.271,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+11,19:13:26.553,target_decay,pistol,4.534s,6,1,0.167,25,300,0.083,false
+12,19:13:29.141,target_decay,pistol,1.805s,3,1,0.333,25,150,0.167,false
+13,19:13:34.475,target_decay,pistol,4.557s,6,1,0.167,25,300,0.083,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,63,13,325.0,3150.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,13
+Deaths:,0
+Fight Time:,40.477001
+Avg TTK:,0
+Damage Done:,325.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,268.253967
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,2.0.5.3
+Challenge Start:,19:12:42.868
+Pause Count:,37
+Pause Duration:,1781
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,222.751053
+Resolution Scale,100.0

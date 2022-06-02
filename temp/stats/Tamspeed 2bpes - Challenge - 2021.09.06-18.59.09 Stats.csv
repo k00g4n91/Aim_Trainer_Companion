@@ -1,0 +1,82 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:58:11.179,Pasu Semi Dodge,pistol,0.868s,3,1,0.333,25,150,0.167,false
+2,18:58:12.379,Pasu Semi Dodge,pistol,0.701s,2,1,0.5,25,100,0.25,false
+3,18:58:12.932,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+4,18:58:13.968,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+5,18:58:14.869,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+6,18:58:15.710,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+7,18:58:16.355,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+8,18:58:17.537,Pasu Semi Dodge,pistol,0.399s,2,1,0.5,25,100,0.25,false
+9,18:58:18.109,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+10,18:58:18.696,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+11,18:58:19.822,Pasu Semi Dodge,pistol,0.49s,2,1,0.5,25,100,0.25,false
+12,18:58:20.628,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+13,18:58:22.863,Pasu Semi Dodge,pistol,1.642s,4,1,0.25,25,200,0.125,false
+14,18:58:23.961,Pasu Semi Dodge,pistol,0.577s,2,1,0.5,25,100,0.25,false
+15,18:58:25.871,Pasu Semi Dodge,pistol,1.313s,3,1,0.333,25,150,0.167,false
+16,18:58:27.131,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+17,18:58:28.611,Pasu Semi Dodge,pistol,0.668s,2,1,0.5,25,100,0.25,false
+18,18:58:30.733,Pasu Semi Dodge,pistol,1.582s,3,1,0.333,25,150,0.167,false
+19,18:58:33.021,Pasu Semi Dodge,pistol,1.747s,3,1,0.333,25,150,0.167,false
+20,18:58:35.676,Pasu Semi Dodge,pistol,1.284s,3,1,0.333,25,150,0.167,false
+21,18:58:37.185,Pasu Semi Dodge,pistol,0.68s,2,1,0.5,25,100,0.25,false
+22,18:58:38.476,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+23,18:58:40.959,Pasu Semi Dodge,pistol,1.098s,2,1,0.5,25,100,0.25,false
+24,18:58:42.392,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+25,18:58:43.092,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+26,18:58:44.260,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+27,18:58:44.997,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+28,18:58:45.925,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+29,18:58:46.425,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+30,18:58:47.159,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+31,18:58:48.349,Pasu Semi Dodge,pistol,0.689s,2,1,0.5,25,100,0.25,false
+32,18:58:49.389,Pasu Semi Dodge,pistol,0.374s,2,1,0.5,25,100,0.25,false
+33,18:58:50.310,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+34,18:58:51.371,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+35,18:58:51.992,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+36,18:58:52.692,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+37,18:58:53.721,Pasu Semi Dodge,pistol,0.001s,1,1,1,25,50,0.5,false
+38,18:58:58.993,Pasu Semi Dodge,pistol,4.368s,6,1,0.167,25,300,0.083,false
+39,18:59:02.538,Pasu Semi Dodge,pistol,2.784s,5,1,0.2,25,250,0.1,false
+40,18:59:03.129,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+41,18:59:04.113,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+42,18:59:05.613,Pasu Semi Dodge,pistol,0.576s,2,1,0.5,25,100,0.25,false
+43,18:59:07.335,Pasu Semi Dodge,pistol,0.728s,2,1,0.5,25,100,0.25,false
+44,18:59:08.222,Pasu Semi Dodge,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,78,44,1100.0,3900.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,44
+Deaths:,0
+Fight Time:,22.57
+Avg TTK:,0
+Damage Done:,1100.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,4
+Distance Traveled:,0.0
+Score:,44.0
+Scenario:,Tamspeed 2bpes
+Hash:,4953232e824cf75a3b500d5d54099088
+Game Version:,2.0.5.3
+Challenge Start:,18:58:09.635
+Pause Count:,31
+Pause Duration:,541
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,266.563202
+Resolution Scale,100.0

@@ -1,0 +1,58 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:12:37.004,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+2,21:12:42.445,target_decay,pistol,4.673s,6,1,0.167,25,300,0.083,false
+3,21:12:44.985,target_decay,pistol,1.685s,3,1,0.333,25,150,0.167,false
+4,21:12:54.753,target_decay,pistol,8.962s,10,1,0.1,25,500,0.05,false
+5,21:12:55.568,target_decay,pistol,0.001s,1,1,1,25,50,0.5,false
+6,21:12:56.429,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+7,21:13:04.539,target_decay,pistol,7.106s,9,1,0.111,25,450,0.056,false
+8,21:13:06.360,target_decay,pistol,0.957s,2,1,0.5,25,100,0.25,false
+9,21:13:11.626,target_decay,pistol,4.468s,6,1,0.167,25,300,0.083,false
+10,21:13:14.211,target_decay,pistol,1.735s,3,1,0.333,25,150,0.167,false
+11,21:13:16.960,target_decay,pistol,1.902s,3,1,0.333,25,150,0.167,false
+12,21:13:17.757,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+13,21:13:18.523,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+14,21:13:19.359,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+15,21:13:22.862,target_decay,pistol,2.749s,4,1,0.25,25,200,0.125,false
+16,21:13:26.374,target_decay,pistol,2.637s,4,1,0.25,25,200,0.125,false
+17,21:13:27.152,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+18,21:13:36.200,target_decay,pistol,8.139s,10,1,0.1,25,500,0.05,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,67,18,450.0,3350.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,18
+Deaths:,0
+Fight Time:,45.014
+Avg TTK:,0
+Damage Done:,450.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,483.582123
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,v2.6.1
+Challenge Start:,21:12:36.235
+Pause Count:,7
+Pause Duration:,48
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.6
+Vert Sens:,7.6
+DPI:,400
+FOV:,100.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,292.386383
+Resolution Scale,100.0

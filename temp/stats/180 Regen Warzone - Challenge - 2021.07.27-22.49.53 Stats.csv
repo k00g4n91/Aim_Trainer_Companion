@@ -1,0 +1,45 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:49:04.429,Quaker Bot Long Strafes,dps,9.596s,193,51,0.264,1700,6562,0.259,false
+2,22:49:41.794,Quaker Bot Long Strafes,dps,37.066s,677,148,0.219,4029,23018,0.175,false
+3,22:49:44.292,Quaker Bot Long Strafes,dps,2.199s,45,11,0.244,374,1530,0.244,false
+4,22:49:46.042,Quaker Bot Long Strafes,dps,1.499s,31,11,0.355,374,1054,0.355,false
+5,22:49:48.293,Quaker Bot Long Strafes,dps,1.998s,41,13,0.317,442,1394,0.317,false
+6,22:49:50.395,Quaker Bot Long Strafes,dps,1.85s,38,7,0.184,238,1292,0.184,false
+7,22:49:52.732,Quaker Bot Long Strafes,dps,2.039s,33,8,0.242,272,1122,0.242,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+dps,1069,250,7463.0,36346.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,56.247002
+Avg TTK:,0
+Damage Done:,7463.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,18943.357422
+Score:,15467.339844
+Scenario:,180 Regen Warzone
+Hash:,fcd51178d9b8e4293e2913bdd0796cd3
+Game Version:,2.0.5.2
+Challenge Start:,22:48:53.418
+Pause Count:,14
+Pause Duration:,307
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,261.316071
+Resolution Scale,100.0

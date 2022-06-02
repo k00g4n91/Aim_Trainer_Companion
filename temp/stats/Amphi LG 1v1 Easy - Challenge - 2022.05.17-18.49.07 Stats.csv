@@ -1,0 +1,47 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:48:14.056,Quaker Bot Hard,LG,6.508000s,123,50,0.406504,300.000000,738.000000,0.406504,0
+2,18:48:22.439,Quaker Bot Hard,LG,7.091001s,143,50,0.349650,300.000000,858.000000,0.349650,0
+3,18:48:32.212,Quaker Bot Hard,LG,8.446000s,164,50,0.304878,300.000000,984.000000,0.304878,0
+4,18:48:40.227,Quaker Bot Hard,LG,6.723001s,132,50,0.378788,300.000000,792.000000,0.378788,0
+5,18:48:50.632,Quaker Bot Hard,LG,9.278001s,172,50,0.290698,300.000000,1032.000000,0.290698,0
+6,18:49:02.678,Quaker Bot Hard,LG,11.768001s,213,50,0.234742,300.000000,1278.000000,0.234742,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1017,328,1968.0,6102.0,
+
+Kills:,6
+Deaths:,0
+Fight Time:,49.814003
+Avg TTK:,10.166607
+Damage Done:,1968.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,53628.90625
+Score:,10904.0
+Scenario:,Amphi LG 1v1 Easy
+Hash:,ee8bf52b85b200118998ce70e6d8e415
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,7
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.339386
+Resolution Scale:,100.0

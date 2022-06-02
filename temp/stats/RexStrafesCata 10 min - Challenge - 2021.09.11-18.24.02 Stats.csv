@@ -1,0 +1,103 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:01:48.482,Quaker Bot Hard,LG,7.92s,171,50,0.292,300,1026,0.292,false
+2,18:04:14.775,Quaker Bot Hard,LG,146.018s,199,50,0.251,300,1194,0.251,false
+3,18:04:27.686,Quaker Bot Hard,LG,12.635s,231,50,0.216,300,1386,0.216,false
+4,18:04:35.165,Quaker Bot Hard,LG,7.203s,112,50,0.446,300,672,0.446,false
+5,18:04:45.149,Quaker Bot Hard,LG,9.709s,167,50,0.299,300,1002,0.299,false
+6,18:04:53.225,Quaker Bot Hard,LG,7.798s,125,50,0.4,300,750,0.4,false
+7,18:05:01.895,Quaker Bot Hard,LG,8.398s,139,50,0.36,300,834,0.36,false
+8,18:05:11.571,Quaker Bot Hard,LG,9.401s,160,50,0.312,300,960,0.312,false
+9,18:05:20.180,Quaker Bot Hard,LG,8.329s,137,50,0.365,300,822,0.365,false
+10,18:05:30.691,Quaker Bot Hard,LG,10.237s,180,50,0.278,300,1080,0.278,false
+11,18:05:39.840,Quaker Bot Hard,LG,8.871s,147,50,0.34,300,882,0.34,false
+12,18:05:51.003,Quaker Bot Hard,LG,10.889s,187,50,0.267,300,1122,0.267,false
+13,18:06:01.511,Quaker Bot Hard,LG,10.231s,178,50,0.281,300,1068,0.281,false
+14,18:06:09.287,Quaker Bot Hard,LG,7.504s,121,50,0.413,300,726,0.413,false
+15,18:06:19.118,Quaker Bot Hard,LG,9.556s,164,50,0.305,300,984,0.305,false
+16,18:07:15.757,Quaker Bot Hard,LG,56.364s,203,50,0.246,300,1218,0.246,false
+17,18:07:24.996,Quaker Bot Hard,LG,6.805s,149,50,0.336,300,894,0.336,false
+18,18:07:33.801,Quaker Bot Hard,LG,8.529s,141,50,0.355,300,846,0.355,false
+19,18:07:43.298,Quaker Bot Hard,LG,7.037s,154,50,0.325,300,924,0.325,false
+20,18:07:54.509,Quaker Bot Hard,LG,10.937s,192,50,0.26,300,1152,0.26,false
+21,18:08:03.913,Quaker Bot Hard,LG,9.127s,156,50,0.321,300,936,0.321,false
+22,18:08:12.576,Quaker Bot Hard,LG,8.384s,139,50,0.36,300,834,0.36,false
+23,18:08:21.140,Quaker Bot Hard,LG,8.287s,138,50,0.362,300,828,0.362,false
+24,18:17:52.756,Quaker Bot Hard,LG,571.339s,137,50,0.365,300,822,0.365,false
+25,18:18:03.247,Quaker Bot Hard,LG,10.217s,179,50,0.279,300,1074,0.279,false
+26,18:18:12.699,Quaker Bot Hard,LG,9.18s,155,50,0.323,300,930,0.323,false
+27,18:18:20.669,Quaker Bot Hard,LG,7.693s,123,50,0.407,300,738,0.407,false
+28,18:18:30.258,Quaker Bot Hard,LG,9.312s,159,50,0.314,300,954,0.314,false
+29,18:18:39.782,Quaker Bot Hard,LG,9.254s,158,50,0.316,300,948,0.316,false
+30,18:18:47.202,Quaker Bot Hard,LG,7.144s,112,50,0.446,300,672,0.446,false
+31,18:18:56.600,Quaker Bot Hard,LG,7.082s,155,50,0.323,300,930,0.323,false
+32,18:19:08.882,Quaker Bot Hard,LG,12.008s,173,50,0.289,300,1038,0.289,false
+33,18:19:17.394,Quaker Bot Hard,LG,6.068s,133,50,0.376,300,798,0.376,false
+34,18:19:28.237,Quaker Bot Hard,LG,8.418s,184,50,0.272,300,1104,0.272,false
+35,18:19:37.499,Quaker Bot Hard,LG,8.992s,152,50,0.329,300,912,0.329,false
+36,18:19:45.319,Quaker Bot Hard,LG,7.542s,121,50,0.413,300,726,0.413,false
+37,18:19:54.577,Quaker Bot Hard,LG,8.985s,152,50,0.329,300,912,0.329,false
+38,18:20:02.870,Quaker Bot Hard,LG,8.014s,131,50,0.382,300,786,0.382,false
+39,18:20:12.763,Quaker Bot Hard,LG,9.617s,163,50,0.307,300,978,0.307,false
+40,18:20:20.840,Quaker Bot Hard,LG,5.748s,126,50,0.397,300,756,0.397,false
+41,18:20:29.374,Quaker Bot Hard,LG,8.257s,136,50,0.368,300,816,0.368,false
+42,18:20:38.018,Quaker Bot Hard,LG,8.367s,138,50,0.362,300,828,0.362,false
+43,18:20:45.136,Quaker Bot Hard,LG,6.843s,106,50,0.472,300,636,0.472,false
+44,18:20:55.398,Quaker Bot Hard,LG,9.99s,174,50,0.287,300,1044,0.287,false
+45,18:21:04.551,Quaker Bot Hard,LG,6.804s,149,50,0.336,300,894,0.336,false
+46,18:21:12.841,Quaker Bot Hard,LG,8.014s,132,50,0.379,300,792,0.379,false
+47,18:21:19.976,Quaker Bot Hard,LG,6.857s,108,50,0.463,300,648,0.463,false
+48,18:21:28.893,Quaker Bot Hard,LG,8.643s,144,50,0.347,300,864,0.347,false
+49,18:21:37.644,Quaker Bot Hard,LG,8.477s,142,50,0.352,300,852,0.352,false
+50,18:21:46.369,Quaker Bot Hard,LG,8.449s,142,50,0.352,300,852,0.352,false
+51,18:21:55.549,Quaker Bot Hard,LG,6.805s,149,50,0.336,300,894,0.336,false
+52,18:22:02.816,Quaker Bot Hard,LG,4.919s,108,50,0.463,300,648,0.463,false
+53,18:22:12.224,Quaker Bot Hard,LG,9.128s,155,50,0.323,300,930,0.323,false
+54,18:22:19.844,Quaker Bot Hard,LG,5.24s,115,50,0.435,300,690,0.435,false
+55,18:22:28.007,Quaker Bot Hard,LG,5.794s,127,50,0.394,300,762,0.394,false
+56,18:22:37.509,Quaker Bot Hard,LG,9.226s,157,50,0.318,300,942,0.318,false
+57,18:22:46.691,Quaker Bot Hard,LG,6.804s,149,50,0.336,300,894,0.336,false
+58,18:22:54.360,Quaker Bot Hard,LG,7.391s,119,50,0.42,300,714,0.42,false
+59,18:23:03.712,Quaker Bot Hard,LG,9.079s,157,50,0.318,300,942,0.318,false
+60,18:23:13.167,Quaker Bot Hard,LG,9.182s,156,50,0.321,300,936,0.321,false
+61,18:23:20.845,Quaker Bot Hard,LG,7.401s,118,50,0.424,300,708,0.424,false
+62,18:23:28.552,Quaker Bot Hard,LG,7.431s,121,50,0.413,300,726,0.413,false
+63,18:23:38.110,Quaker Bot Hard,LG,9.284s,159,50,0.314,300,954,0.314,false
+64,18:23:46.995,Quaker Bot Hard,LG,6.485s,142,50,0.352,300,852,0.352,false
+65,18:23:55.468,Quaker Bot Hard,LG,8.199s,135,50,0.37,300,810,0.37,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,9746,3292,19752.0,58476.0,
+
+Kills:,65
+Deaths:,0
+Fight Time:,1289.850952
+Avg TTK:,0
+Damage Done:,19752.0
+Damage Taken:,24852.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,931.837585
+Score:,15818.21875
+Scenario:,RexStrafesCata 10 min
+Hash:,918b5f61512ee3eca69a8ae907db399e
+Game Version:,2.0.5.3
+Challenge Start:,18:19:00.359
+Pause Count:,6
+Pause Duration:,769
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,299.996307
+Resolution Scale,100.0

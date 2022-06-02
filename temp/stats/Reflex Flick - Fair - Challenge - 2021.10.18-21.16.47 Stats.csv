@@ -1,0 +1,64 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,21:15:50.575,target_decay,pistol,2.624s,4,1,0.25,25,200,0.125,false
+2,21:15:54.280,target_decay,pistol,2.803s,4,1,0.25,25,200,0.125,false
+3,21:15:55.058,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,21:15:56.791,target_decay,pistol,0.9s,2,1,0.5,25,100,0.25,false
+5,21:16:02.205,target_decay,pistol,4.607s,6,1,0.167,25,300,0.083,false
+6,21:16:03.027,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+7,21:16:04.886,target_decay,pistol,0.936s,3,1,0.333,25,150,0.167,false
+8,21:16:05.729,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+9,21:16:12.804,target_decay,pistol,6.196s,8,1,0.125,25,400,0.062,false
+10,21:16:15.322,target_decay,pistol,1.681s,3,1,0.333,25,150,0.167,false
+11,21:16:16.927,target_decay,pistol,0.778s,2,1,0.5,25,100,0.25,false
+12,21:16:19.482,target_decay,pistol,1.845s,3,1,0.333,25,150,0.167,false
+13,21:16:20.301,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+14,21:16:21.029,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+15,21:16:22.841,target_decay,pistol,1.013s,2,1,0.5,25,100,0.25,false
+16,21:16:23.688,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+17,21:16:28.132,target_decay,pistol,3.628s,5,1,0.2,25,250,0.1,false
+18,21:16:28.945,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+19,21:16:29.724,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+20,21:16:30.513,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+21,21:16:35.683,target_decay,pistol,4.382s,6,1,0.167,25,300,0.083,false
+22,21:16:36.417,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+23,21:16:40.819,target_decay,pistol,3.545s,5,1,0.2,25,250,0.1,false
+24,21:16:42.751,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,69,24,600.0,3450.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,24
+Deaths:,0
+Fight Time:,34.938
+Avg TTK:,0
+Damage Done:,600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,834.782654
+Scenario:,Reflex Flick - Fair
+Hash:,a51ec6c2d75ccb78bdb0d20bf4ce9cb7
+Game Version:,v2.6.1
+Challenge Start:,21:15:47.319
+Pause Count:,10
+Pause Duration:,51
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.6
+Vert Sens:,7.6
+DPI:,400
+FOV:,100.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,292.950043
+Resolution Scale,100.0

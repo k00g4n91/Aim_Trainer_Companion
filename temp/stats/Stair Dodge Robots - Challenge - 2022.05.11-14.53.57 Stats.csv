@@ -1,0 +1,51 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,14:53:02.496,ABSD Target T 01,ABSD Fully-auto,4.499000s,64,40,0.625000,240.000000,384.000000,0.625000,0
+2,14:53:08.395,ABSD Target B 01,ABSD Fully-auto,4.888000s,95,40,0.421053,240.000000,570.000000,0.421053,0
+3,14:53:14.902,ABSD Target T 02,ABSD Fully-auto,5.743001s,100,40,0.400000,240.000000,600.000000,0.400000,0
+4,14:53:19.535,ABSD Target B 02,ABSD Fully-auto,4.083000s,69,40,0.579710,240.000000,414.000000,0.579710,0
+5,14:53:25.389,ABSD Target T 03,ABSD Fully-auto,5.124000s,71,40,0.563380,240.000000,426.000000,0.563380,0
+6,14:53:31.979,ABSD Target B 03,ABSD Fully-auto,5.985000s,115,40,0.347826,240.000000,690.000000,0.347826,0
+7,14:53:39.001,ABSD Target T 04,ABSD Fully-auto,6.744000s,96,40,0.416667,240.000000,576.000000,0.416667,0
+8,14:53:44.974,ABSD Target B 04,ABSD Fully-auto,5.298000s,100,40,0.400000,240.000000,600.000000,0.400000,0
+9,14:53:52.107,ABSD Target T 05,ABSD Fully-auto,5.980000s,110,40,0.363636,240.000000,660.000000,0.363636,0
+10,14:53:56.782,ABSD Target B 05,ABSD Fully-auto,3.847000s,78,40,0.512821,240.000000,468.000000,0.512821,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ABSD Fully-auto,898,400,2400.0,5388.0,
+
+Kills:,10
+Deaths:,0
+Fight Time:,52.191002
+Avg TTK:,5.989966
+Damage Done:,2400.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,3
+Directs:,0
+Directed:,18
+Reloads:,0
+Distance Traveled:,15498.748047
+Score:,2400.0
+Scenario:,Stair Dodge Robots
+Hash:,2b60a15bd7180087eac068742b0dd283
+Game Version:,3.0.2
+Challenge Start:,H:M:S.s
+Pause Count:,7
+Pause Duration:,-2147483648.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Quake/Source
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.84227
+Resolution Scale:,100.0

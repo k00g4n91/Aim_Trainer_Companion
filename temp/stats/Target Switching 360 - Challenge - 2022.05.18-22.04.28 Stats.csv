@@ -1,0 +1,101 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:03:29.088,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.416000s,241,223,0.925311,205.000000,220.000000,0.931818,0
+2,22:03:30.053,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.478000s,274,225,0.821168,209.000000,250.000000,0.836000,0
+3,22:03:31.519,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.618000s,351,222,0.632479,205.000000,320.000000,0.640625,0
+4,22:03:33.219,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.380000s,670,440,0.656716,400.000000,610.000000,0.655738,0
+5,22:03:33.748,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.055000s,43,10,0.232558,10.000000,40.000000,0.250000,0
+6,22:03:34.699,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.708000s,329,218,0.662614,201.000000,300.000000,0.670000,0
+7,22:03:35.818,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.375000s,219,218,0.995434,200.000000,200.000000,1.000000,0
+8,22:03:36.796,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.513000s,296,217,0.733108,201.000000,270.000000,0.744444,0
+9,22:03:37.658,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.659000s,373,225,0.603217,209.000000,340.000000,0.614706,0
+10,22:03:38.380,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.597000s,340,296,0.870588,269.000000,310.000000,0.867742,0
+11,22:03:39.498,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.076000s,604,232,0.384106,212.000000,550.000000,0.385455,0
+12,22:03:40.005,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.278000s,155,145,0.935484,133.000000,141.000000,0.943262,0
+13,22:03:41.672,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.917000s,516,219,0.424419,203.000000,470.000000,0.431915,0
+14,22:03:42.748,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.555000s,318,223,0.701258,204.000000,290.000000,0.703448,0
+15,22:03:43.984,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.493000s,285,222,0.778947,203.000000,260.000000,0.780769,0
+16,22:03:44.998,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.716000s,406,222,0.546798,206.000000,370.000000,0.556757,0
+17,22:03:45.915,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.638000s,362,225,0.621547,206.000000,330.000000,0.624242,0
+18,22:03:46.574,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.638000s,353,339,0.960340,308.000000,321.000000,0.959502,0
+19,22:03:47.046,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.222000s,131,114,0.870229,106.000000,120.000000,0.883333,0
+20,22:03:48.338,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.492000s,285,222,0.778947,205.000000,260.000000,0.788462,0
+21,22:03:49.053,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.395000s,230,228,0.991304,208.000000,210.000000,0.990476,0
+22,22:03:49.838,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.437000s,252,218,0.865079,201.000000,230.000000,0.873913,0
+23,22:03:50.602,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.395000s,230,219,0.952174,201.000000,210.000000,0.957143,0
+24,22:03:51.532,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.674000s,384,274,0.713542,250.000000,350.000000,0.714286,0
+25,22:03:51.963,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.278000s,164,163,0.993902,150.000000,150.000000,1.000000,0
+26,22:03:53.248,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.778000s,439,215,0.489749,201.000000,400.000000,0.502500,0
+27,22:03:54.345,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.534000s,307,227,0.739414,208.000000,280.000000,0.742857,0
+28,22:03:55.046,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.458000s,263,222,0.844106,203.000000,240.000000,0.845833,0
+29,22:03:56.435,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.993000s,560,220,0.392857,203.000000,510.000000,0.398039,0
+30,22:03:57.475,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.636000s,362,228,0.629834,209.000000,330.000000,0.633333,0
+31,22:03:58.669,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.638000s,362,223,0.616022,204.000000,330.000000,0.618182,0
+32,22:03:59.426,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.437000s,252,227,0.900794,207.000000,230.000000,0.900000,0
+33,22:04:00.578,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.694000s,395,222,0.562025,203.000000,360.000000,0.563889,0
+34,22:04:01.995,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.674000s,384,224,0.583333,205.000000,350.000000,0.585714,0
+35,22:04:02.703,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.514000s,296,224,0.756757,207.000000,270.000000,0.766667,0
+36,22:04:03.676,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.617000s,351,222,0.632479,202.000000,320.000000,0.631250,0
+37,22:04:04.731,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.492000s,285,222,0.778947,204.000000,260.000000,0.784615,0
+38,22:04:06.029,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.534000s,307,230,0.749186,209.000000,280.000000,0.746429,0
+39,22:04:06.738,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.396000s,230,221,0.960870,202.000000,210.000000,0.961905,0
+40,22:04:08.529,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.396000s,648,435,0.671296,397.000000,590.000000,0.672881,0
+41,22:04:09.175,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.341000s,120,10,0.083333,10.000000,110.000000,0.090909,0
+42,22:04:10.745,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.777000s,439,229,0.521640,209.000000,400.000000,0.522500,0
+43,22:04:12.217,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.777000s,439,439,1.000000,400.000000,400.000000,1.000000,0
+44,22:04:12.488,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.021000s,12,10,0.833333,10.000000,11.000000,0.909091,0
+45,22:04:13.877,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.097000s,615,381,0.619512,346.000000,560.000000,0.617857,0
+46,22:04:14.336,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.096000s,65,65,1.000000,60.000000,60.000000,1.000000,0
+47,22:04:15.079,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.395000s,230,220,0.956522,200.000000,210.000000,0.952381,0
+48,22:04:16.037,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.576000s,329,226,0.686930,207.000000,300.000000,0.690000,0
+49,22:04:17.197,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.478000s,274,221,0.806569,202.000000,250.000000,0.808000,0
+50,22:04:18.350,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.618000s,351,221,0.629630,204.000000,320.000000,0.637500,0
+51,22:04:19.078,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.416000s,241,224,0.929461,206.000000,220.000000,0.936364,0
+52,22:04:19.932,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.596000s,340,222,0.652941,202.000000,310.000000,0.651613,0
+53,22:04:20.953,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.416000s,241,217,0.900415,201.000000,220.000000,0.913636,0
+54,22:04:21.696,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.618000s,351,219,0.623932,202.000000,320.000000,0.631250,0
+55,22:04:22.731,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.416000s,241,241,1.000000,220.000000,220.000000,1.000000,0
+56,22:04:23.439,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.500000s,285,207,0.726316,189.000000,260.000000,0.726923,0
+57,22:04:25.002,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.673000s,384,227,0.591146,208.000000,350.000000,0.594286,0
+58,22:04:26.085,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.659000s,373,226,0.605898,207.000000,340.000000,0.608824,0
+59,22:04:27.093,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.694000s,395,226,0.572152,206.000000,360.000000,0.572222,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Alcove_Tracking_Weapon,19010,13181,12085.0,17333.0,
+Alcove Tracking Effect Helper,0,0,0.0,0.0,
+
+Kills:,59
+Deaths:,0
+Fight Time:,33.958
+Avg TTK:,1.033892
+Damage Done:,12085.0
+Damage Taken:,0.0
+Midairs:,339
+Midaired:,0
+Directs:,1096
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,12085.0
+Scenario:,Target Switching 360
+Hash:,4330df31dac064ed7bd5b72602aabd69
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,68
+Pause Duration:,0.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.289734
+Resolution Scale:,100.0

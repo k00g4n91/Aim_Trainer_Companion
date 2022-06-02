@@ -1,0 +1,73 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,00:00:28.459,Long Strafe Bot,ADSable Hitscan Cone,1.896s,1055,463,0.439,433,960,0.451,false
+2,00:00:31.403,Long Strafe Bot,ADSable Hitscan Cone,1.153s,648,461,0.711,433,590,0.734,false
+3,00:00:33.758,Long Strafe Bot,ADSable Hitscan Cone,2.1s,1055,447,0.424,433,960,0.451,false
+4,00:00:36.024,Long Strafe Bot,ADSable Hitscan Cone,1.558s,868,463,0.533,439,790,0.556,false
+5,00:00:39.320,Long Strafe Bot,ADSable Hitscan Cone,2.677s,1484,503,0.339,469,1350,0.347,false
+6,00:00:41.110,Long Strafe Bot,ADSable Hitscan Cone,1.378s,769,428,0.557,405,700,0.579,false
+7,00:00:43.427,Long Strafe Bot,ADSable Hitscan Cone,2.057s,1055,472,0.447,439,960,0.457,false
+8,00:00:45.856,Long Strafe Bot,ADSable Hitscan Cone,2.171s,1121,480,0.428,438,1020,0.429,false
+9,00:00:49.069,Long Strafe Bot,ADSable Hitscan Cone,2.953s,1319,470,0.356,442,1200,0.368,false
+10,00:00:51.242,Long Strafe Bot,ADSable Hitscan Cone,1.926s,967,470,0.486,435,880,0.494,false
+11,00:00:53.708,Long Strafe Bot,ADSable Hitscan Cone,1.977s,1099,463,0.421,436,1000,0.436,false
+12,00:00:55.688,Long Strafe Bot,ADSable Hitscan Cone,1.474s,824,478,0.58,439,750,0.585,false
+13,00:00:57.891,Long Strafe Bot,ADSable Hitscan Cone,1.355s,758,469,0.619,435,690,0.63,false
+14,00:01:00.559,Long Strafe Bot,ADSable Hitscan Cone,2.415s,890,473,0.531,439,810,0.542,false
+15,00:01:02.719,Long Strafe Bot,ADSable Hitscan Cone,1.499s,835,451,0.54,433,760,0.57,false
+16,00:01:04.976,Long Strafe Bot,ADSable Hitscan Cone,1.998s,1011,463,0.458,433,920,0.471,false
+17,00:01:08.061,Long Strafe Bot,ADSable Hitscan Cone,2.134s,1187,468,0.394,434,1080,0.402,false
+18,00:01:11.606,Long Strafe Bot,ADSable Hitscan Cone,3.278s,1407,475,0.338,440,1280,0.344,false
+19,00:01:15.534,Long Strafe Bot,ADSable Hitscan Cone,3.673s,1418,460,0.324,436,1290,0.338,false
+20,00:01:18.014,Long Strafe Bot,ADSable Hitscan Cone,2.222s,1143,468,0.409,442,1040,0.425,false
+21,00:01:20.716,Long Strafe Bot,ADSable Hitscan Cone,2.437s,934,469,0.502,433,850,0.509,false
+22,00:01:23.791,Long Strafe Bot,ADSable Hitscan Cone,2.823s,989,457,0.462,438,900,0.487,false
+23,00:01:27.359,Long Strafe Bot,ADSable Hitscan Cone,3.308s,1363,450,0.33,434,1240,0.35,false
+24,00:01:30.115,Long Strafe Bot,ADSable Hitscan Cone,2.49s,1022,471,0.461,441,930,0.474,false
+25,00:01:31.848,Long Strafe Bot,ADSable Hitscan Cone,1.303s,725,473,0.652,439,660,0.665,false
+26,00:01:34.242,Long Strafe Bot,ADSable Hitscan Cone,2.134s,868,483,0.556,439,790,0.556,false
+27,00:01:36.597,Long Strafe Bot,ADSable Hitscan Cone,2.091s,890,472,0.53,435,810,0.537,false
+28,00:01:39.875,Long Strafe Bot,ADSable Hitscan Cone,2.8s,1550,474,0.306,433,1410,0.307,false
+29,00:01:42.756,Long Strafe Bot,ADSable Hitscan Cone,2.624s,1451,467,0.322,440,1320,0.333,false
+30,00:01:45.068,Long Strafe Bot,ADSable Hitscan Cone,1.397s,780,475,0.609,440,710,0.62,false
+31,00:01:47.389,Long Strafe Bot,ADSable Hitscan Cone,2.062s,747,475,0.636,441,680,0.649,false
+32,00:01:51.043,Long Strafe Bot,ADSable Hitscan Cone,3.393s,1055,467,0.443,434,960,0.452,false
+33,00:01:53.781,Long Strafe Bot,ADSable Hitscan Cone,2.465s,1297,480,0.37,442,1180,0.375,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,34903,15602,14573.0,31760.0,
+
+Kills:,33
+Deaths:,0
+Fight Time:,73.221001
+Avg TTK:,0
+Damage Done:,14573.0
+Damage Taken:,0.0
+Midairs:,267
+Midaired:,0
+Directs:,1029
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,6686.786133
+Scenario:,Ascended Tracking Robots
+Hash:,30eb744d26a1edf6e5605136f62e86a6
+Game Version:,v2.6.1
+Challenge Start:,00:00:24.675
+Pause Count:,26
+Pause Duration:,163
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.6
+Vert Sens:,7.6
+DPI:,400
+FOV:,100.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,123.243958
+Resolution Scale,100.0

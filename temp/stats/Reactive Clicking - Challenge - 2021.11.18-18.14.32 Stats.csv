@@ -1,0 +1,89 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:13:34.171,RS Target BR,pistol,0.431s,2,2,1,60,120,0.5,false
+2,18:13:35.341,RS Target B,pistol,0.437s,2,2,1,60,120,0.5,false
+3,18:13:36.775,RS Target BR,pistol,0.848s,2,1,0.5,30,120,0.25,false
+4,18:13:37.953,RS Target L,pistol,0.822s,2,1,0.5,30,120,0.25,false
+5,18:13:39.478,RS Target R,pistol,0.872s,2,1,0.5,30,120,0.25,false
+6,18:13:40.165,RS Target L,pistol,0.436s,2,2,1,60,120,0.5,false
+7,18:13:41.411,RS Target TR,pistol,0.538s,2,2,1,60,120,0.5,false
+8,18:13:42.869,RS Target TR,pistol,0.902s,2,1,0.5,30,120,0.25,false
+9,18:13:43.612,RS Target T,pistol,0.408s,2,2,1,60,120,0.5,false
+10,18:13:44.831,RS Target BR,pistol,0.458s,2,2,1,60,120,0.5,false
+11,18:13:45.950,RS Target B,pistol,0.501s,2,2,1,60,120,0.5,false
+12,18:13:46.961,RS Target BL,pistol,0.455s,2,2,1,60,120,0.5,false
+13,18:13:48.190,RS Target B,pistol,0.47s,2,2,1,60,120,0.5,false
+14,18:13:49.126,RS Target L,pistol,0.449s,2,2,1,60,120,0.5,false
+15,18:13:50.253,RS Target TR,pistol,0.425s,2,2,1,60,120,0.5,false
+16,18:13:51.476,RS Target L,pistol,0.51s,2,2,1,60,120,0.5,false
+17,18:13:52.504,RS Target TR,pistol,0.42s,2,2,1,60,120,0.5,false
+18,18:13:54.230,RS Target BL,pistol,0.879s,2,1,0.5,30,120,0.25,false
+19,18:13:55.023,RS Target T,pistol,0.461s,2,2,1,60,120,0.5,false
+20,18:13:56.211,RS Target R,pistol,0.473s,2,2,1,60,120,0.5,false
+21,18:13:57.517,RS Target R,pistol,0.673s,3,2,0.667,60,180,0.333,false
+22,18:13:58.657,RS Target TR,pistol,0.469s,2,2,1,60,120,0.5,false
+23,18:13:59.768,RS Target TR,pistol,0.524s,2,2,1,60,120,0.5,false
+24,18:14:00.787,RS Target T,pistol,0.442s,2,2,1,60,120,0.5,false
+25,18:14:01.786,RS Target B,pistol,0.437s,2,2,1,60,120,0.5,false
+26,18:14:03.091,RS Target T,pistol,0.86s,2,1,0.5,30,120,0.25,false
+27,18:14:03.825,RS Target BL,pistol,0.481s,2,2,1,60,120,0.5,false
+28,18:14:05.074,RS Target BL,pistol,0.459s,2,2,1,60,120,0.5,false
+29,18:14:06.494,RS Target L,pistol,0.852s,3,1,0.333,30,180,0.167,false
+30,18:14:07.828,RS Target TL,pistol,0.854s,2,1,0.5,30,120,0.25,false
+31,18:14:08.443,RS Target TL,pistol,0.438s,2,2,1,60,120,0.5,false
+32,18:14:09.673,RS Target BR,pistol,0.464s,2,2,1,60,120,0.5,false
+33,18:14:11.230,RS Target B,pistol,0.868s,2,1,0.5,30,120,0.25,false
+34,18:14:12.106,RS Target TR,pistol,0.479s,2,2,1,60,120,0.5,false
+35,18:14:13.577,RS Target TL,pistol,0.839s,2,1,0.5,30,120,0.25,false
+36,18:14:14.907,RS Target L,pistol,0.842s,2,1,0.5,30,120,0.25,false
+37,18:14:15.674,RS Target BR,pistol,0.463s,2,2,1,60,120,0.5,false
+38,18:14:17.349,RS Target TL,pistol,0.999s,3,2,0.667,60,180,0.333,false
+39,18:14:18.618,RS Target TR,pistol,0.515s,2,2,1,60,120,0.5,false
+40,18:14:19.870,RS Target TR,pistol,0.503s,2,2,1,60,120,0.5,false
+41,18:14:20.772,RS Target TR,pistol,0.436s,2,2,1,60,120,0.5,false
+42,18:14:22.772,RS Target TR,pistol,1.417s,3,1,0.333,30,180,0.167,false
+43,18:14:23.362,RS Target TR,pistol,0.471s,2,2,1,60,120,0.5,false
+44,18:14:25.350,RS Target TL,pistol,1.284s,3,1,0.333,30,180,0.167,false
+45,18:14:26.965,RS Target BR,pistol,1.305s,3,1,0.333,30,180,0.167,false
+46,18:14:27.555,RS Target TL,pistol,0.453s,2,2,1,60,120,0.5,false
+47,18:14:28.697,RS Target TR,pistol,0.555s,2,2,1,60,120,0.5,false
+48,18:14:30.257,RS Target BL,pistol,0.899s,2,1,0.5,30,120,0.25,false
+49,18:14:31.777,RS Target BL,pistol,1.248s,3,1,0.333,30,180,0.167,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,108,83,2490.0,6480.0,,,,,,false,plus.png,1.0,FFFF00,,,
+
+Kills:,49
+Deaths:,0
+Fight Time:,31.724001
+Avg TTK:,0
+Damage Done:,2490.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,6
+Distance Traveled:,0.0
+Score:,2490.0
+Scenario:,Reactive Clicking
+Hash:,daeb3d1b8f01e17098922fb0b1cc2ca3
+Game Version:,v2.6.3
+Challenge Start:,18:13:32.828
+Pause Count:,28
+Pause Duration:,355
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.5
+Vert Sens:,6.5
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,365.748322
+Resolution Scale,100.0

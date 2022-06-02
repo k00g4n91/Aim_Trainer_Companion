@@ -1,0 +1,78 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,22:16:08.404,RS Target BR,RS Fully-auto,1.086s,22,4,0.182,24,132,0.182,false
+2,22:16:09.784,RS Target TR,RS Fully-auto,0.847s,16,5,0.312,30,96,0.312,false
+3,22:16:11.001,RS Target BL,RS Fully-auto,0.907s,19,2,0.105,12,114,0.105,false
+4,22:16:12.298,RS Target B,RS Fully-auto,0.799s,17,8,0.471,48,102,0.471,false
+5,22:16:13.521,RS Target T,RS Fully-auto,0.894s,18,8,0.444,48,108,0.444,false
+6,22:16:15.004,RS Target TR,RS Fully-auto,0.944s,19,7,0.368,42,114,0.368,false
+7,22:16:16.667,RS Target TL,RS Fully-auto,0.86s,18,4,0.222,24,108,0.222,false
+8,22:16:18.143,RS Target B,RS Fully-auto,0.799s,17,8,0.471,48,102,0.471,false
+9,22:16:19.647,RS Target TL,RS Fully-auto,0.914s,19,5,0.263,30,114,0.263,false
+10,22:16:21.004,RS Target TR,RS Fully-auto,0.834s,17,2,0.118,12,102,0.118,false
+11,22:16:22.527,RS Target BR,RS Fully-auto,1.143s,23,7,0.304,42,138,0.304,false
+12,22:16:24.169,RS Target TL,RS Fully-auto,0.837s,16,2,0.125,12,96,0.125,false
+13,22:16:25.772,RS Target R,RS Fully-auto,1.008s,21,3,0.143,18,126,0.143,false
+14,22:16:27.044,RS Target TL,RS Fully-auto,0.849s,18,8,0.444,48,108,0.444,false
+15,22:16:28.634,RS Target B,RS Fully-auto,1.047s,22,8,0.364,48,132,0.364,false
+16,22:16:30.111,RS Target BR,RS Fully-auto,1.406s,19,6,0.316,36,114,0.316,false
+17,22:16:31.579,RS Target R,RS Fully-auto,0.697s,15,8,0.533,48,90,0.533,false
+18,22:16:33.078,RS Target TR,RS Fully-auto,0.9s,19,8,0.421,48,114,0.421,false
+19,22:16:34.868,RS Target T,RS Fully-auto,1.191s,24,6,0.25,36,144,0.25,false
+20,22:16:36.585,RS Target TL,RS Fully-auto,0.888s,18,7,0.389,42,108,0.389,false
+21,22:16:38.125,RS Target TL,RS Fully-auto,1.405s,20,4,0.2,24,120,0.2,false
+22,22:16:39.791,RS Target TL,RS Fully-auto,0.838s,17,3,0.176,18,102,0.176,false
+23,22:16:41.640,RS Target R,RS Fully-auto,1.115s,23,5,0.217,30,138,0.217,false
+24,22:16:43.194,RS Target BL,RS Fully-auto,0.824s,17,6,0.353,36,102,0.353,false
+25,22:16:44.459,RS Target BL,RS Fully-auto,0.91s,19,4,0.211,24,114,0.211,false
+26,22:16:46.473,RS Target TR,RS Fully-auto,1.234s,25,7,0.28,42,150,0.28,false
+27,22:16:47.881,RS Target T,RS Fully-auto,0.826s,17,6,0.353,36,102,0.353,false
+28,22:16:49.344,RS Target L,RS Fully-auto,0.747s,16,8,0.5,48,96,0.5,false
+29,22:16:50.724,RS Target T,RS Fully-auto,0.86s,18,5,0.278,30,108,0.278,false
+30,22:16:52.054,RS Target TL,RS Fully-auto,0.698s,15,8,0.533,48,90,0.533,false
+31,22:16:53.485,RS Target T,RS Fully-auto,0.797s,17,8,0.471,48,102,0.471,false
+32,22:16:55.136,RS Target BR,RS Fully-auto,1.048s,22,5,0.227,30,132,0.227,false
+33,22:16:56.597,RS Target BL,RS Fully-auto,0.749s,16,8,0.5,48,96,0.5,false
+34,22:16:58.126,RS Target BR,RS Fully-auto,0.858s,18,6,0.333,36,108,0.333,false
+35,22:16:59.258,RS Target TL,RS Fully-auto,0.797s,17,8,0.471,48,102,0.471,false
+36,22:17:00.647,RS Target B,RS Fully-auto,0.913s,19,7,0.368,42,114,0.368,false
+37,22:17:01.955,RS Target TL,RS Fully-auto,0.826s,17,6,0.353,36,102,0.353,false
+38,22:17:03.196,RS Target BL,RS Fully-auto,0.799s,17,8,0.471,48,102,0.471,false
+39,22:17:04.555,RS Target L,RS Fully-auto,0.846s,18,8,0.444,48,108,0.444,false
+40,22:17:05.879,RS Target BL,RS Fully-auto,0.998s,21,6,0.286,36,126,0.286,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+RS Fully-auto,749,244,1464.0,4494.0,
+
+Kills:,40
+Deaths:,0
+Fight Time:,36.938
+Avg TTK:,0
+Damage Done:,1464.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,1464.0
+Scenario:,Reactive Switching
+Hash:,bcad0052e8f96d083baf6d54fe8e0f3d
+Game Version:,2.0.5.3
+Challenge Start:,22:16:06.533
+Pause Count:,19
+Pause Duration:,71
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.5
+Vert Sens:,7.5
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,316.183777
+Resolution Scale,100.0

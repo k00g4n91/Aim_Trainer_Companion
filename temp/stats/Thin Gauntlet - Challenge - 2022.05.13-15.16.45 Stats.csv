@@ -1,0 +1,49 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:13:18.731,smooth_1,Track Master 100,9.131001s,888,600,0.675676,600.000000,888.000000,0.675676,0
+2,15:13:40.422,smooth_2,Track Master 100,21.425001s,1811,1000,0.552181,1000.000000,1811.000000,0.552181,0
+3,15:14:15.852,smooth_3,Track Master 100,35.171001s,3123,900,0.288184,900.000000,3123.000000,0.288184,0
+4,15:14:41.986,smooth_4,Track Master 100,25.875002s,2286,1000,0.437445,1000.000000,2286.000000,0.437445,0
+5,15:15:11.917,smooth_5,Track Master 100,29.672001s,2561,700,0.273331,700.000000,2561.000000,0.273331,0
+6,15:15:33.880,smooth_6,Track Master 100,21.704000s,1799,500,0.277932,500.000000,1799.000000,0.277932,0
+7,15:16:14.277,smooth_7,Track Master 100,40.135002s,3536,700,0.197964,700.000000,3536.000000,0.197964,0
+8,15:16:45.782,smooth_8,Track Master 100,31.491001s,2496,400,0.160256,400.000000,2496.000000,0.160256,0
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,18500,5800,5800.0,18500.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,214.604004
+Avg TTK:,27.100504
+Damage Done:,5800.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,783.214966
+Scenario:,Thin Gauntlet
+Hash:,c9ac12b07df37670e1fe392eafd263d9
+Game Version:,3.0.3
+Challenge Start:,H:M:S.s
+Pause Count:,18
+Pause Duration:,0.0
+
+Input Lag:,0
+Max FPS (config):,144.0
+Sens Scale:,Apex Legends
+Sens Increment:,0.722857
+Horiz Sens:,2.3
+Vert Sens:,2.3
+DPI:,400
+FOV:,110.0
+FOVScale:,Apex Legends
+Hide Gun:,false
+Crosshair:,diamond.png
+Crosshair Scale:,1.2
+Crosshair Color:,0FF0FF000
+Resolution:,1920x1080
+Avg FPS:,143.980118
+Resolution Scale:,100.0

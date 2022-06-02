@@ -1,0 +1,53 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:51:01.777,Quaker Bot Long Strafes,dps,2.446s,50,14,0.28,238,1700,0.14,false
+2,18:51:05.783,Quaker Bot Long Strafes,dps,3.751s,76,22,0.289,374,2584,0.145,false
+3,18:51:12.065,Quaker Bot Long Strafes,dps,5.848s,118,42,0.356,714,4012,0.178,false
+4,18:51:16.563,Quaker Bot Long Strafes,dps,4.448s,86,28,0.326,476,2924,0.163,false
+5,18:51:19.590,Quaker Bot Long Strafes,dps,2.779s,52,19,0.365,323,1768,0.183,false
+6,18:51:23.113,Quaker Bot Long Strafes,dps,3.272s,55,16,0.291,442,1870,0.236,false
+7,18:51:24.732,Quaker Bot Long Strafes,dps,1.365s,24,9,0.375,306,816,0.375,false
+8,18:51:26.524,Quaker Bot Long Strafes,dps,1.537s,23,13,0.565,323,782,0.413,false
+9,18:51:27.289,Quaker Bot Long Strafes,dps,0.201s,5,5,1,170,170,1,false
+10,18:51:40.483,Quaker Bot Long Strafes,dps,12.897s,255,76,0.298,1666,8670,0.192,false
+11,18:51:45.266,Quaker Bot Long Strafes,dps,4.532s,73,38,0.521,646,2482,0.26,false
+12,18:51:46.260,Quaker Bot Long Strafes,dps,0.743s,10,6,0.6,204,340,0.6,false
+13,18:51:48.858,Quaker Bot Long Strafes,dps,2.348s,48,16,0.333,306,1632,0.188,false
+14,18:51:53.974,Quaker Bot Long Strafes,dps,4.866s,92,36,0.391,629,3128,0.201,false
+15,18:51:56.125,Quaker Bot Long Strafes,dps,1.147s,24,10,0.417,170,816,0.208,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+dps,1035,367,7276.0,35190.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,52.18
+Avg TTK:,0
+Damage Done:,7276.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,18638.0
+Scenario:,180 Regen Warzone
+Hash:,fcd51178d9b8e4293e2913bdd0796cd3
+Game Version:,2.0.5.3
+Challenge Start:,18:50:58.541
+Pause Count:,6
+Pause Duration:,40
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,7.0
+Vert Sens:,7.0
+FOV:,100.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,254.464142
+Resolution Scale,100.0

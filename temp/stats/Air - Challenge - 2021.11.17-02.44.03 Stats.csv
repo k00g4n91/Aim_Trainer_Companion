@@ -1,0 +1,49 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,02:39:06.167,air1_close_long,Track Master 100,16.079s,1609,1000,0.622,1000,1609,0.622,false
+2,02:39:26.478,air1_far_long,Track Master 100,20.061s,1824,1000,0.548,1000,1824,0.548,false
+3,02:39:49.258,air_close_short,Track Master 100,22.529s,2038,1000,0.491,1000,2038,0.491,false
+4,02:40:18.265,air1_far_short,Track Master 100,28.756s,2644,1000,0.378,1000,2644,0.378,false
+5,02:40:52.731,air1F_close_long,Track Master 100,34.209s,2861,1000,0.35,1000,2861,0.35,false
+6,02:41:19.227,air1F_far_long,Track Master 100,26.244s,2287,1000,0.437,1000,2287,0.437,false
+7,02:41:57.697,air1F_close_short,Track Master 100,38.218s,3278,1000,0.305,1000,3278,0.305,false
+8,02:42:53.935,air1F_far_short,Track Master 100,55.978s,5251,1000,0.19,1000,5251,0.19,false
+9,02:44:03.543,air1_UFO,Track Master 100,69.589s,5671,1000,0.176,1000,5671,0.176,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,27464,9001,9001.0,27464.0,
+
+Kills:,9
+Deaths:,0
+Fight Time:,311.662994
+Avg TTK:,0
+Damage Done:,9001.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Reloads:,0
+Distance Traveled:,0.0
+Score:,99685.09375
+Scenario:,Air
+Hash:,a4dc16009228327bee0f421c6d7cf963
+Game Version:,v2.6.3
+Challenge Start:,02:38:48.644
+Pause Count:,15
+Pause Duration:,166
+
+Input Lag:,0
+Max FPS (config):,999.0
+Sens Scale:,Call of Duty
+Horiz Sens:,6.5
+Vert Sens:,6.5
+DPI:,400
+FOV:,120.0
+FOVScale:,Custom
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
+Resolution,1920x1080
+Avg FPS,327.120911
+Resolution Scale,100.0

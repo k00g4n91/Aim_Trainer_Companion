@@ -60,6 +60,11 @@ Kills,Avg TTK,Score,Scenario,Date
 73,0.835612,73.0,1w4ts Voltaic,2022-06-01 20:09:20
 71,0.85915,71.0,1w4ts Voltaic,2022-06-01 20:13:33
 72,0.847217,72.0,1w4ts Voltaic,2022-06-01 20:15:05
+77,0.792203,77.0,1w4ts Voltaic,2022-06-03 20:48:41
+77,0.792203,77.0,1w4ts Voltaic,2022-06-03 20:49:53
+71,0.85915,71.0,1w4ts Voltaic,2022-06-03 20:51:01
+79,0.772147,79.0,1w4ts Voltaic,2022-06-03 20:52:31
+79,0.772147,79.0,1w4ts Voltaic,2022-06-03 20:53:43
 891,0.0,725.66815,1wall 1target - 10 Min,2021-08-06 03:46:43
 878,0.0,662.8409,1wall 1target - 10 Min,2021-08-07 06:58:31
 913,0.0,731.20087,1wall 1target - 10 Min,2021-08-08 21:03:47
@@ -565,6 +570,8 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,3613.0,Air Voltaic Easy Invincible 1,2022-05-30 19:28:24
 0,0.0,3339.0,Air Voltaic Easy Invincible 1,2022-06-01 19:12:12
 0,0.0,3796.0,Air Voltaic Easy Invincible 1,2022-06-01 19:13:18
+0,0.0,3442.0,Air Voltaic Easy Invincible 1,2022-06-03 19:40:56
+0,0.0,3731.0,Air Voltaic Easy Invincible 1,2022-06-03 19:42:28
 0,0.0,2132.0,Air Voltaic Easy Invincible 2,2022-05-26 17:39:11
 0,0.0,2131.0,Air Voltaic Easy Invincible 2,2022-05-26 17:40:53
 0,0.0,2149.0,Air Voltaic Easy Invincible 2,2022-05-26 17:42:42
@@ -577,6 +584,9 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,2018.0,Air Voltaic Easy Invincible 2,2022-06-01 19:08:26
 0,0.0,2346.0,Air Voltaic Easy Invincible 2,2022-06-01 19:09:33
 0,0.0,2399.0,Air Voltaic Easy Invincible 2,2022-06-01 19:11:01
+0,0.0,2328.0,Air Voltaic Easy Invincible 2,2022-06-03 19:36:50
+0,0.0,2077.0,Air Voltaic Easy Invincible 2,2022-06-03 19:38:38
+0,0.0,2328.0,Air Voltaic Easy Invincible 2,2022-06-03 19:39:50
 3,20.333214,1639.9631,AirNunsEasy60s,2022-05-15 22:41:27
 4,15.24991,1638.449,AirNunsEasy60s,2022-05-15 22:45:18
 4,15.24991,1701.3232,AirNunsEasy60s,2022-05-15 22:46:24
@@ -770,6 +780,11 @@ Kills,Avg TTK,Score,Scenario,Date
 82,0.990792,82.0,B180 Voltaic Silver,2022-06-01 19:41:35
 86,0.946776,86.0,B180 Voltaic Silver,2022-06-01 19:43:43
 91,0.892801,91.0,B180 Voltaic Silver,2022-06-01 19:44:58
+83,0.978855,83.0,B180 Voltaic Silver,2022-06-03 20:17:26
+79,1.030667,79.0,B180 Voltaic Silver,2022-06-03 20:18:42
+83,0.978855,83.0,B180 Voltaic Silver,2022-06-03 20:21:52
+85,0.957914,85.0,B180 Voltaic Silver,2022-06-03 20:23:03
+78,1.041602,78.0,B180 Voltaic Silver,2022-06-03 20:24:13
 63,1.289602,63.8,B180T Voltaic Silver,2022-05-26 19:47:59
 62,1.313269,62.0,B180T Voltaic Silver,2022-05-26 19:49:03
 64,1.269452,64.200005,B180T Voltaic Silver,2022-05-26 19:50:07
@@ -790,6 +805,11 @@ Kills,Avg TTK,Score,Scenario,Date
 64,1.269452,64.200005,B180T Voltaic Silver,2022-06-01 20:18:56
 64,1.27223,64.0,B180T Voltaic Silver,2022-06-01 20:20:00
 67,1.212611,67.0,B180T Voltaic Silver,2022-06-01 20:21:21
+66,1.230984,66.0,B180T Voltaic Silver,2022-06-03 20:54:57
+63,1.292424,63.0,B180T Voltaic Silver,2022-06-03 20:56:06
+70,1.160642,70.0,B180T Voltaic Silver,2022-06-03 20:57:44
+64,1.27223,64.8,B180T Voltaic Silver,2022-06-03 20:58:55
+62,1.310402,62.600002,B180T Voltaic Silver,2022-06-03 21:00:05
 0,0.0,2808.0,B180TI Sparky,2022-05-15 21:54:18
 0,0.0,3108.0,B180TI Sparky,2022-05-15 21:55:30
 0,0.0,2976.0,B180TI Sparky,2022-05-15 21:56:35
@@ -1023,6 +1043,8 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,7596.0,Centering I 90 no strafes,2022-05-30 19:20:00
 0,0.0,6066.0,Centering I 90 no strafes,2022-06-01 19:05:59
 0,0.0,6660.0,Centering I 90 no strafes,2022-06-01 19:07:05
+0,0.0,7110.0,Centering I 90 no strafes,2022-06-03 19:34:22
+0,0.0,8316.0,Centering I 90 no strafes,2022-06-03 19:35:31
 40,1.499991,931.45746,CIC2LS,2022-05-14 12:04:00
 37,1.621612,782.1535,CIC2LS,2022-05-14 12:05:04
 37,1.621612,737.2899,CIC2LS,2022-05-14 12:06:15
@@ -1493,6 +1515,9 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,2247.0,Ground Plaza Voltaic Easy Invincible 1,2022-06-01 19:18:09
 0,0.0,2214.0,Ground Plaza Voltaic Easy Invincible 1,2022-06-01 19:19:15
 0,0.0,2230.0,Ground Plaza Voltaic Easy Invincible 1,2022-06-01 19:20:38
+0,0.0,1896.0,Ground Plaza Voltaic Easy Invincible 1,2022-06-03 19:49:00
+0,0.0,2212.0,Ground Plaza Voltaic Easy Invincible 1,2022-06-03 19:50:04
+0,0.0,2159.0,Ground Plaza Voltaic Easy Invincible 1,2022-06-03 19:51:28
 0,0.0,2875.0,Ground Plaza Voltaic Easy Invincible 2,2022-05-26 17:46:44
 0,0.0,2901.0,Ground Plaza Voltaic Easy Invincible 2,2022-05-26 17:47:48
 0,0.0,2580.0,Ground Plaza Voltaic Easy Invincible 2,2022-05-26 17:48:52
@@ -1505,6 +1530,9 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,2854.0,Ground Plaza Voltaic Easy Invincible 2,2022-06-01 19:14:25
 0,0.0,2866.0,Ground Plaza Voltaic Easy Invincible 2,2022-06-01 19:15:37
 0,0.0,2852.0,Ground Plaza Voltaic Easy Invincible 2,2022-06-01 19:17:05
+0,0.0,2837.0,Ground Plaza Voltaic Easy Invincible 2,2022-06-03 19:43:33
+0,0.0,2741.0,Ground Plaza Voltaic Easy Invincible 2,2022-06-03 19:46:21
+0,0.0,2620.0,Ground Plaza Voltaic Easy Invincible 2,2022-06-03 19:47:28
 0,0.0,15672.0,Horizontal Bounce Dodge with Crouch,2022-05-15 11:11:35
 0,0.0,16518.0,Horizontal Bounce Dodge with Crouch,2022-05-15 11:12:40
 0,0.0,14952.0,Horizontal Bounce Dodge with Crouch,2022-05-15 11:15:57
@@ -1550,6 +1578,10 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,10350.0,Kindaclose Fast Strafes Silver,2022-06-01 19:22:58
 0,0.0,9558.0,Kindaclose Fast Strafes Silver,2022-06-01 19:24:09
 0,0.0,10548.0,Kindaclose Fast Strafes Silver,2022-06-01 19:25:17
+0,0.0,9702.0,Kindaclose Fast Strafes Silver,2022-06-03 19:52:35
+0,0.0,10386.0,Kindaclose Fast Strafes Silver,2022-06-03 19:53:58
+0,0.0,9126.0,Kindaclose Fast Strafes Silver,2022-06-03 19:56:51
+0,0.0,8298.0,Kindaclose Fast Strafes Silver,2022-06-03 19:57:56
 0,0.0,10296.0,Kindaclose Mid Strafes,2022-05-15 16:30:02
 0,0.0,10116.0,Kindaclose Mid Strafes,2022-05-15 16:31:11
 0,0.0,12042.0,Kindaclose Mid Strafes,2022-05-15 16:32:27
@@ -1760,6 +1792,11 @@ Kills,Avg TTK,Score,Scenario,Date
 79,0.96519,70.216736,Pasu Voltaic Silver ,2022-06-01 19:36:00
 72,1.059028,61.714287,Pasu Voltaic Silver ,2022-06-01 19:37:06
 78,0.977564,67.22755,Pasu Voltaic Silver ,2022-06-01 19:38:19
+64,1.191406,51.98572,Pasu Voltaic Silver ,2022-06-03 20:10:16
+71,1.073944,61.705463,Pasu Voltaic Silver ,2022-06-03 20:11:53
+73,1.04452,64.33101,Pasu Voltaic Silver ,2022-06-03 20:13:24
+79,0.96519,68.20052,Pasu Voltaic Silver ,2022-06-03 20:14:54
+70,1.089286,58.27555,Pasu Voltaic Silver ,2022-06-03 20:16:15
 51,1.176464,3800.0,patTargetSwitch Small No Reload,2022-05-14 12:28:29
 55,1.090903,4170.0,patTargetSwitch Small No Reload,2022-05-14 12:29:34
 52,1.15384,3920.0,patTargetSwitch Small No Reload,2022-05-14 12:30:39
@@ -1866,6 +1903,11 @@ Kills,Avg TTK,Score,Scenario,Date
 81,0.753082,81.25,patTS Voltaic Silver,2022-06-01 20:25:08
 81,0.753082,81.75,patTS Voltaic Silver,2022-06-01 20:26:16
 81,0.753082,81.25,patTS Voltaic Silver,2022-06-01 20:27:44
+79,0.772147,79.25,patTS Voltaic Silver,2022-06-03 21:01:18
+79,0.772147,79.0,patTS Voltaic Silver,2022-06-03 21:02:22
+84,0.726186,84.25,patTS Voltaic Silver,2022-06-03 21:03:56
+81,0.753082,81.75,patTS Voltaic Silver,2022-06-03 21:05:21
+79,0.772147,79.75,patTS Voltaic Silver,2022-06-03 21:06:34
 0,0.0,2275.0,PGTI Vertical Silver,2022-05-26 17:58:03
 0,0.0,2504.0,PGTI Vertical Silver,2022-05-26 17:59:11
 0,0.0,2636.0,PGTI Vertical Silver,2022-05-26 18:00:16
@@ -1882,6 +1924,10 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,3125.0,PGTI Vertical Silver,2022-06-01 19:27:55
 0,0.0,3106.0,PGTI Vertical Silver,2022-06-01 19:29:07
 0,0.0,3407.0,PGTI Vertical Silver,2022-06-01 19:30:24
+0,0.0,2744.0,PGTI Vertical Silver,2022-06-03 19:59:11
+0,0.0,2816.0,PGTI Vertical Silver,2022-06-03 20:00:26
+0,0.0,2960.0,PGTI Vertical Silver,2022-06-03 20:02:01
+0,0.0,3065.0,PGTI Vertical Silver,2022-06-03 20:03:46
 16,0.0,0.0,Plaza high ground 5 min,2021-10-26 11:32:07
 15,0.0,0.0,Plaza high ground 5 min,2021-10-29 06:56:56
 16,0.0,0.0,Plaza high ground 5 min,2021-10-31 18:10:39
@@ -1926,6 +1972,11 @@ Kills,Avg TTK,Score,Scenario,Date
 120,0.702494,216.70758,Pokeball 1w4t shrink,2022-06-01 19:56:16
 120,0.684161,218.88065,Pokeball 1w4t shrink,2022-06-01 19:57:50
 120,0.71666,214.96028,Pokeball 1w4t shrink,2022-06-01 19:59:48
+120,0.73166,213.1491,Pokeball 1w4t shrink,2022-06-03 20:33:37
+120,0.73666,212.63724,Pokeball 1w4t shrink,2022-06-03 20:35:23
+120,0.702494,216.6296,Pokeball 1w4t shrink,2022-06-03 20:37:00
+120,0.722494,214.34506,Pokeball 1w4t shrink,2022-06-03 20:38:41
+120,0.760826,209.69408,Pokeball 1w4t shrink,2022-06-03 20:40:34
 0,0.0,0.0,,2022-05-15 10:59:38
 0,0.0,14111.983,Pole Long Dodge,2021-11-02 15:14:43
 0,0.0,17930.945,Pole Long Dodge,2021-11-02 15:15:48
@@ -2485,6 +2536,11 @@ Kills,Avg TTK,Score,Scenario,Date
 120,0.635417,120.0,Tamspeed 2bp Silver,2022-06-01 19:48:36
 130,0.586538,130.0,Tamspeed 2bp Silver,2022-06-01 19:49:40
 140,0.544643,140.0,Tamspeed 2bp Silver,2022-06-01 19:51:24
+123,0.619919,123.0,Tamspeed 2bp Silver,2022-06-03 20:25:38
+135,0.564815,135.0,Tamspeed 2bp Silver,2022-06-03 20:27:45
+121,0.630165,121.0,Tamspeed 2bp Silver,2022-06-03 20:29:07
+131,0.582061,131.0,Tamspeed 2bp Silver,2022-06-03 20:30:43
+131,0.582061,131.0,Tamspeed 2bp Silver,2022-06-03 20:31:51
 33,0.0,33.0,Tamspeed 2bpes,2021-07-28 23:05:09
 42,0.0,42.0,Tamspeed 2bpes,2021-07-28 23:06:14
 55,0.0,55.0,Tamspeed 2bpes,2021-07-29 17:50:53
@@ -3128,6 +3184,10 @@ Kills,Avg TTK,Score,Scenario,Date
 0,0.0,1818.0,VT PreciseOrb Novice,2022-05-26 16:24:39
 73,0.982123,729.99854,VT psalmTS Novice,2022-05-26 16:27:43
 91,0.744808,910.0,VT skyTS Novice,2022-05-26 16:29:02
+0,0.0,908.0,VT Smoothbot Advanced XSmall,2022-06-03 20:05:05
+0,0.0,977.0,VT Smoothbot Advanced XSmall,2022-06-03 20:06:11
+0,0.0,989.0,VT Smoothbot Advanced XSmall,2022-06-03 20:07:16
+0,0.0,1160.0,VT Smoothbot Advanced XSmall,2022-06-03 20:09:01
 0,0.0,2581.0,VT Smoothbot Novice,2022-05-26 16:23:21
 8,0.0,1122.5331,Warzone  tracking very close,2021-11-05 15:26:50
 2,0.0,11145.177,Warzone High Ground Tracking,2021-07-28 22:54:31
@@ -3281,3 +3341,8 @@ Kills,Avg TTK,Score,Scenario,Date
 88,0.693178,88.0,ww3t Voltaic,2022-06-01 20:03:15
 91,0.670326,91.0,ww3t Voltaic,2022-06-01 20:04:25
 89,0.685389,89.0,ww3t Voltaic,2022-06-01 20:05:43
+93,0.65591,93.0,ww3t Voltaic,2022-06-03 20:41:41
+87,0.701145,87.0,ww3t Voltaic,2022-06-03 20:43:02
+90,0.677774,90.0,ww3t Voltaic,2022-06-03 20:44:14
+87,0.701145,87.0,ww3t Voltaic,2022-06-03 20:46:14
+89,0.685389,89.0,ww3t Voltaic,2022-06-03 20:47:28

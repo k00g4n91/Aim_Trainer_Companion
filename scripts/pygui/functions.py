@@ -6,18 +6,18 @@ from datetime import date
 import csv
 import time
 import zipfile
-import requests
-import steam
-from steam.steamid import SteamID
-from steam.webapi import WebAPI, get
-import steamleaderboards as sl
 import os,sys,stat
-from zipfile import ZipFile, ZipInfo
 import difflib
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
 
+#find and clean data
 def find_folder(dataDir):
   #dataDir = 'G:\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\stats'
   target = ['Kills:', 'Avg TTK:', 'Score:', 'Scenario:','Damage Done:']
@@ -55,8 +55,8 @@ def find_folder(dataDir):
   stats['Date'] = pd.to_datetime(stats['Date'], yearfirst=True, format=('%Y.%m.%d-%H.%M.%S'),exact=False)
 
   stats.to_csv("data/stats.csv", index=False)
-#find and clean data
 
+#find the closest match to the user input routine
 def find_closest_match(stats,user_input):
 
   scenario_names = (stats['Scenario'].unique()).astype(str)
@@ -65,8 +65,8 @@ def find_closest_match(stats,user_input):
       return closest_match  
   except Exception:
       print('we can\'t find that scenario. Did u spel it rite?')
-#find the closest match to the user input routine
 
+#search for your highest score
 def search_hs_scenario(closest_match, stats, dataDir):
 
   #scenario_names = (stats['Scenario'].unique()).astype(str)
@@ -135,8 +135,8 @@ def search_hs_scenario(closest_match, stats, dataDir):
   high_score_df['ms'] = (high_score_df['Time'] - high_score_df['Time'].iloc[0]) / pd.to_timedelta('1ms')
 
   high_score_df.to_csv('data/high_score_df.csv',index=False)
-#search for your highest score
 
+#graphs of your stats
 def make_graphs_png(temp_df,closest_match):
     #temp_df = stats.loc[stats['Scenario']==closest_match]
 
@@ -180,10 +180,33 @@ def make_graphs_png(temp_df,closest_match):
             linewidth=2, markersize=2)
         plt.savefig('data/progress_graph.png')
         plt.show()
-    
-      
-# line and linear regression of your progress
 
+# line and linear regression of your progress
+def prediction_graph(temp_df):
+    temp_df['Days']= range(1,len(temp_df['Date'])+1)
+
+    y = np.array(temp_df['Score']).reshape(-1, 1)
+    X = np.array(temp_df['Days'])[:, np.newaxis]
+    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=.75, random_state=8)
+
+    pr = LinearRegression()
+    cubic = PolynomialFeatures(degree=3)
+    X_cube = cubic.fit_transform(X)
+    
+    X_fit = np.arange(0, X.max()+7, 1)[:, np.newaxis]
+    pr.fit(X_cube, y)
+    y_cube_fit = pr.predict(cubic.fit_transform(X_fit))
+    
+    plt.figure(figsize=(20,10))
+    plt.grid(which='both')
+    plt.scatter(X, y)
+    plt.plot(X_fit, y_cube_fit)
+    plt.legend(loc='upper left')
+    plt.savefig('data/prediction_graph.png')
+    plt.show()
+
+# replays your high score kill number and counts
+# them up in realtime
 def hs_timer(high_score_df):
     score_kills = 0
 
@@ -209,9 +232,8 @@ def hs_timer(high_score_df):
                     print(f'finished! Current HighScore:{score_kills}',end='\r')
             except Exception:
                 break
-# replays your high score kill number and counts
-# them up in realtime
 
+# shows you your percentage improvement since beginning the routine
 def progress_stats(temp_df,closest_match):
     
     max_score = max(temp_df['Score'])
@@ -226,7 +248,6 @@ def progress_stats(temp_df,closest_match):
         ttk_percent_diff = round((ttk_diff/slowest_ttk)*100,2)
         print(f'{ttk_percent_diff}% or {ttk_diff} points improvement')
     else:
-        print(f'Kovaaks did not provide any TTK information for this routine, try another')
+        print('Kovaaks did not provide any TTK information for this routine, try another')
 
     print(f'{score_diff} points or {scor_percent_diff}% between your lowest and highest scores')
-# shows you your percentage improvement since beginning the routine

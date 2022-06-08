@@ -6,22 +6,22 @@ import shutil
 from datetime import date
 import csv
 import time
-import zipfile
-import requests
 import steam
-from steam.steamid import SteamID
-from steam.webapi import WebAPI, get
-import steamleaderboards as sl
 import os,sys,stat
 from zipfile import ZipFile, ZipInfo
 import difflib
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
-from streamlit import stop
-from functions import find_folder, search_hs_scenario, hs_timer, find_closest_match, make_graphs_png
+from functions import find_folder, search_hs_scenario, hs_timer, find_closest_match, make_graphs_png, prediction_graph, progress_stats
 from math import sin
 import sys
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
+import matplotlib.pyplot as plt
 
 dpg.create_context()
 
@@ -47,6 +47,7 @@ def routine_callback(sender,app_data):
     global high_score_df
     global current_hs
 
+    
     if app_data:  
         print(f'user input: {app_data}')
 
@@ -54,6 +55,7 @@ def routine_callback(sender,app_data):
         stats = pd.read_csv('data/stats.csv')
         scenario_names = (stats['Scenario'].unique()).astype(str)
         closest_match = find_closest_match(stats,user_input)
+    
 
         print(f'retrieving data for routine: {closest_match}')
         
@@ -91,6 +93,12 @@ def update_callback(sender,app_data):
         except Exception:
             print('Error')
     
+def future_callback(sender,app_data):
+    if sender:
+        prediction_graph(temp_df)
+        with dpg.window(label="Progress Graphs", autosize=True):
+            dpg.add_image('data/prediction_graph.png',width=100,height=100)
+
 dpg.add_file_dialog(show=False, callback=dir_callback, tag="file_dialog_id", default_filename= '')
 dpg.create_viewport(title='Trackflix', width=800, height=500)
 with dpg.window(label="Directory and Routine",autosize=True,tag='Primary Window'):
@@ -107,6 +115,10 @@ with dpg.window(label="Directory and Routine",autosize=True,tag='Primary Window'
     dpg.add_button(label='Start timer',callback=timer_callback)
     dpg.add_spacer(height=10)
     dpg.add_button(label='Manual retrieve routine latest score',callback=update_callback)
+    dpg.add_spacer(height=10)
+    dpg.add_button(label='SEE YOUR FUTURE :O',callback=future_callback)
+    dpg.add_text('DISCLAIMER: The above time machine is not 100% accurate')
+    
 dpg.setup_dearpygui()
 dpg.show_viewport()
 dpg.start_dearpygui()

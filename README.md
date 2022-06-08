@@ -1,7 +1,9 @@
 # Aim_Training_Companion_Project
 W.I.P
 
-## (Must have Kovaaks Aim trainer or a folder of stats to draw from when running this code
+## (Must have Kovaaks Aim trainer or a folder of stats to draw from when running this code)
+
+**Be sure to open the entire FOLDER with your IDE. Not just a single file. Otherwise the file paths will be incorrect.**
 
 Hi guys,
 
@@ -15,6 +17,6 @@ I hope you enjoy it. I will continue to upload more as I develop the idea furthe
 
 All suggestions are welcome!
 
-**Be sure to open the entire FOLDER with your IDE. Not just a single file. Otherwise the file paths will be incorrect.**
+Koogan
 
--Requirements.txt in the scripts folder-
+
